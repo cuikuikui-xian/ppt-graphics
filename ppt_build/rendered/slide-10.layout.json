@@ -1,0 +1,842 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/164cyl",
+    "id": "164cyl",
+    "slide": 10,
+    "layoutId": "9f920b21-3b03-490d-9ada-af4d93c3637b",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "b9620f64-8e60-4f1f-96df-16b17b3808f9",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "9f920b21-3b03-490d-9ada-af4d93c3637b",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "b9620f64-8e60-4f1f-96df-16b17b3808f9",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "b9620f64-8e60-4f1f-96df-16b17b3808f9",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zetsb6lk",
+      "id": "1",
+      "name": "kicker-10",
+      "bbox": [
+        42,
+        34,
+        420,
+        24
+      ],
+      "geometry": "rect",
+      "text": "反例与修正",
+      "textPreview": "反例与修正",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#3D8DFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "反例与修正"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "反例与修正",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#3D8DFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "反例与修正",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#3D8DFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0f2t4rm5",
+      "id": "2",
+      "name": "title-10",
+      "bbox": [
+        42,
+        68,
+        1196,
+        70
+      ],
+      "geometry": "rect",
+      "text": "当造型和动作冲突，用户只能靠猜",
+      "textPreview": "当造型和动作冲突，用户只能靠猜",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 48,
+        "typeface": "Microsoft YaHei",
+        "color": "#0A0D12",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "当造型和动作冲突，用户只能靠猜"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "当造型和动作冲突，用户只能靠猜",
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "Microsoft YaHei",
+            "color": "#0A0D12",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "当造型和动作冲突，用户只能靠猜",
+              "fontSize": 48,
+              "typeface": "Microsoft YaHei",
+              "color": "#0A0D12",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/10badw3a",
+      "id": "3",
+      "name": "rule",
+      "bbox": [
+        42,
+        154,
+        1196,
+        0
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "#B8BCC4",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q90byh4n",
+      "id": "4",
+      "name": "bad-title",
+      "bbox": [
+        42,
+        206,
+        520,
+        38
+      ],
+      "geometry": "rect",
+      "text": "冲突的形态",
+      "textPreview": "冲突的形态",
+      "resolvedFontSize": 29,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 29,
+        "typeface": "Microsoft YaHei",
+        "color": "#E53935",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "冲突的形态"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "冲突的形态",
+          "resolvedTextStyle": {
+            "fontSize": 29,
+            "typeface": "Microsoft YaHei",
+            "color": "#E53935",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "冲突的形态",
+              "fontSize": 29,
+              "typeface": "Microsoft YaHei",
+              "color": "#E53935",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ra9s7ml8",
+      "id": "5",
+      "name": "bad-copy",
+      "bbox": [
+        42,
+        270,
+        520,
+        190
+      ],
+      "geometry": "rect",
+      "text": "门上安装可抓握的拉手，实际却只能向前推；\n旋钮顺时针旋转，结果却对应数值降低；\n危险控制与普通按键尺寸、颜色完全相同。",
+      "textPreview": "门上安装可抓握的拉手，实际却只能向前推； | 旋钮顺时针旋转，结果却对应数值降低； | 危险控制与普通按键尺寸、颜色完全相同。",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 23,
+        "typeface": "Microsoft YaHei",
+        "color": "#0A0D12",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "门上安装可抓握的拉手，实际却只能向前推；"
+          },
+          {
+            "index": 2,
+            "text": "旋钮顺时针旋转，结果却对应数值降低；"
+          },
+          {
+            "index": 3,
+            "text": "危险控制与普通按键尺寸、颜色完全相同。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "门上安装可抓握的拉手，实际却只能向前推；",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Microsoft YaHei",
+            "color": "#0A0D12",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "门上安装可抓握的拉手，实际却只能向前推；",
+              "fontSize": 23,
+              "typeface": "Microsoft YaHei",
+              "color": "#0A0D12",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "旋钮顺时针旋转，结果却对应数值降低；",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Microsoft YaHei",
+            "color": "#0A0D12",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "旋钮顺时针旋转，结果却对应数值降低；",
+              "fontSize": 23,
+              "typeface": "Microsoft YaHei",
+              "color": "#0A0D12",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "危险控制与普通按键尺寸、颜色完全相同。",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Microsoft YaHei",
+            "color": "#0A0D12",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "危险控制与普通按键尺寸、颜色完全相同。",
+              "fontSize": 23,
+              "typeface": "Microsoft YaHei",
+              "color": "#0A0D12",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cbit0rmt",
+      "id": "6",
+      "name": "divider",
+      "bbox": [
+        616,
+        202,
+        2,
+        360
+      ],
+      "geometry": "rect",
+      "fillColor": "#B8BCC4",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dcra9w3e",
+      "id": "7",
+      "name": "good-title",
+      "bbox": [
+        674,
+        206,
+        520,
+        38
+      ],
+      "geometry": "rect",
+      "text": "一致的形态",
+      "textPreview": "一致的形态",
+      "resolvedFontSize": 29,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 29,
+        "typeface": "Microsoft YaHei",
+        "color": "#3AA981",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "一致的形态"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "一致的形态",
+          "resolvedTextStyle": {
+            "fontSize": 29,
+            "typeface": "Microsoft YaHei",
+            "color": "#3AA981",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "一致的形态",
+              "fontSize": 29,
+              "typeface": "Microsoft YaHei",
+              "color": "#3AA981",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a54bal47",
+      "id": "8",
+      "name": "good-copy",
+      "bbox": [
+        674,
+        270,
+        520,
+        190
+      ],
+      "geometry": "rect",
+      "text": "让可见形态与真实动作一致；\n让控制方向与结果变化一致；\n让视觉显著性与风险等级一致。",
+      "textPreview": "让可见形态与真实动作一致； | 让控制方向与结果变化一致； | 让视觉显著性与风险等级一致。",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 23,
+        "typeface": "Microsoft YaHei",
+        "color": "#0A0D12",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "让可见形态与真实动作一致；"
+          },
+          {
+            "index": 2,
+            "text": "让控制方向与结果变化一致；"
+          },
+          {
+            "index": 3,
+            "text": "让视觉显著性与风险等级一致。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "让可见形态与真实动作一致；",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Microsoft YaHei",
+            "color": "#0A0D12",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "让可见形态与真实动作一致；",
+              "fontSize": 23,
+              "typeface": "Microsoft YaHei",
+              "color": "#0A0D12",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "让控制方向与结果变化一致；",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Microsoft YaHei",
+            "color": "#0A0D12",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "让控制方向与结果变化一致；",
+              "fontSize": 23,
+              "typeface": "Microsoft YaHei",
+              "color": "#0A0D12",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "让视觉显著性与风险等级一致。",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Microsoft YaHei",
+            "color": "#0A0D12",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "让视觉显著性与风险等级一致。",
+              "fontSize": 23,
+              "typeface": "Microsoft YaHei",
+              "color": "#0A0D12",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b6dcjqls",
+      "id": "9",
+      "name": "anti-takeaway",
+      "bbox": [
+        42,
+        520,
+        1152,
+        76
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#EAF5FB",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7mtkjmls",
+      "id": "10",
+      "name": "anti-summary",
+      "bbox": [
+        70,
+        542,
+        1096,
+        34
+      ],
+      "geometry": "rect",
+      "text": "问题不在于用户“不会用”，而在于产品给出了相互矛盾的信息。",
+      "textPreview": "问题不在于用户“不会用”，而在于产品给出了相互矛盾的信息。",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "Microsoft YaHei",
+        "color": "#3D8DFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "问题不在于用户“不会用”，而在于产品给出了相互矛盾的信息。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "问题不在于用户“不会用”，而在于产品给出了相互矛盾的信息。",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "Microsoft YaHei",
+            "color": "#3D8DFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "问题不在于用户“不会用”，而在于产品给出了相互矛盾的信息。",
+              "fontSize": 25,
+              "typeface": "Microsoft YaHei",
+              "color": "#3D8DFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6l03qhk7",
+      "id": "11",
+      "name": "footer-10",
+      "bbox": [
+        42,
+        664,
+        420,
+        20
+      ],
+      "geometry": "rect",
+      "text": "产品形态语义设计",
+      "textPreview": "产品形态语义设计",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Microsoft YaHei",
+        "color": "#596273",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "产品形态语义设计"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "产品形态语义设计",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Microsoft YaHei",
+            "color": "#596273",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "产品形态语义设计",
+              "fontSize": 14,
+              "typeface": "Microsoft YaHei",
+              "color": "#596273",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t8b2lc3y",
+      "id": "12",
+      "name": "page-10",
+      "bbox": [
+        1180,
+        660,
+        58,
+        24
+      ],
+      "geometry": "rect",
+      "text": "10",
+      "textPreview": "10",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Microsoft YaHei",
+        "color": "#596273",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "10"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "10",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Microsoft YaHei",
+            "color": "#596273",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "10",
+              "fontSize": 14,
+              "typeface": "Microsoft YaHei",
+              "color": "#596273",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

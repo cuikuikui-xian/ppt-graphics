@@ -1,0 +1,1747 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/okvv06",
+    "id": "okvv06",
+    "slide": 2,
+    "layoutId": "e4f95863-b8c9-4f34-b534-d7c70c8d9859",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "878080c4-eebc-4595-89dc-b6e0aca262d7",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1000,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "e4f95863-b8c9-4f34-b534-d7c70c8d9859",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "878080c4-eebc-4595-89dc-b6e0aca262d7",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "878080c4-eebc-4595-89dc-b6e0aca262d7",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i5ovi9k3",
+      "id": "1",
+      "name": "s2-small-supply",
+      "bbox": [
+        202,
+        263,
+        211,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/58zed43e",
+      "id": "2",
+      "name": "s2-small-supply-head",
+      "bbox": [
+        394,
+        252,
+        28,
+        22
+      ],
+      "geometry": "rightArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47qdkz2t",
+      "id": "3",
+      "name": "s2-small-return",
+      "bbox": [
+        202,
+        339,
+        211,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v2xc7ulc",
+      "id": "4",
+      "name": "s2-small-return-head",
+      "bbox": [
+        200,
+        328,
+        28,
+        22
+      ],
+      "geometry": "leftArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u1ovep4r",
+      "id": "5",
+      "name": "s2-large-supply",
+      "bbox": [
+        202,
+        474,
+        211,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4fu943i",
+      "id": "6",
+      "name": "s2-large-supply-head",
+      "bbox": [
+        394,
+        463,
+        28,
+        22
+      ],
+      "geometry": "rightArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w36dgz2x",
+      "id": "7",
+      "name": "s2-large-return",
+      "bbox": [
+        202,
+        551,
+        211,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fyhwjelg",
+      "id": "8",
+      "name": "s2-large-return-head",
+      "bbox": [
+        200,
+        540,
+        28,
+        22
+      ],
+      "geometry": "leftArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ex8vqtkv",
+      "id": "9",
+      "name": "s2-contact-line",
+      "bbox": [
+        753,
+        406,
+        111,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gvu9k3ed",
+      "id": "10",
+      "name": "s2-contact-left",
+      "bbox": [
+        744,
+        395,
+        28,
+        22
+      ],
+      "geometry": "leftArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1wnqt8fi",
+      "id": "11",
+      "name": "s2-contact-right",
+      "bbox": [
+        850,
+        395,
+        28,
+        22
+      ],
+      "geometry": "rightArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/etcridg7",
+      "id": "12",
+      "name": "s2-liquid-boundary",
+      "bbox": [
+        28,
+        181,
+        198,
+        444
+      ],
+      "geometry": "rect",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ful8ryxs",
+      "id": "13",
+      "name": "s2-small-module",
+      "bbox": [
+        45,
+        229,
+        157,
+        153
+      ],
+      "geometry": "rect",
+      "text": "小流量\n供液模块",
+      "textPreview": "小流量 | 供液模块",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 28,
+        "typeface": "+mn-lt",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "小流量"
+          },
+          {
+            "index": 2,
+            "text": "供液模块"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "小流量",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "小流量",
+              "fontSize": 28,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "供液模块",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "供液模块",
+              "fontSize": 28,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s7u9g3y1",
+      "id": "14",
+      "name": "s2-large-module",
+      "bbox": [
+        45,
+        435,
+        157,
+        153
+      ],
+      "geometry": "rect",
+      "text": "大流量\n供液模块",
+      "textPreview": "大流量 | 供液模块",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 28,
+        "typeface": "+mn-lt",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "大流量"
+          },
+          {
+            "index": 2,
+            "text": "供液模块"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "大流量",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "大流量",
+              "fontSize": 28,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "供液模块",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "供液模块",
+              "fontSize": 28,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ts3qp8fm",
+      "id": "15",
+      "name": "s2-liquid-title",
+      "bbox": [
+        73,
+        641,
+        108,
+        40
+      ],
+      "geometry": "rect",
+      "text": "液冷",
+      "textPreview": "液冷",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 27,
+        "typeface": "+mn-lt",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "液冷"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "液冷",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "液冷",
+              "fontSize": 27,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/65cretgv",
+      "id": "16",
+      "name": "s2-y52",
+      "bbox": [
+        222,
+        218,
+        55,
+        36
+      ],
+      "geometry": "rect",
+      "text": "Y52",
+      "textPreview": "Y52",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Y52"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Y52",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Y52",
+              "fontSize": 20,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r6l8nyxg",
+      "id": "17",
+      "name": "s2-y61",
+      "bbox": [
+        332,
+        218,
+        55,
+        36
+      ],
+      "geometry": "rect",
+      "text": "Y61",
+      "textPreview": "Y61",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Y61"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Y61",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Y61",
+              "fontSize": 20,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/43apcjy5",
+      "id": "18",
+      "name": "s2-dn8",
+      "bbox": [
+        268,
+        284,
+        70,
+        34
+      ],
+      "geometry": "rect",
+      "text": "DN8",
+      "textPreview": "DN8",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#111111",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DN8"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DN8",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#111111",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DN8",
+              "fontSize": 18,
+              "color": "#111111",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/54jqlofq",
+      "id": "19",
+      "name": "s2-y51",
+      "bbox": [
+        222,
+        350,
+        55,
+        36
+      ],
+      "geometry": "rect",
+      "text": "Y51",
+      "textPreview": "Y51",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Y51"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Y51",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Y51",
+              "fontSize": 20,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lobytg32",
+      "id": "20",
+      "name": "s2-y64",
+      "bbox": [
+        332,
+        350,
+        55,
+        36
+      ],
+      "geometry": "rect",
+      "text": "Y64",
+      "textPreview": "Y64",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Y64"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Y64",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Y64",
+              "fontSize": 20,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kn2x0bmh",
+      "id": "21",
+      "name": "s2-y54",
+      "bbox": [
+        222,
+        424,
+        55,
+        36
+      ],
+      "geometry": "rect",
+      "text": "Y54",
+      "textPreview": "Y54",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Y54"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Y54",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Y54",
+              "fontSize": 20,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zm9grqlw",
+      "id": "22",
+      "name": "s2-y62",
+      "bbox": [
+        332,
+        424,
+        55,
+        36
+      ],
+      "geometry": "rect",
+      "text": "Y62",
+      "textPreview": "Y62",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Y62"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Y62",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Y62",
+              "fontSize": 20,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yl0fyl4r",
+      "id": "23",
+      "name": "s2-dn12",
+      "bbox": [
+        266,
+        496,
+        76,
+        34
+      ],
+      "geometry": "rect",
+      "text": "DN12",
+      "textPreview": "DN12",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#111111",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DN12"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DN12",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#111111",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DN12",
+              "fontSize": 18,
+              "color": "#111111",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xkrepg36",
+      "id": "24",
+      "name": "s2-y53",
+      "bbox": [
+        222,
+        560,
+        55,
+        36
+      ],
+      "geometry": "rect",
+      "text": "Y53",
+      "textPreview": "Y53",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Y53"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Y53",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Y53",
+              "fontSize": 20,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cjixwbml",
+      "id": "25",
+      "name": "s2-y63",
+      "bbox": [
+        332,
+        560,
+        55,
+        36
+      ],
+      "geometry": "rect",
+      "text": "Y63",
+      "textPreview": "Y63",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Y63"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Y63",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Y63",
+              "fontSize": 20,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bi9wn6l0",
+      "id": "26",
+      "name": "s2-experiment-module",
+      "bbox": [
+        415,
+        229,
+        338,
+        359
+      ],
+      "geometry": "rect",
+      "text": "电场强化\n沸腾传热\n实验模块",
+      "textPreview": "电场强化 | 沸腾传热 | 实验模块",
+      "resolvedFontSize": 43,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 43,
+        "typeface": "+mn-lt",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "电场强化"
+          },
+          {
+            "index": 2,
+            "text": "沸腾传热"
+          },
+          {
+            "index": 3,
+            "text": "实验模块"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "电场强化",
+          "resolvedTextStyle": {
+            "fontSize": 43,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "电场强化",
+              "fontSize": 43,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "沸腾传热",
+          "resolvedTextStyle": {
+            "fontSize": 43,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "沸腾传热",
+              "fontSize": 43,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "实验模块",
+          "resolvedTextStyle": {
+            "fontSize": 43,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "实验模块",
+              "fontSize": 43,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ah0fu14f",
+      "id": "27",
+      "name": "s2-air-title",
+      "bbox": [
+        517,
+        70,
+        136,
+        45
+      ],
+      "geometry": "rect",
+      "text": "风冷",
+      "textPreview": "风冷",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 28,
+        "typeface": "+mn-lt",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "风冷"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "风冷",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "风冷",
+              "fontSize": 28,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hgvy103a",
+      "id": "28",
+      "name": "s2-fan-left-blade-1",
+      "bbox": [
+        500,
+        124,
+        20,
+        34
+      ],
+      "rotation": 45,
+      "geometry": "teardrop",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#333333",
+      "lineWidth": 2
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wfmx8vmp",
+      "id": "29",
+      "name": "s2-fan-left-blade-2",
+      "bbox": [
+        523.78,
+        141.27,
+        20,
+        34
+      ],
+      "rotation": 117,
+      "geometry": "teardrop",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#333333",
+      "lineWidth": 2
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/elwv2xk7",
+      "id": "30",
+      "name": "s2-fan-left-blade-3",
+      "bbox": [
+        514.69,
+        169.23,
+        20,
+        34
+      ],
+      "rotation": 189,
+      "geometry": "teardrop",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#333333",
+      "lineWidth": 2
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fm5cv21s",
+      "id": "31",
+      "name": "s2-fan-left-blade-4",
+      "bbox": [
+        485.31,
+        169.23,
+        20,
+        34
+      ],
+      "rotation": 261,
+      "geometry": "teardrop",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#333333",
+      "lineWidth": 2
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0ned472d",
+      "id": "32",
+      "name": "s2-fan-left-blade-5",
+      "bbox": [
+        476.22,
+        141.27,
+        20,
+        34
+      ],
+      "rotation": 333,
+      "geometry": "teardrop",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#333333",
+      "lineWidth": 2
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1o7uxcjy",
+      "id": "33",
+      "name": "s2-fan-left-hub",
+      "bbox": [
+        501,
+        157,
+        18,
+        18
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#333333",
+      "lineWidth": 3
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6xwbyxkb",
+      "id": "34",
+      "name": "s2-fan-right-blade-1",
+      "bbox": [
+        646,
+        124,
+        20,
+        34
+      ],
+      "rotation": 45,
+      "geometry": "teardrop",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#333333",
+      "lineWidth": 2
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ry5cr21w",
+      "id": "35",
+      "name": "s2-fan-right-blade-2",
+      "bbox": [
+        669.78,
+        141.27,
+        20,
+        34
+      ],
+      "rotation": 117,
+      "geometry": "teardrop",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#333333",
+      "lineWidth": 2
+    },
+    {
+      "order": 36,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/szed0721",
+      "id": "36",
+      "name": "s2-fan-right-blade-3",
+      "bbox": [
+        660.69,
+        169.23,
+        20,
+        34
+      ],
+      "rotation": 189,
+      "geometry": "teardrop",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#333333",
+      "lineWidth": 2
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t0nutsjm",
+      "id": "37",
+      "name": "s2-fan-right-blade-4",
+      "bbox": [
+        631.31,
+        169.23,
+        20,
+        34
+      ],
+      "rotation": 261,
+      "geometry": "teardrop",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#333333",
+      "lineWidth": 2
+    },
+    {
+      "order": 38,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/atgvahkf",
+      "id": "38",
+      "name": "s2-fan-right-blade-5",
+      "bbox": [
+        622.22,
+        141.27,
+        20,
+        34
+      ],
+      "rotation": 333,
+      "geometry": "teardrop",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#333333",
+      "lineWidth": 2
+    },
+    {
+      "order": 39,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bupc3m10",
+      "id": "39",
+      "name": "s2-fan-right-hub",
+      "bbox": [
+        647,
+        157,
+        18,
+        18
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#333333",
+      "lineWidth": 3
+    },
+    {
+      "order": 40,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vm58zy5g",
+      "id": "40",
+      "name": "s2-optical-platform",
+      "bbox": [
+        866,
+        300,
+        100,
+        211
+      ],
+      "geometry": "rect",
+      "text": "光学\n观测\n平台",
+      "textPreview": "光学 | 观测 | 平台",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 26,
+        "typeface": "+mn-lt",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "光学"
+          },
+          {
+            "index": 2,
+            "text": "观测"
+          },
+          {
+            "index": 3,
+            "text": "平台"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "光学",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "光学",
+              "fontSize": 26,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "观测",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "观测",
+              "fontSize": 26,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "平台",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "平台",
+              "fontSize": 26,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 41,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/alwrqtov",
+      "id": "41",
+      "name": "s2-contact-label",
+      "bbox": [
+        763,
+        421,
+        91,
+        80
+      ],
+      "geometry": "rect",
+      "text": "接触面\n散热",
+      "textPreview": "接触面 | 散热",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 21,
+        "typeface": "+mn-lt",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "接触面"
+          },
+          {
+            "index": 2,
+            "text": "散热"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "接触面",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "接触面",
+              "fontSize": 21,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "散热",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "散热",
+              "fontSize": 21,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

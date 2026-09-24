@@ -1,0 +1,642 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/1obmtofm",
+    "id": "1obmtofm",
+    "slide": 35,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "标题幻灯片",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#5B9BD5",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#4472C4",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "微软雅黑"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "标题幻灯片",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "image",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/1",
+          "id": "1",
+          "name": "图片 2",
+          "bbox": [
+            0,
+            0,
+            1280,
+            720
+          ],
+          "contentType": "image/jpeg",
+          "asset": {
+            "assetId": "/ppt/media/image1.jpg",
+            "contentType": "image/jpeg",
+            "byteLength": 148905
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image1.jpg",
+            "contentType": "image/jpeg",
+            "byteLength": 148905
+          }
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yxonud0f",
+      "id": "22",
+      "name": "矩形 1",
+      "bbox": [
+        16.35,
+        0,
+        682.26,
+        724.49
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ry50jqpc",
+      "id": "30",
+      "name": "矩形 1",
+      "bbox": [
+        0,
+        0,
+        682.26,
+        724.49
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "lineWidth": 0,
+      "fillImage": {
+        "assetId": "/ppt/media/image67.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 73437
+      }
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qxwzq5o7",
+      "id": "31",
+      "name": "TextBox 2",
+      "bbox": [
+        673.87,
+        368.82,
+        500.99,
+        279.17
+      ],
+      "geometry": "rect",
+      "text": "初心不改共成长  凝心聚力普新篇！\n\n在这里输入您的文字内容这里输入您的或者将您的文字内容复制在这里。在这里输入您的文字内容。在这里输入您的文字内容或者将您的文字内容复制在这里。在这里输入您的文字内容，或者将您的文字这里输入您的内容复制在这里。\n\n在这里输入您的文字内容者将您的文字内容复制在这里在这里输入您的文字内容在这里输入您的文字内容，或者将",
+      "textPreview": "初心不改共成长  凝心聚力普新篇！ |  | 在这里输入您的文字内容这里输入您的或者将您的文字内容复制在这里。在这里输入您的文字内容。在这里输入您的文字内容或者将您的文字内容复制在这里。在这里输入您的文字内容，或者将您的文字这里输入您的内容复制在这里。 |  | 在这里输入...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.59,
+          "bottom": 4.8,
+          "left": 9.59
+        }
+      },
+      "textLayout": {
+        "lineCount": 9,
+        "lines": [
+          {
+            "index": 1,
+            "text": "初心不改共成长  凝心聚力普新篇！"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "在这里输入您的文字内容这里输入您的或者将您的文字内容复制在这"
+          },
+          {
+            "index": 4,
+            "text": "里。在这里输入您的文字内容。在这里输入您的文字内容或者将您的"
+          },
+          {
+            "index": 5,
+            "text": "文字内容复制在这里。在这里输入您的文字内容，或者将您的文字这"
+          },
+          {
+            "index": 6,
+            "text": "里输入您的内容复制在这里。"
+          },
+          {
+            "index": 7,
+            "text": ""
+          },
+          {
+            "index": 8,
+            "text": "在这里输入您的文字内容者将您的文字内容复制在这里在这里输入您"
+          },
+          {
+            "index": 9,
+            "text": "的文字内容在这里输入您的文字内容，或者将"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "初心不改共成长  凝心聚力普新篇！",
+          "lineSpacingPercent": 120000,
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "初心不改共成长  凝心聚力普新篇！",
+              "fontSize": 26.67,
+              "typeface": "微软雅黑",
+              "color": "#262626",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "在这里输入您的文字内容这里输入您的或者将您的文字内容复制在这里。在这里输入您的文字内容。在这里输入您的文字内容或者将您的文字内容复制在这里。在这里输入您的文字内容，或者将您的文字这里输入您的内容复制在这里。",
+          "lineSpacingPercent": 150000,
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "在这里输入您的文字内容这里输入您的或者将您的文字内容复制在这里。在这里输入您的文字内容。在这里输入您的文字内容或者将您的文字内容复制在这里。在这里输入您的文字内容，或者将您的文字这里输入您的内容复制在这里。",
+              "fontSize": 16,
+              "typeface": "微软雅黑",
+              "color": {
+                "type": "theme",
+                "value": "tx1",
+                "transform": {
+                  "lighten": 0.35
+                }
+              }
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "在这里输入您的文字内容者将您的文字内容复制在这里在这里输入您的文字内容在这里输入您的文字内容，或者将",
+          "lineSpacingPercent": 150000,
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "在这里输入您的文字内容者将您的文字内容复制在这里在这里输入您的文字内容在这里输入您的文字内容，或者将",
+              "fontSize": 16,
+              "typeface": "微软雅黑",
+              "color": {
+                "type": "theme",
+                "value": "tx1",
+                "transform": {
+                  "lighten": 0.35
+                }
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/czehsv6x",
+      "id": "33",
+      "name": "椭圆 32",
+      "bbox": [
+        758.35,
+        145.37,
+        151.45,
+        147.18
+      ],
+      "rotation": 0,
+      "geometry": "ellipse",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z250napo",
+      "id": "34",
+      "name": "椭圆 33",
+      "bbox": [
+        772.49,
+        157.66,
+        126.29,
+        122.73
+      ],
+      "rotation": 0,
+      "geometry": "ellipse",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "lineWidth": 0,
+      "fillImage": {
+        "assetId": "/ppt/media/image68.png",
+        "contentType": "image/png",
+        "byteLength": 19095
+      }
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e1wzu5o3",
+      "id": "35",
+      "name": "TextBox 11",
+      "bbox": [
+        779.13,
+        196.29,
+        110.91,
+        42.01
+      ],
+      "geometry": "rect",
+      "text": "结束语",
+      "textPreview": "结束语",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "结束语"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "结束语",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "结束语",
+              "fontSize": 26.67,
+              "typeface": "微软雅黑",
+              "color": "#71716F",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v6l0b6pk",
+      "id": "38",
+      "name": "椭圆 37",
+      "bbox": [
+        682.26,
+        258.59,
+        38.99,
+        38.99
+      ],
+      "geometry": "ellipse",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "lineWidth": 0,
+      "fillImage": {
+        "assetId": "/ppt/media/image69.png",
+        "contentType": "image/png",
+        "byteLength": 2681
+      }
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/udgj2lwr",
+      "id": "44",
+      "name": "椭圆 43",
+      "bbox": [
+        948.25,
+        146.9,
+        23.26,
+        23.26
+      ],
+      "geometry": "ellipse",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "lineWidth": 0,
+      "fillImage": {
+        "assetId": "/ppt/media/image70.png",
+        "contentType": "image/png",
+        "byteLength": 1538
+      }
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ih0j65wn",
+      "id": "48",
+      "name": "椭圆 47",
+      "bbox": [
+        854.08,
+        99.01,
+        23.26,
+        23.26
+      ],
+      "geometry": "ellipse",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "bg1",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ji90zax8",
+      "id": "49",
+      "name": "椭圆 48",
+      "bbox": [
+        925.06,
+        258.59,
+        31.98,
+        31.98
+      ],
+      "geometry": "ellipse",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "bg1",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

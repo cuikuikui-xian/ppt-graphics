@@ -1,0 +1,145 @@
+{
+  "slideCount": 38,
+  "masters": [
+    {
+      "index": 0,
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "",
+      "placeholderSummary": [],
+      "elementCount": 0
+    },
+    {
+      "index": 1,
+      "id": "/ppt/slideMasters/slideMaster2.xml",
+      "name": "",
+      "placeholderSummary": [],
+      "elementCount": 0
+    }
+  ],
+  "layouts": [
+    {
+      "index": 0,
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "",
+      "parentLayoutId": "",
+      "placeholderSummary": [],
+      "elementCount": 0
+    },
+    {
+      "index": 1,
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "自定义版式",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "placeholderSummary": [],
+      "elementCount": 0
+    },
+    {
+      "index": 2,
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "标题幻灯片",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "placeholderSummary": [],
+      "elementCount": 0
+    },
+    {
+      "index": 3,
+      "id": "/ppt/slideLayouts/slideLayout3.xml",
+      "name": "1_标题幻灯片",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "placeholderSummary": [],
+      "elementCount": 1
+    },
+    {
+      "index": 4,
+      "id": "/ppt/slideLayouts/slideLayout4.xml",
+      "name": "2_标题幻灯片",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "placeholderSummary": [],
+      "elementCount": 1
+    },
+    {
+      "index": 5,
+      "id": "/ppt/slideMasters/slideMaster2.xml",
+      "name": "",
+      "parentLayoutId": "",
+      "placeholderSummary": [],
+      "elementCount": 0
+    },
+    {
+      "index": 6,
+      "id": "/ppt/slideLayouts/slideLayout5.xml",
+      "name": "标题和竖排文字",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster2.xml",
+      "placeholderSummary": [
+        {
+          "name": "title",
+          "type": "title",
+          "text": "单击此处编辑母版标题样式"
+        },
+        {
+          "name": "body",
+          "type": "body",
+          "text": "单击此处编辑母版文本样式\n第二级\n第三级\n第四级\n第五级"
+        },
+        {
+          "name": "dateTime",
+          "type": "dateTime",
+          "text": "2026/4/11"
+        },
+        {
+          "name": "footer",
+          "type": "footer",
+          "text": ""
+        },
+        {
+          "name": "slideNumber",
+          "type": "slideNumber",
+          "text": "‹#›"
+        }
+      ],
+      "elementCount": 5
+    },
+    {
+      "index": 7,
+      "id": "/ppt/slideLayouts/slideLayout6.xml",
+      "name": "垂直排列标题与文本",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster2.xml",
+      "placeholderSummary": [
+        {
+          "name": "title",
+          "type": "title",
+          "text": "单击此处编辑母版标题样式"
+        },
+        {
+          "name": "body",
+          "type": "body",
+          "text": "单击此处编辑母版文本样式\n第二级\n第三级\n第四级\n第五级"
+        },
+        {
+          "name": "dateTime",
+          "type": "dateTime",
+          "text": "2026/4/11"
+        },
+        {
+          "name": "footer",
+          "type": "footer",
+          "text": ""
+        },
+        {
+          "name": "slideNumber",
+          "type": "slideNumber",
+          "text": "‹#›"
+        }
+      ],
+      "elementCount": 5
+    },
+    {
+      "index": 8,
+      "id": "/ppt/slideLayouts/slideLayout7.xml",
+      "name": "自定义版式",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster2.xml",
+      "placeholderSummary": [],
+      "elementCount": 0
+    }
+  ]
+}

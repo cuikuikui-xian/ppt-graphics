@@ -1,0 +1,19 @@
+User request: Rebuild the prior product-form semantics course deck using 机械行业.pptx as the visual background/template. Keep the prior text and four case images. Reduce AI-like wording. Replace the template's large bearing motif with a large industrial button.
+
+Template source:
+- C:\Users\32933\Desktop\机械行业.pptx
+- SHA256: F0AB9D2E02B02B480D021007C6FE8E3DA53BFE9E93290B89CF04BA07FBAC5F06
+- Template characteristics used: 16:9 canvas, silver brushed-metal background, gray/steel-blue palette, Microsoft YaHei + Calibri, top-left numbered section heading, white/light-gray content fields, large right-side mechanical object on cover and section pages.
+
+Content source:
+- C:\Users\32933\Documents\ChatGPT\PPT制图\产品形态语义设计_课程汇报.pptx
+- Four retained case images: door.png, kettle.png, knob.png, emergency.png.
+
+Generated replacement visual:
+- hero-button.png, created with OpenAI image generation on 2026-09-06.
+- Prompt: transparent photorealistic oversized industrial push button with brushed stainless-steel bezel, charcoal-blue cap, pale-blue indicator ring, three-quarter view, no text/logo/panel/wires, compatible with a silver brushed-metal presentation template.
+
+External references retained in speaker notes:
+- Nielsen Norman Group, Beyond Blue Links: https://www.nngroup.com/articles/clickable-elements/
+- ISO 3864-1:2011: https://www.iso.org/standard/51021.html
+- IEC/ISO graphical symbols general description: https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYwNDE3e2VkMS4wfWIucGRm

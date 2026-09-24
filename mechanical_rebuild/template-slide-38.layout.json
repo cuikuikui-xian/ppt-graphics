@@ -1,0 +1,895 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/ofahkri5",
+    "id": "ofahkri5",
+    "slide": 38,
+    "layoutId": "/ppt/slideLayouts/slideLayout7.xml",
+    "layoutName": "自定义版式",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster2.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#5B9BD5",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#4472C4",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "微软雅黑"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout7.xml",
+      "name": "自定义版式",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster2.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster2.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7yp0f6dg",
+      "id": "5",
+      "name": "矩形 4",
+      "bbox": [
+        322.48,
+        465.84,
+        710.63,
+        226.8
+      ],
+      "geometry": "rect",
+      "text": "PPT模板：       www.1ppt.com/moban/                    行业PPT模板：www.1ppt.com/hangye/ \n节日PPT模板：www.1ppt.com/jieri/                          PPT素材：       www.1ppt.com/sucai/\nPPT背景图片：www.1ppt.com/beijing/                     PPT图表：       www.1ppt.com/tubiao/      \n优秀PPT下载：www.1ppt.com/xiazai/                       PPT教程：       www.1ppt.com/powerpoint/      \nWord模板：    www.1ppt.com/word/                        Excel模板：     www.1ppt.com/excel/  \n个人简历：      www.1ppt.com/jianli/                         PPT课件：       www.1ppt.com/kejian/ \n手抄报：          www.1ppt.com/shouchaobao/          试题下载：      www.1ppt.com/shiti/  \n教案下载：      www.1ppt.com/jiaoan/                       字体下载：      www.1ppt.com/ziti/              ",
+      "textPreview": "PPT模板：       www.1ppt.com/moban/                    行业PPT模板：www.1ppt.com/hangye/  | 节日PPT模板：www.1ppt.com/jieri/                          ...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 8,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PPT模板：       www.1ppt.com/moban/                    行业PPT模板：www.1ppt.com/hangye/"
+          },
+          {
+            "index": 2,
+            "text": "节日PPT模板：www.1ppt.com/jieri/                          PPT素材：       www.1ppt.com/sucai/"
+          },
+          {
+            "index": 3,
+            "text": "PPT背景图片：www.1ppt.com/beijing/                     PPT图表：       www.1ppt.com/tubiao/"
+          },
+          {
+            "index": 4,
+            "text": "优秀PPT下载：www.1ppt.com/xiazai/                       PPT教程：       www.1ppt.com/powerpoint/"
+          },
+          {
+            "index": 5,
+            "text": "Word模板：    www.1ppt.com/word/                        Excel模板：     www.1ppt.com/excel/"
+          },
+          {
+            "index": 6,
+            "text": "个人简历：      www.1ppt.com/jianli/                         PPT课件：       www.1ppt.com/kejian/"
+          },
+          {
+            "index": 7,
+            "text": "手抄报：          www.1ppt.com/shouchaobao/          试题下载：      www.1ppt.com/shiti/"
+          },
+          {
+            "index": 8,
+            "text": "教案下载：      www.1ppt.com/jiaoan/                       字体下载：      www.1ppt.com/ziti/"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PPT模板：       www.1ppt.com/moban/                    行业PPT模板：www.1ppt.com/hangye/ ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "PPT",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 2,
+              "text": "模板：       ",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 3,
+              "text": "www.1ppt.com/moban/",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 4,
+              "text": "                    ",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 5,
+              "text": "行业",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 6,
+              "text": "PPT",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 7,
+              "text": "模板：",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 8,
+              "text": "www.1ppt.com/hangye/",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 9,
+              "text": " ",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "节日PPT模板：www.1ppt.com/jieri/                          PPT素材：       www.1ppt.com/sucai/",
+          "runs": [
+            {
+              "index": 1,
+              "text": "节日",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 2,
+              "text": "PPT",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 3,
+              "text": "模板：",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 4,
+              "text": "www.1ppt.com/jieri/",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 5,
+              "text": "                          PPT",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 6,
+              "text": "素材：       ",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 7,
+              "text": "www.1ppt.com/sucai/",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "PPT背景图片：www.1ppt.com/beijing/                     PPT图表：       www.1ppt.com/tubiao/      ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "PPT",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 2,
+              "text": "背景图片：",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 3,
+              "text": "www.1ppt.com/beijing/",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 4,
+              "text": "                     PPT",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 5,
+              "text": "图表：       ",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 6,
+              "text": "www.1ppt.com/tubiao/",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 7,
+              "text": "      ",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "优秀PPT下载：www.1ppt.com/xiazai/                       PPT教程：       www.1ppt.com/powerpoint/      ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "优秀",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 2,
+              "text": "PPT",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 3,
+              "text": "下载：",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 4,
+              "text": "www.1ppt.com/xiazai/",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 5,
+              "text": "                       PPT",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 6,
+              "text": "教程：       ",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 7,
+              "text": "www.1ppt.com/powerpoint/",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 8,
+              "text": "      ",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "Word模板：    www.1ppt.com/word/                        Excel模板：     www.1ppt.com/excel/  ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Word",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 2,
+              "text": "模板：    ",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 3,
+              "text": "www.1ppt.com/word/",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 4,
+              "text": "                        Excel",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 5,
+              "text": "模板：     ",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 6,
+              "text": "www.1ppt.com/excel/",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 7,
+              "text": "  ",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "个人简历：      www.1ppt.com/jianli/                         PPT课件：       www.1ppt.com/kejian/ ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "个人简历：      ",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 2,
+              "text": "www.1ppt.com/jianli/",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 3,
+              "text": "                         PPT",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 4,
+              "text": "课件：       ",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 5,
+              "text": "www.1ppt.com/kejian/",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 6,
+              "text": " ",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "手抄报：          www.1ppt.com/shouchaobao/          试题下载：      www.1ppt.com/shiti/  ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "手抄报：          ",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 2,
+              "text": "www.1ppt.com/shouchaobao/",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 3,
+              "text": "          ",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 4,
+              "text": "试题下载：      ",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 5,
+              "text": "www.1ppt.com/shiti/",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 6,
+              "text": "  ",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "教案下载：      www.1ppt.com/jiaoan/                       字体下载：      www.1ppt.com/ziti/              ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "教案下载：      ",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 2,
+              "text": "www.1ppt.com/jiaoan/",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 3,
+              "text": "                       ",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 4,
+              "text": "字体下载：      ",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 5,
+              "text": "www.1ppt.com/ziti/",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            },
+            {
+              "index": 6,
+              "text": "              ",
+              "fontSize": 14.67,
+              "typeface": "微软雅黑",
+              "color": "#4A452A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lw7idgva",
+      "id": "3",
+      "name": "Rectangle 17",
+      "bbox": [
+        160,
+        314.78,
+        960,
+        143.5
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": {
+        "type": "theme",
+        "value": "tx2",
+        "transform": {
+          "darken": 0.25
+        }
+      },
+      "lineWidth": 1
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ud0zmxo7",
+      "id": "15",
+      "name": "Rectangle 3",
+      "bbox": [
+        201.61,
+        325.18,
+        430.83,
+        125.54
+      ],
+      "geometry": "rect",
+      "text": "可以在下列情况使用\n个人学习、研究。\n拷贝模板中的内容用于其它幻灯片母版中使用。",
+      "textPreview": "可以在下列情况使用 | 个人学习、研究。 | 拷贝模板中的内容用于其它幻灯片母版中使用。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "可以在下列情况使用"
+          },
+          {
+            "index": 2,
+            "text": "n个人学习、研究。"
+          },
+          {
+            "index": 3,
+            "text": "n拷贝模板中的内容用于其它幻灯片母版中使用。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "可以在下列情况使用",
+          "runs": [
+            {
+              "index": 1,
+              "text": "可以在下列情况使用",
+              "fontSize": 26.67,
+              "typeface": "微软雅黑",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "个人学习、研究。",
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "个人学习、研究。",
+              "fontSize": 16,
+              "typeface": "微软雅黑",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "拷贝模板中的内容用于其它幻灯片母版中使用。",
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "拷贝模板中的内容用于其它幻灯片母版中使用。",
+              "fontSize": 16,
+              "typeface": "微软雅黑",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0.33
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hgrihsny",
+      "id": "16",
+      "name": "Rectangle 4",
+      "bbox": [
+        640,
+        325.18,
+        430.83,
+        125.54
+      ],
+      "geometry": "rect",
+      "text": "不可以在以下情况使用\n任何形式的在线付费下载。\n网络转载、线上线下传播。",
+      "textPreview": "不可以在以下情况使用 | 任何形式的在线付费下载。 | 网络转载、线上线下传播。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "不可以在以下情况使用"
+          },
+          {
+            "index": 2,
+            "text": "n任何形式的在线付费下载。"
+          },
+          {
+            "index": 3,
+            "text": "n网络转载、线上线下传播。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "不可以在以下情况使用",
+          "runs": [
+            {
+              "index": 1,
+              "text": "不可以在以下情况使用",
+              "fontSize": 26.67,
+              "typeface": "微软雅黑",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "任何形式的在线付费下载。",
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "任何形式的在线付费下载。",
+              "fontSize": 16,
+              "typeface": "微软雅黑",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "网络转载、线上线下传播。",
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "网络转",
+              "fontSize": 16,
+              "typeface": "微软雅黑",
+              "color": "#000000"
+            },
+            {
+              "index": 2,
+              "text": "载、线上线下传",
+              "fontSize": 16,
+              "typeface": "微软雅黑",
+              "color": "#000000"
+            },
+            {
+              "index": 3,
+              "text": "播。",
+              "fontSize": 16,
+              "typeface": "微软雅黑",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0.33
+    },
+    {
+      "order": 5,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/36d0jy5c",
+      "id": "17",
+      "name": "Picture 3",
+      "bbox": [
+        321.69,
+        37.4,
+        621.5,
+        247
+      ],
+      "contentType": "image/png",
+      "imageCrop": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "asset": {
+        "assetId": "/ppt/media/image72.png",
+        "contentType": "image/png",
+        "byteLength": 11634
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image72.png",
+        "contentType": "image/png",
+        "byteLength": 11634
+      }
+    },
+    {
+      "order": 6,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/kbi1gjmt",
+      "id": "18",
+      "name": "墨迹 6",
+      "bbox": [
+        -135.12,
+        66.04,
+        3.78,
+        22.68
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image73.png",
+        "contentType": "image/png",
+        "byteLength": 162
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image73.png",
+        "contentType": "image/png",
+        "byteLength": 162
+      }
+    }
+  ],
+  "composeRuns": []
+}

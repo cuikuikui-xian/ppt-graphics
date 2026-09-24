@@ -1,0 +1,2069 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/rg8xp3",
+    "id": "rg8xp3",
+    "slide": 20,
+    "backgroundColor": "#050505",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light"
+    ]
+  },
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kzm907yp",
+      "id": "1",
+      "name": "root-to-branch",
+      "bbox": [
+        230,
+        360,
+        25,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jyd8r2x4",
+      "id": "2",
+      "name": "left-vertical-bus",
+      "bbox": [
+        255,
+        125,
+        0,
+        470
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ixk7yxgj",
+      "id": "3",
+      "name": "pre-state-branch",
+      "bbox": [
+        255,
+        125,
+        45,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tovqxcf6",
+      "id": "4",
+      "name": "desktop-branch",
+      "bbox": [
+        255,
+        360,
+        45,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/snm947y1",
+      "id": "5",
+      "name": "system-branch",
+      "bbox": [
+        255,
+        595,
+        45,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7md8v2xg",
+      "id": "6",
+      "name": "pre-to-test-bus",
+      "bbox": [
+        490,
+        125,
+        22,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6l4r2xgv",
+      "id": "7",
+      "name": "pre-test-vertical",
+      "bbox": [
+        512,
+        65,
+        0,
+        180
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1sfq1cfi",
+      "id": "8",
+      "name": "pre-mech-branch",
+      "bbox": [
+        512,
+        65,
+        20,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gr698ryx",
+      "id": "9",
+      "name": "pre-thermal-branch",
+      "bbox": [
+        512,
+        135,
+        20,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yhwf6lc7",
+      "id": "10",
+      "name": "pre-electrical-branch",
+      "bbox": [
+        512,
+        205,
+        20,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zi5gzqds",
+      "id": "11",
+      "name": "mech-down",
+      "bbox": [
+        608,
+        92,
+        0,
+        16
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k3ex8vud",
+      "id": "12",
+      "name": "mech-down-head",
+      "bbox": [
+        598,
+        100,
+        20,
+        24
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#4596D8",
+      "lineColor": "#4596D8",
+      "lineWidth": 1
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l4ny10vy",
+      "id": "13",
+      "name": "thermal-down",
+      "bbox": [
+        608,
+        162,
+        0,
+        16
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m5wfa5c3",
+      "id": "14",
+      "name": "thermal-down-head",
+      "bbox": [
+        598,
+        170,
+        20,
+        24
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#4596D8",
+      "lineColor": "#4596D8",
+      "lineWidth": 1
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/765g3qdo",
+      "id": "15",
+      "name": "desktop-to-sequence",
+      "bbox": [
+        490,
+        360,
+        22,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/87ehcvu9",
+      "id": "16",
+      "name": "desktop-sequence-vertical",
+      "bbox": [
+        512,
+        290,
+        0,
+        170
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/987y50vu",
+      "id": "17",
+      "name": "desktop-power-branch",
+      "bbox": [
+        512,
+        290,
+        20,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/29cfy1cz",
+      "id": "18",
+      "name": "desktop-match-branch",
+      "bbox": [
+        512,
+        360,
+        20,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nalgr6dk",
+      "id": "19",
+      "name": "desktop-condition-branch",
+      "bbox": [
+        512,
+        430,
+        20,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rehcz2tc",
+      "id": "20",
+      "name": "desktop-power-down",
+      "bbox": [
+        608,
+        317,
+        0,
+        16
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qd8v6xsr",
+      "id": "21",
+      "name": "desktop-power-head",
+      "bbox": [
+        598,
+        325,
+        20,
+        24
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#4596D8",
+      "lineColor": "#4596D8",
+      "lineWidth": 1
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dgzu1cbi",
+      "id": "22",
+      "name": "desktop-match-down",
+      "bbox": [
+        608,
+        387,
+        0,
+        16
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sfqd87ax",
+      "id": "23",
+      "name": "desktop-match-head",
+      "bbox": [
+        598,
+        395,
+        20,
+        24
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#4596D8",
+      "lineColor": "#4596D8",
+      "lineWidth": 1
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3qhcvit0",
+      "id": "24",
+      "name": "system-to-sequence",
+      "bbox": [
+        490,
+        595,
+        22,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ipov2xsv",
+      "id": "25",
+      "name": "system-sequence-vertical",
+      "bbox": [
+        512,
+        545,
+        0,
+        100
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5szuxsb6",
+      "id": "26",
+      "name": "system-power-branch",
+      "bbox": [
+        512,
+        545,
+        20,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4rqd4nal",
+      "id": "27",
+      "name": "system-condition-branch",
+      "bbox": [
+        512,
+        615,
+        20,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nm1w7mtk",
+      "id": "28",
+      "name": "system-power-down",
+      "bbox": [
+        608,
+        572,
+        0,
+        16
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2lsvehsz",
+      "id": "29",
+      "name": "system-power-head",
+      "bbox": [
+        598,
+        580,
+        20,
+        24
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#4596D8",
+      "lineColor": "#4596D8",
+      "lineWidth": 1
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0f21cfm5",
+      "id": "30",
+      "name": "collection-bus",
+      "bbox": [
+        710,
+        65,
+        0,
+        580
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lgbilknq",
+      "id": "31",
+      "name": "collect-mech",
+      "bbox": [
+        680,
+        65,
+        30,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ydkjap4z",
+      "id": "32",
+      "name": "collect-head-mech",
+      "bbox": [
+        694,
+        55,
+        22,
+        20
+      ],
+      "geometry": "rightArrow",
+      "fillColor": "#4596D8",
+      "lineColor": "#4596D8",
+      "lineWidth": 1
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zet0ja5k",
+      "id": "33",
+      "name": "collect-thermal",
+      "bbox": [
+        680,
+        135,
+        30,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8j21gzmh",
+      "id": "34",
+      "name": "collect-head-thermal",
+      "bbox": [
+        694,
+        125,
+        22,
+        20
+      ],
+      "geometry": "rightArrow",
+      "fillColor": "#4596D8",
+      "lineColor": "#4596D8",
+      "lineWidth": 1
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9kb2p4nm",
+      "id": "35",
+      "name": "collect-electrical",
+      "bbox": [
+        680,
+        205,
+        30,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 36,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mhkjep4b",
+      "id": "36",
+      "name": "collect-head-electrical",
+      "bbox": [
+        694,
+        195,
+        22,
+        20
+      ],
+      "geometry": "rightArrow",
+      "fillColor": "#4596D8",
+      "lineColor": "#4596D8",
+      "lineWidth": 1
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nit0nu5w",
+      "id": "37",
+      "name": "collect-desktop-power",
+      "bbox": [
+        680,
+        290,
+        30,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 38,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wnm1kzmd",
+      "id": "38",
+      "name": "collect-head-desktop-power",
+      "bbox": [
+        694,
+        280,
+        22,
+        20
+      ],
+      "geometry": "rightArrow",
+      "fillColor": "#4596D8",
+      "lineColor": "#4596D8",
+      "lineWidth": 1
+    },
+    {
+      "order": 39,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h8v2t4ny",
+      "id": "39",
+      "name": "collect-desktop-match",
+      "bbox": [
+        680,
+        360,
+        30,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 40,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hgn294ry",
+      "id": "40",
+      "name": "collect-head-desktop-match",
+      "bbox": [
+        694,
+        350,
+        22,
+        20
+      ],
+      "geometry": "rightArrow",
+      "fillColor": "#4596D8",
+      "lineColor": "#4596D8",
+      "lineWidth": 1
+    },
+    {
+      "order": 41,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gfe10zqd",
+      "id": "41",
+      "name": "collect-desktop-condition",
+      "bbox": [
+        680,
+        430,
+        30,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 42,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fulk7u98",
+      "id": "42",
+      "name": "collect-head-desktop-condition",
+      "bbox": [
+        694,
+        420,
+        22,
+        20
+      ],
+      "geometry": "rightArrow",
+      "fillColor": "#4596D8",
+      "lineColor": "#4596D8",
+      "lineWidth": 1
+    },
+    {
+      "order": 43,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/utcjyp8n",
+      "id": "43",
+      "name": "collect-system-power",
+      "bbox": [
+        680,
+        545,
+        30,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 44,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ts325kr2",
+      "id": "44",
+      "name": "collect-head-system-power",
+      "bbox": [
+        694,
+        535,
+        22,
+        20
+      ],
+      "geometry": "rightArrow",
+      "fillColor": "#4596D8",
+      "lineColor": "#4596D8",
+      "lineWidth": 1
+    },
+    {
+      "order": 45,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8ru1wfqh",
+      "id": "45",
+      "name": "collect-system-condition",
+      "bbox": [
+        680,
+        615,
+        30,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 46,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7ql03a9w",
+      "id": "46",
+      "name": "collect-head-system-condition",
+      "bbox": [
+        694,
+        605,
+        22,
+        20
+      ],
+      "geometry": "rightArrow",
+      "fillColor": "#4596D8",
+      "lineColor": "#4596D8",
+      "lineWidth": 1
+    },
+    {
+      "order": 47,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6pcjup8b",
+      "id": "47",
+      "name": "bus-to-summary",
+      "bbox": [
+        710,
+        275,
+        45,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 48,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/do72hor6",
+      "id": "48",
+      "name": "bus-summary-head",
+      "bbox": [
+        742,
+        265,
+        24,
+        20
+      ],
+      "geometry": "rightArrow",
+      "fillColor": "#4596D8",
+      "lineColor": "#4596D8",
+      "lineWidth": 1
+    },
+    {
+      "order": 49,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cny18jql",
+      "id": "49",
+      "name": "summary-to-report",
+      "bbox": [
+        850,
+        325,
+        0,
+        40
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 50,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/at8z2lo3",
+      "id": "50",
+      "name": "summary-report-head",
+      "bbox": [
+        840,
+        350,
+        20,
+        24
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#4596D8",
+      "lineColor": "#4596D8",
+      "lineWidth": 1
+    },
+    {
+      "order": 51,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/buhgvqpo",
+      "id": "51",
+      "name": "report-to-sample",
+      "bbox": [
+        850,
+        455,
+        0,
+        40
+      ],
+      "geometry": "line",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 52,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wvqh4b69",
+      "id": "52",
+      "name": "report-sample-head",
+      "bbox": [
+        840,
+        480,
+        20,
+        24
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#4596D8",
+      "lineColor": "#4596D8",
+      "lineWidth": 1
+    },
+    {
+      "order": 53,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xwjyxg7u",
+      "id": "53",
+      "name": "engineering-match-root",
+      "bbox": [
+        40,
+        325,
+        190,
+        70
+      ],
+      "geometry": "rect",
+      "text": "工程件匹配实验",
+      "textPreview": "工程件匹配实验",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 23,
+        "typeface": "Calibri",
+        "color": "#4596D8",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "工程件匹配实验"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "工程件匹配实验",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "color": "#4596D8",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "工程件匹配实验",
+              "fontSize": 23,
+              "color": "#4596D8",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#070707",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 54,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m58zy1o7",
+      "id": "54",
+      "name": "pre-match-state",
+      "bbox": [
+        300,
+        85,
+        190,
+        80
+      ],
+      "geometry": "rect",
+      "text": "匹配前状态确认",
+      "textPreview": "匹配前状态确认",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 23,
+        "typeface": "Calibri",
+        "color": "#4596D8",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "匹配前状态确认"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "匹配前状态确认",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "color": "#4596D8",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "匹配前状态确认",
+              "fontSize": 23,
+              "color": "#4596D8",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#070707",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 55,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nqhgr6ps",
+      "id": "55",
+      "name": "desktop-experiment",
+      "bbox": [
+        300,
+        320,
+        190,
+        80
+      ],
+      "geometry": "rect",
+      "text": "桌面级实验",
+      "textPreview": "桌面级实验",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 23,
+        "typeface": "Calibri",
+        "color": "#4596D8",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "桌面级实验"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "桌面级实验",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "color": "#4596D8",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "桌面级实验",
+              "fontSize": 23,
+              "color": "#4596D8",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#070707",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 56,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/orqh0b6d",
+      "id": "56",
+      "name": "system-experiment",
+      "bbox": [
+        300,
+        555,
+        190,
+        80
+      ],
+      "geometry": "rect",
+      "text": "系统级实验",
+      "textPreview": "系统级实验",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 23,
+        "typeface": "Calibri",
+        "color": "#4596D8",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "系统级实验"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "系统级实验",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "color": "#4596D8",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "系统级实验",
+              "fontSize": 23,
+              "color": "#4596D8",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#070707",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 57,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9szytg7i",
+      "id": "57",
+      "name": "mechanical-interface-test",
+      "bbox": [
+        532,
+        38,
+        148,
+        54
+      ],
+      "geometry": "rect",
+      "text": "机械接口测试",
+      "textPreview": "机械接口测试",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Calibri",
+        "color": "#4596D8",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "机械接口测试"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "机械接口测试",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#4596D8",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "机械接口测试",
+              "fontSize": 18,
+              "color": "#4596D8",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#070707",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 58,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6lsza5ob",
+      "id": "58",
+      "name": "thermal-interface-test",
+      "bbox": [
+        532,
+        108,
+        148,
+        54
+      ],
+      "geometry": "rect",
+      "text": "热接口测试",
+      "textPreview": "热接口测试",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Calibri",
+        "color": "#4596D8",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "热接口测试"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "热接口测试",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#4596D8",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "热接口测试",
+              "fontSize": 18,
+              "color": "#4596D8",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#070707",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 59,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7m1g3apw",
+      "id": "59",
+      "name": "electrical-interface-test",
+      "bbox": [
+        532,
+        178,
+        148,
+        54
+      ],
+      "geometry": "rect",
+      "text": "电接口测试",
+      "textPreview": "电接口测试",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Calibri",
+        "color": "#4596D8",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "电接口测试"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "电接口测试",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#4596D8",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "电接口测试",
+              "fontSize": 18,
+              "color": "#4596D8",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#070707",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 60,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ut4fy1c",
+      "id": "60",
+      "name": "desktop-power-test",
+      "bbox": [
+        532,
+        263,
+        148,
+        54
+      ],
+      "geometry": "rect",
+      "text": "桌面级系统上电\n与软件功能测试",
+      "textPreview": "桌面级系统上电 | 与软件功能测试",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "#4596D8",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "桌面级系统上电"
+          },
+          {
+            "index": 2,
+            "text": "与软件功能测试"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "桌面级系统上电",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#4596D8",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "桌面级系统上电",
+              "fontSize": 16,
+              "color": "#4596D8",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "与软件功能测试",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#4596D8",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "与软件功能测试",
+              "fontSize": 16,
+              "color": "#4596D8",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#070707",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 61,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/itkn6t0r",
+      "id": "61",
+      "name": "two-phase-cabinet-match",
+      "bbox": [
+        532,
+        333,
+        148,
+        54
+      ],
+      "geometry": "rect",
+      "text": "与两相柜各模\n块匹配",
+      "textPreview": "与两相柜各模 | 块匹配",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "#4596D8",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "与两相柜各模"
+          },
+          {
+            "index": 2,
+            "text": "块匹配"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "与两相柜各模",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#4596D8",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "与两相柜各模",
+              "fontSize": 16,
+              "color": "#4596D8",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "块匹配",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#4596D8",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "块匹配",
+              "fontSize": 16,
+              "color": "#4596D8",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#070707",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 62,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5wbmh8j2",
+      "id": "62",
+      "name": "fourteen-conditions",
+      "bbox": [
+        532,
+        403,
+        148,
+        54
+      ],
+      "geometry": "rect",
+      "text": "14个实验工况",
+      "textPreview": "14个实验工况",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Calibri",
+        "color": "#4596D8",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "14个实验工况"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "14个实验工况",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#4596D8",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "14个实验工况",
+              "fontSize": 18,
+              "color": "#4596D8",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#070707",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 63,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4v2583ih",
+      "id": "63",
+      "name": "system-power-test",
+      "bbox": [
+        532,
+        518,
+        148,
+        54
+      ],
+      "geometry": "rect",
+      "text": "系统级系统上电\n与软件功能测试",
+      "textPreview": "系统级系统上电 | 与软件功能测试",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "#4596D8",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "系统级系统上电"
+          },
+          {
+            "index": 2,
+            "text": "与软件功能测试"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "系统级系统上电",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#4596D8",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "系统级系统上电",
+              "fontSize": 16,
+              "color": "#4596D8",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "与软件功能测试",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#4596D8",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "与软件功能测试",
+              "fontSize": 16,
+              "color": "#4596D8",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#070707",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 64,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ryt4ji18",
+      "id": "64",
+      "name": "six-conditions",
+      "bbox": [
+        532,
+        588,
+        148,
+        54
+      ],
+      "geometry": "rect",
+      "text": "6个典型工况",
+      "textPreview": "6个典型工况",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Calibri",
+        "color": "#4596D8",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "6个典型工况"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "6个典型工况",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#4596D8",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "6个典型工况",
+              "fontSize": 18,
+              "color": "#4596D8",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#070707",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 65,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qxknad0n",
+      "id": "65",
+      "name": "experiment-summary",
+      "bbox": [
+        755,
+        235,
+        190,
+        90
+      ],
+      "geometry": "rect",
+      "text": "实验总结",
+      "textPreview": "实验总结",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "#4596D8",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "实验总结"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "实验总结",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "color": "#4596D8",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "实验总结",
+              "fontSize": 24,
+              "color": "#4596D8",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#070707",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 66,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dkvml8je",
+      "id": "66",
+      "name": "submit-report",
+      "bbox": [
+        755,
+        365,
+        190,
+        90
+      ],
+      "geometry": "rect",
+      "text": "提交科学匹配实验\n报告",
+      "textPreview": "提交科学匹配实验 | 报告",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 21,
+        "typeface": "Calibri",
+        "color": "#4596D8",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "提交科学匹配实验"
+          },
+          {
+            "index": 2,
+            "text": "报告"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "提交科学匹配实验",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "color": "#4596D8",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "提交科学匹配实验",
+              "fontSize": 21,
+              "color": "#4596D8",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "报告",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "color": "#4596D8",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "报告",
+              "fontSize": 21,
+              "color": "#4596D8",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#070707",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    },
+    {
+      "order": 67,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/szm5c3it",
+      "id": "67",
+      "name": "prototype-build",
+      "bbox": [
+        755,
+        495,
+        190,
+        90
+      ],
+      "geometry": "rect",
+      "text": "正样件研制",
+      "textPreview": "正样件研制",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "#4596D8",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "正样件研制"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "正样件研制",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "color": "#4596D8",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "正样件研制",
+              "fontSize": 24,
+              "color": "#4596D8",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#070707",
+      "lineColor": "#4596D8",
+      "lineWidth": 2
+    }
+  ],
+  "composeRuns": []
+}

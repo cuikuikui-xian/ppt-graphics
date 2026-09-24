@@ -1,0 +1,17 @@
+Communication job: By the end, classmates and the instructor should understand how product-form details act as signifiers for action, mapping, feedback, and risk, and be able to apply the same analysis to a new product.
+
+Narrative: question -> framework -> four cases -> comparison -> anti-pattern -> method -> synthesis.
+
+Research sources:
+- Nielsen Norman Group, “Beyond Blue Links: Making Clickable Elements Recognizable”: https://www.nngroup.com/articles/clickable-elements/
+- IEC/ISO Graphical Symbols for Use on Equipment, general description: https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYwNDE3e2VkMS4wfWIucGRm
+- ISO 3864-1:2011, safety colours and safety signs: https://www.iso.org/standard/51021.html
+- ISO 7010:2019, registered safety signs: https://www.iso.org/standard/72424.html
+
+Generated visual assets (OpenAI image generation, 2026-09-03):
+- door.png: modern glass door with flat push plate and vertical pull handle; no text/logos.
+- kettle.png: modern electric kettle emphasizing handle, lid button, spout, and insulated grip; no text/logos.
+- knob.png: macro precision rotary knob with knurling, pointer, and graduated arc; no words/numbers.
+- emergency.png: industrial emergency-stop mushroom button with red/yellow safety treatment; no written labels.
+
+Visual route: Codex Grid layout library. Selected composition references: slide-01 (sparse stacked-text cover), slide-08 (half text / half image), slide-13 (four-point grid), slide-17 (three-stage timeline).

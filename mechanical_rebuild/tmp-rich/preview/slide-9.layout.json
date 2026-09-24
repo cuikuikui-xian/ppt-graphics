@@ -1,0 +1,1416 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/vh8q0s",
+    "id": "vh8q0s",
+    "slide": 9,
+    "layoutId": "a8b0e71c-5897-401d-ae84-914db27054fa",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "8ffc075a-a633-498e-8374-c0d474ca5477",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "微软雅黑"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "a8b0e71c-5897-401d-ae84-914db27054fa",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "8ffc075a-a633-498e-8374-c0d474ca5477",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "8ffc075a-a633-498e-8374-c0d474ca5477",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/76hwb2d0",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "alt": "银色拉丝金属背景",
+      "contentType": "image/jpeg",
+      "imageFit": "cover",
+      "asset": {
+        "assetId": "21e36392-dabe-4329-a30b-180c089bd59c",
+        "contentType": "image/jpeg",
+        "byteLength": 148905
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5gred0na",
+      "id": "2",
+      "name": "section-number-8",
+      "bbox": [
+        42,
+        30,
+        110,
+        34
+      ],
+      "geometry": "rect",
+      "text": "◆  08",
+      "textPreview": "◆  08",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "微软雅黑",
+        "color": "#4E5358",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "◆  08"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "◆  08",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "微软雅黑",
+            "color": "#4E5358",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "◆  08",
+              "fontSize": 18,
+              "typeface": "微软雅黑",
+              "color": "#4E5358",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kfix4v6p",
+      "id": "3",
+      "name": "slide-title-8",
+      "bbox": [
+        150,
+        30,
+        780,
+        46
+      ],
+      "geometry": "rect",
+      "text": "四个案例对比",
+      "textPreview": "四个案例对比",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 30,
+        "typeface": "微软雅黑",
+        "color": "#303235",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "四个案例对比"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "四个案例对比",
+          "resolvedTextStyle": {
+            "fontSize": 30,
+            "typeface": "微软雅黑",
+            "color": "#303235",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "四个案例对比",
+              "fontSize": 30,
+              "typeface": "微软雅黑",
+              "color": "#303235",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7i9wfq5g",
+      "id": "4",
+      "name": "subtitle-8",
+      "bbox": [
+        946,
+        36,
+        290,
+        26
+      ],
+      "geometry": "rect",
+      "text": "形态线索与信息",
+      "textPreview": "形态线索与信息",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "微软雅黑",
+        "color": "#60676E",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "形态线索与信息"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "形态线索与信息",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "微软雅黑",
+            "color": "#60676E",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "形态线索与信息",
+              "fontSize": 15,
+              "typeface": "微软雅黑",
+              "color": "#60676E",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6h0f6lov",
+      "id": "5",
+      "name": "line",
+      "bbox": [
+        42,
+        88,
+        1196,
+        0
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "#B7BDC1",
+      "lineWidth": 1
+    },
+    {
+      "order": 6,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/k3qdg7e9",
+      "id": "6",
+      "bbox": [
+        62,
+        116,
+        278.5,
+        72
+      ],
+      "alt": "门五金照片",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "asset": {
+        "assetId": "5fb37890-5c62-470f-ad5c-fac2dbe7ba57",
+        "contentType": "image/png",
+        "byteLength": 1761016
+      }
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sjix8v61",
+      "id": "7",
+      "name": "photo-label-116-0",
+      "bbox": [
+        62,
+        193,
+        278.5,
+        24
+      ],
+      "geometry": "rect",
+      "text": "推 / 拉",
+      "textPreview": "推 / 拉",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "微软雅黑",
+        "color": "#4E5358",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "推 / 拉"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "推 / 拉",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "微软雅黑",
+            "color": "#4E5358",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "推 / 拉",
+              "fontSize": 14,
+              "typeface": "微软雅黑",
+              "color": "#4E5358",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/axovadw7",
+      "id": "8",
+      "bbox": [
+        354.5,
+        116,
+        278.5,
+        72
+      ],
+      "alt": "水壶照片",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "asset": {
+        "assetId": "d1156afa-f087-472b-874c-ee4c97b93a31",
+        "contentType": "image/png",
+        "byteLength": 1614435
+      }
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mlwvu1or",
+      "id": "9",
+      "name": "photo-label-116-1",
+      "bbox": [
+        354.5,
+        193,
+        278.5,
+        24
+      ],
+      "geometry": "rect",
+      "text": "握 / 倾倒",
+      "textPreview": "握 / 倾倒",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "微软雅黑",
+        "color": "#4E5358",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "握 / 倾倒"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "握 / 倾倒",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "微软雅黑",
+            "color": "#4E5358",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "握 / 倾倒",
+              "fontSize": 14,
+              "typeface": "微软雅黑",
+              "color": "#4E5358",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/jmtkzy9o",
+      "id": "10",
+      "bbox": [
+        647,
+        116,
+        278.5,
+        72
+      ],
+      "alt": "旋钮照片",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "asset": {
+        "assetId": "8e1d3418-3d14-4ce7-ad52-0542a3b08ded",
+        "contentType": "image/png",
+        "byteLength": 2310263
+      }
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x0badkju",
+      "id": "11",
+      "name": "photo-label-116-2",
+      "bbox": [
+        647,
+        193,
+        278.5,
+        24
+      ],
+      "geometry": "rect",
+      "text": "旋转",
+      "textPreview": "旋转",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "微软雅黑",
+        "color": "#4E5358",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "旋转"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "旋转",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "微软雅黑",
+            "color": "#4E5358",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "旋转",
+              "fontSize": 14,
+              "typeface": "微软雅黑",
+              "color": "#4E5358",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/lob21oru",
+      "id": "12",
+      "bbox": [
+        939.5,
+        116,
+        278.5,
+        72
+      ],
+      "alt": "急停按钮照片",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "asset": {
+        "assetId": "93aea775-7347-4f5b-9c48-6d8e897d87a7",
+        "contentType": "image/png",
+        "byteLength": 2055494
+      }
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/betsba1o",
+      "id": "13",
+      "name": "photo-label-116-3",
+      "bbox": [
+        939.5,
+        193,
+        278.5,
+        24
+      ],
+      "geometry": "rect",
+      "text": "按压",
+      "textPreview": "按压",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "微软雅黑",
+        "color": "#4E5358",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "按压"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "按压",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "微软雅黑",
+            "color": "#4E5358",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "按压",
+              "fontSize": 14,
+              "typeface": "微软雅黑",
+              "color": "#4E5358",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/fi5wvqxk",
+      "id": "14",
+      "bbox": [
+        58,
+        225,
+        1164,
+        350
+      ],
+      "text": "产品 | 主要信息 | 形态线索 | 对应关系 | 反馈或约束\n门五金 | 推、拉 | 平板、拉手 | 施力方式与开门方向 | 抓握空间\n电热水壶 | 握持、倾倒 | 把手、壶嘴、重心 | 握姿与出水方向 | 隔热和防烫\n控制旋钮 | 连续调节 | 圆形、滚花、指针 | 旋转方向与增减 | 刻度和阻尼\n急停按钮 | 紧急停止 | 大体量、红黄对比 | 拍击与停机 | 防护圈和复位",
+      "textPreview": "产品 | 主要信息 | 形态线索 | 对应关系 | 反馈或约束 | 门五金 | 推、拉 | 平板、拉手 | 施力方式与开门方向 | 抓握空间 | 电热水壶 | 握持、倾倒 | 把手、壶嘴、重心 | 握姿与出水方向 | 隔热和防烫 | 控制旋钮 | 连续调节 | 圆形、滚花、...",
+      "rows": 5,
+      "cols": 5,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            58,
+            225,
+            180,
+            70
+          ],
+          "text": "产品",
+          "textPreview": "产品",
+          "fillColor": "#4E5358",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "产品",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "产品"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            238,
+            225,
+            190,
+            70
+          ],
+          "text": "主要信息",
+          "textPreview": "主要信息",
+          "fillColor": "#4E5358",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "主要信息",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "主要信息"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            428,
+            225,
+            285,
+            70
+          ],
+          "text": "形态线索",
+          "textPreview": "形态线索",
+          "fillColor": "#4E5358",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "形态线索",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "形态线索"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            713,
+            225,
+            285,
+            70
+          ],
+          "text": "对应关系",
+          "textPreview": "对应关系",
+          "fillColor": "#4E5358",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "对应关系",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "对应关系"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 5,
+          "bbox": [
+            998,
+            225,
+            224,
+            70
+          ],
+          "text": "反馈或约束",
+          "textPreview": "反馈或约束",
+          "fillColor": "#4E5358",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "反馈或约束",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "反馈或约束"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            58,
+            295,
+            180,
+            70
+          ],
+          "text": "门五金",
+          "textPreview": "门五金",
+          "fillColor": "#F4F5F5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "门五金",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "门五金"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            238,
+            295,
+            190,
+            70
+          ],
+          "text": "推、拉",
+          "textPreview": "推、拉",
+          "fillColor": "#F4F5F5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "推、拉",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "推、拉"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            428,
+            295,
+            285,
+            70
+          ],
+          "text": "平板、拉手",
+          "textPreview": "平板、拉手",
+          "fillColor": "#F4F5F5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "平板、拉手",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "平板、拉手"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            713,
+            295,
+            285,
+            70
+          ],
+          "text": "施力方式与开门方向",
+          "textPreview": "施力方式与开门方向",
+          "fillColor": "#F4F5F5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "施力方式与开门方向",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "施力方式与开门方向"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 5,
+          "bbox": [
+            998,
+            295,
+            224,
+            70
+          ],
+          "text": "抓握空间",
+          "textPreview": "抓握空间",
+          "fillColor": "#F4F5F5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "抓握空间",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "抓握空间"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            58,
+            365,
+            180,
+            70
+          ],
+          "text": "电热水壶",
+          "textPreview": "电热水壶",
+          "fillColor": "#F4F5F5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "电热水壶",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "电热水壶"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            238,
+            365,
+            190,
+            70
+          ],
+          "text": "握持、倾倒",
+          "textPreview": "握持、倾倒",
+          "fillColor": "#F4F5F5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "握持、倾倒",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "握持、倾倒"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            428,
+            365,
+            285,
+            70
+          ],
+          "text": "把手、壶嘴、重心",
+          "textPreview": "把手、壶嘴、重心",
+          "fillColor": "#F4F5F5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "把手、壶嘴、重心",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "把手、壶嘴、重心"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            713,
+            365,
+            285,
+            70
+          ],
+          "text": "握姿与出水方向",
+          "textPreview": "握姿与出水方向",
+          "fillColor": "#F4F5F5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "握姿与出水方向",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "握姿与出水方向"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 3,
+          "column": 5,
+          "bbox": [
+            998,
+            365,
+            224,
+            70
+          ],
+          "text": "隔热和防烫",
+          "textPreview": "隔热和防烫",
+          "fillColor": "#F4F5F5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "隔热和防烫",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "隔热和防烫"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            58,
+            435,
+            180,
+            70
+          ],
+          "text": "控制旋钮",
+          "textPreview": "控制旋钮",
+          "fillColor": "#F4F5F5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "控制旋钮",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "控制旋钮"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            238,
+            435,
+            190,
+            70
+          ],
+          "text": "连续调节",
+          "textPreview": "连续调节",
+          "fillColor": "#F4F5F5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "连续调节",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "连续调节"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            428,
+            435,
+            285,
+            70
+          ],
+          "text": "圆形、滚花、指针",
+          "textPreview": "圆形、滚花、指针",
+          "fillColor": "#F4F5F5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "圆形、滚花、指针",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "圆形、滚花、指针"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            713,
+            435,
+            285,
+            70
+          ],
+          "text": "旋转方向与增减",
+          "textPreview": "旋转方向与增减",
+          "fillColor": "#F4F5F5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "旋转方向与增减",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "旋转方向与增减"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 4,
+          "column": 5,
+          "bbox": [
+            998,
+            435,
+            224,
+            70
+          ],
+          "text": "刻度和阻尼",
+          "textPreview": "刻度和阻尼",
+          "fillColor": "#F4F5F5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "刻度和阻尼",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "刻度和阻尼"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            58,
+            505,
+            180,
+            70
+          ],
+          "text": "急停按钮",
+          "textPreview": "急停按钮",
+          "fillColor": "#F4F5F5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "急停按钮",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "急停按钮"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            238,
+            505,
+            190,
+            70
+          ],
+          "text": "紧急停止",
+          "textPreview": "紧急停止",
+          "fillColor": "#F4F5F5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "紧急停止",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "紧急停止"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            428,
+            505,
+            285,
+            70
+          ],
+          "text": "大体量、红黄对比",
+          "textPreview": "大体量、红黄对比",
+          "fillColor": "#F4F5F5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "大体量、红黄对比",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "大体量、红黄对比"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            713,
+            505,
+            285,
+            70
+          ],
+          "text": "拍击与停机",
+          "textPreview": "拍击与停机",
+          "fillColor": "#F4F5F5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "拍击与停机",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "拍击与停机"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 5,
+          "column": 5,
+          "bbox": [
+            998,
+            505,
+            224,
+            70
+          ],
+          "text": "防护圈和复位",
+          "textPreview": "防护圈和复位",
+          "fillColor": "#F4F5F5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "防护圈和复位",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "防护圈和复位"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l4vah4jq",
+      "id": "15",
+      "name": "page-9",
+      "bbox": [
+        1182,
+        670,
+        54,
+        20
+      ],
+      "geometry": "rect",
+      "text": "09",
+      "textPreview": "09",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12,
+        "typeface": "微软雅黑",
+        "color": "#60676E",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "09",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "微软雅黑",
+            "color": "#60676E",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "09",
+              "fontSize": 12,
+              "typeface": "微软雅黑",
+              "color": "#60676E",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

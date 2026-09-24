@@ -1,0 +1,223 @@
+{"kind":"deck","id":"pr/0hvu70","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"产品形态语义设计","textShapes":5}
+{"kind":"shape","id":"sh/sryl4zqx","slide":1,"name":"accent-bar","bbox":[42,42,8,596]}
+{"kind":"textbox","id":"sh/547294r6","slide":1,"name":"course","text":"产品形态语义设计","textPreview":"产品形态语义设计","textChars":8,"textLines":1,"bbox":[76,46,520,34]}
+{"kind":"textbox","id":"sh/k3yl0zql","slide":1,"name":"cover-title-1","text":"形态会说话","textPreview":"形态会说话","textChars":5,"textLines":1,"bbox":[76,184,900,98]}
+{"kind":"textbox","id":"sh/7qp4be9c","slide":1,"name":"cover-title-2","text":"4类日常产品中的信息传递","textPreview":"4类日常产品中的信息传递","textChars":12,"textLines":1,"bbox":[76,290,860,70]}
+{"kind":"textbox","id":"sh/65g3298r","slide":1,"name":"cover-subtitle","text":"从动作暗示、方向映射到安全警示","textPreview":"从动作暗示、方向映射到安全警示","textChars":15,"textLines":1,"bbox":[76,472,650,38]}
+{"kind":"textbox","id":"sh/ts7md4r2","slide":1,"name":"presenter","text":"课程汇报  ·  汇报人：________","textPreview":"课程汇报  ·  汇报人：________","textChars":21,"textLines":1,"bbox":[76,580,600,28]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"开场：我们经常在读到文字之前，就已经根据产品形态做出了动作判断。\n\n[Sources]\n- Original synthesis; no external visual asset."}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"核心观点","textShapes":8}
+{"kind":"textbox","id":"sh/9wnqhczy","slide":2,"name":"kicker-2","text":"核心观点","textPreview":"核心观点","textChars":4,"textLines":1,"bbox":[42,34,420,24]}
+{"kind":"textbox","id":"sh/9072xkry","slide":2,"name":"title-2","text":"形态是界面的第一层语言","textPreview":"形态是界面的第一层语言","textChars":11,"textLines":1,"bbox":[42,68,1196,70]}
+{"kind":"shape","id":"sh/nu58f2hs","slide":2,"name":"rule","bbox":[42,154,1196,0]}
+{"kind":"textbox","id":"sh/b29kza94","slide":2,"name":"thesis","text":"“看起来怎么用”\n往往先于“说明它怎么用”","textPreview":"“看起来怎么用” | 往往先于“说明它怎么用”","textChars":21,"textLines":2,"bbox":[80,214,720,190]}
+{"kind":"shape","id":"sh/a10jqpsj","slide":2,"name":"semantic-circle","bbox":[868,206,306,306]}
+{"kind":"textbox","id":"sh/x4r21kru","slide":2,"name":"form-char","text":"形","textPreview":"形","textChars":1,"textLines":1,"bbox":[868,264,306,86]}
+{"kind":"textbox","id":"sh/w3i1sfa9","slide":2,"name":"semantic-list","text":"动作暗示\n方向映射\n状态反馈\n风险等级","textPreview":"动作暗示 | 方向映射 | 状态反馈 | 风险等级","textChars":19,"textLines":4,"bbox":[868,364,306,116]}
+{"kind":"textbox","id":"sh/r65knqtk","slide":2,"name":"thesis-caption","text":"产品的轮廓、尺寸、位置、材质和颜色，共同构成可感知的“符号”。","textPreview":"产品的轮廓、尺寸、位置、材质和颜色，共同构成可感知的“符号”。","textChars":31,"textLines":1,"bbox":[80,520,760,60]}
+{"kind":"textbox","id":"sh/q5wjelsz","slide":2,"name":"footer-2","text":"产品形态语义设计","textPreview":"产品形态语义设计","textChars":8,"textLines":1,"bbox":[42,664,420,20]}
+{"kind":"textbox","id":"sh/ove9o7yd","slide":2,"name":"page-2","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1180,660,58,24]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":"强调形态语义不是装饰风格，而是用户在接触产品时读到的第一层信息。\n\n[Sources]\n- Nielsen Norman Group: https://www.nngroup.com/articles/clickable-elements/"}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"认知路径","textShapes":11}
+{"kind":"textbox","id":"sh/w7ulsvqp","slide":3,"name":"kicker-3","text":"认知路径","textPreview":"认知路径","textChars":4,"textLines":1,"bbox":[42,34,420,24]}
+{"kind":"textbox","id":"sh/cza94vmx","slide":3,"name":"title-3","text":"用户会先做三个判断","textPreview":"用户会先做三个判断","textChars":9,"textLines":1,"bbox":[42,68,1196,70]}
+{"kind":"shape","id":"sh/i9w3u58v","slide":3,"name":"rule","bbox":[42,154,1196,0]}
+{"kind":"shape","id":"sh/e10f2twf","slide":3,"name":"rule","bbox":[104,340,1030,0]}
+{"kind":"shape","id":"sh/3ah8rqlg","slide":3,"name":"node-0","bbox":[112,327,26,26]}
+{"kind":"textbox","id":"sh/obq90bml","slide":3,"name":"label-0","text":"01  能不能操作","textPreview":"01  能不能操作","textChars":9,"textLines":1,"bbox":[112,236,306,42]}
+{"kind":"textbox","id":"sh/pcjqtg36","slide":3,"name":"body-0","text":"可触达、可按压、可握持","textPreview":"可触达、可按压、可握持","textChars":11,"textLines":1,"bbox":[112,394,306,76]}
+{"kind":"shape","id":"sh/m5cra54z","slide":3,"name":"node-1","bbox":[500,327,26,26]}
+{"kind":"textbox","id":"sh/n6ls3alk","slide":3,"name":"label-1","text":"02  应该怎么操作","textPreview":"02  应该怎么操作","textChars":10,"textLines":1,"bbox":[500,236,306,42]}
+{"kind":"textbox","id":"sh/n2l4fq98","slide":3,"name":"body-1","text":"推 / 拉 / 转 / 倾倒","textPreview":"推 / 拉 / 转 / 倾倒","textChars":14,"textLines":1,"bbox":[500,394,306,76]}
+{"kind":"shape","id":"sh/m1c3mlsn","slide":3,"name":"node-2","bbox":[888,327,26,26]}
+{"kind":"textbox","id":"sh/943mhgre","slide":3,"name":"label-2","text":"03  结果与风险","textPreview":"03  结果与风险","textChars":9,"textLines":1,"bbox":[888,236,306,42]}
+{"kind":"textbox","id":"sh/83ulovat","slide":3,"name":"body-2","text":"状态变化、力度边界、安全后果","textPreview":"状态变化、力度边界、安全后果","textChars":14,"textLines":1,"bbox":[888,394,306,76]}
+{"kind":"textbox","id":"sh/v6l4jq94","slide":3,"name":"goal","text":"设计目标：让判断连续发生，而不是让用户停下来猜。","textPreview":"设计目标：让判断连续发生，而不是让用户停下来猜。","textChars":24,"textLines":1,"bbox":[104,540,940,46]}
+{"kind":"textbox","id":"sh/a5c3ql8z","slide":3,"name":"footer-3","text":"产品形态语义设计","textPreview":"产品形态语义设计","textChars":8,"textLines":1,"bbox":[42,664,420,20]}
+{"kind":"textbox","id":"sh/x8nml0ra","slide":3,"name":"page-3","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1180,660,58,24]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"用三个问题建立后续四个案例的统一分析框架。\n\n[Sources]\n- Nielsen Norman Group: https://www.nngroup.com/articles/clickable-elements/"}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"案例地图","textShapes":20}
+{"kind":"textbox","id":"sh/3ytsrmpw","slide":4,"name":"kicker-4","text":"案例地图","textPreview":"案例地图","textChars":4,"textLines":1,"bbox":[42,34,420,24]}
+{"kind":"textbox","id":"sh/1cj2d8b6","slide":4,"name":"title-4","text":"四类产品，传递四种核心信息","textPreview":"四类产品，传递四种核心信息","textChars":13,"textLines":1,"bbox":[42,68,1196,70]}
+{"kind":"shape","id":"sh/1wbapc7q","slide":4,"name":"rule","bbox":[42,154,1196,0]}
+{"kind":"textbox","id":"sh/rm1k7yt4","slide":4,"name":"map-num-0","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[42,214,60,34]}
+{"kind":"textbox","id":"sh/ql8jytsj","slide":4,"name":"map-title-0","text":"推 / 拉","textPreview":"推 / 拉","textChars":5,"textLines":1,"bbox":[118,212,250,38]}
+{"kind":"textbox","id":"sh/doj29oba","slide":4,"name":"map-product-0","text":"门五金","textPreview":"门五金","textChars":3,"textLines":1,"bbox":[118,264,180,28]}
+{"kind":"textbox","id":"sh/sna103ap","slide":4,"name":"map-body-0","text":"用接触面积与抓握空间暗示动作","textPreview":"用接触面积与抓握空间暗示动作","textChars":14,"textLines":1,"bbox":[118,300,460,52]}
+{"kind":"textbox","id":"sh/3ihk3et8","slide":4,"name":"map-num-1","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[656,214,60,34]}
+{"kind":"textbox","id":"sh/ih8ju9sn","slide":4,"name":"map-title-1","text":"握持 / 倾倒","textPreview":"握持 / 倾倒","textChars":7,"textLines":1,"bbox":[732,212,250,38]}
+{"kind":"textbox","id":"sh/kbm987y5","slide":4,"name":"map-product-1","text":"电热水壶","textPreview":"电热水壶","textChars":4,"textLines":1,"bbox":[732,264,180,28]}
+{"kind":"textbox","id":"sh/5cva1cfq","slide":4,"name":"map-body-1","text":"用重心、隔热与方向组织动作链","textPreview":"用重心、隔热与方向组织动作链","textChars":14,"textLines":1,"bbox":[732,300,460,52]}
+{"kind":"textbox","id":"sh/i94r6xgz","slide":4,"name":"map-num-2","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[42,424,60,34]}
+{"kind":"textbox","id":"sh/jadsz2xk","slide":4,"name":"map-title-2","text":"旋转 / 调节","textPreview":"旋转 / 调节","textChars":7,"textLines":1,"bbox":[118,422,250,38]}
+{"kind":"textbox","id":"sh/w72947yt","slide":4,"name":"map-product-2","text":"控制旋钮","textPreview":"控制旋钮","textChars":4,"textLines":1,"bbox":[118,474,180,28]}
+{"kind":"textbox","id":"sh/x8vaxsfe","slide":4,"name":"map-body-2","text":"用纹理、指针与刻度表达连续变化","textPreview":"用纹理、指针与刻度表达连续变化","textChars":15,"textLines":1,"bbox":[118,510,460,52]}
+{"kind":"textbox","id":"sh/a5kr2xg3","slide":4,"name":"map-num-3","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[656,424,60,34]}
+{"kind":"textbox","id":"sh/v6tsv2xo","slide":4,"name":"map-title-3","text":"紧急 / 停止","textPreview":"紧急 / 停止","textChars":7,"textLines":1,"bbox":[732,422,250,38]}
+{"kind":"textbox","id":"sh/g36tgryd","slide":4,"name":"map-product-3","text":"急停按钮","textPreview":"急停按钮","textChars":4,"textLines":1,"bbox":[732,474,180,28]}
+{"kind":"textbox","id":"sh/h4fa9wfy","slide":4,"name":"map-body-3","text":"用体量、颜色与防护结构编码风险","textPreview":"用体量、颜色与防护结构编码风险","textChars":15,"textLines":1,"bbox":[732,510,460,52]}
+{"kind":"textbox","id":"sh/p0batw72","slide":4,"name":"footer-4","text":"产品形态语义设计","textPreview":"产品形态语义设计","textChars":8,"textLines":1,"bbox":[42,664,420,20]}
+{"kind":"textbox","id":"sh/oz29krqh","slide":4,"name":"page-4","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1180,660,58,24]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"四类不是按行业分，而是按形态需要传递的核心信息来分。\n\n[Sources]\n- Original classification for this course report."}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"案例 01 · 推 / 拉","textShapes":10}
+{"kind":"textbox","id":"sh/i54fmlc7","slide":5,"name":"kicker-5","text":"案例 01 · 推 / 拉","textPreview":"案例 01 · 推 / 拉","textChars":13,"textLines":1,"bbox":[42,34,420,24]}
+{"kind":"textbox","id":"sh/dgbulwnm","slide":5,"name":"title-5","text":"门五金：接触方式本身就在给指令","textPreview":"门五金：接触方式本身就在给指令","textChars":15,"textLines":1,"bbox":[42,68,1196,70]}
+{"kind":"shape","id":"sh/sb6xsvu9","slide":5,"name":"rule","bbox":[42,154,1196,0]}
+{"kind":"textbox","id":"sh/yhkbe1o7","slide":5,"name":"case-num-1","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[42,198,90,44]}
+{"kind":"shape","id":"sh/l4bupwny","slide":5,"name":"dot-平板＝施力面","bbox":[42,269,10,10]}
+{"kind":"textbox","id":"sh/032tgr6d","slide":5,"name":"head-平板＝施力面","text":"平板＝施力面","textPreview":"平板＝施力面","textChars":6,"textLines":1,"bbox":[68,264,514,30]}
+{"kind":"textbox","id":"sh/n6dcr65o","slide":5,"name":"body-平板＝施力面","text":"宽、平、无抓握空间，邀请手掌向前推。","textPreview":"宽、平、无抓握空间，邀请手掌向前推。","textChars":18,"textLines":1,"bbox":[68,302,514,58]}
+{"kind":"shape","id":"sh/m5kbi1oj","slide":5,"name":"dot-拉手＝抓握通道","bbox":[42,381,10,10]}
+{"kind":"textbox","id":"sh/w32dkbuh","slide":5,"name":"head-拉手＝抓握通道","text":"拉手＝抓握通道","textPreview":"拉手＝抓握通道","textChars":7,"textLines":1,"bbox":[68,376,514,30]}
+{"kind":"textbox","id":"sh/x4vedgvm","slide":5,"name":"body-拉手＝抓握通道","text":"立体、可环握、与门面保持距离，邀请向身体方向拉。","textPreview":"立体、可环握、与门面保持距离，邀请向身体方向拉。","textChars":24,"textLines":1,"bbox":[68,414,514,58]}
+{"kind":"shape","id":"sh/ahkvi1cb","slide":5,"name":"takeaway-box-5","bbox":[42,566,540,50]}
+{"kind":"textbox","id":"sh/v2twb6dw","slide":5,"name":"takeaway-5","text":"语义关键：动作机会应与真实开启方式一致","textPreview":"语义关键：动作机会应与真实开启方式一致","textChars":19,"textLines":1,"bbox":[60,578,504,26]}
+{"kind":"textbox","id":"sh/k7mxovud","slide":5,"name":"footer-5","text":"产品形态语义设计","textPreview":"产品形态语义设计","textChars":8,"textLines":1,"bbox":[42,664,420,20]}
+{"kind":"textbox","id":"sh/58vehgvy","slide":5,"name":"page-5","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1180,660,58,24]}
+{"kind":"image","id":"im/uhkvq14z","slide":5,"name":"","geometry":"roundRect","bbox":[678,190,560,424]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"按‘可见细节—传递信息—用户动作’顺序讲解。\n\n[Sources]\n- OpenAI-generated visual asset: door.png.\n- Nielsen Norman Group: https://www.nngroup.com/articles/clickable-elements/"}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"案例 02 · 握持 / 倾倒","textShapes":10}
+{"kind":"textbox","id":"sh/j6dcr65c","slide":6,"name":"kicker-6","text":"案例 02 · 握持 / 倾倒","textPreview":"案例 02 · 握持 / 倾倒","textChars":15,"textLines":1,"bbox":[42,34,420,24]}
+{"kind":"textbox","id":"sh/yhg7epsj","slide":6,"name":"title-6","text":"电热水壶：形态把连续动作排成顺序","textPreview":"电热水壶：形态把连续动作排成顺序","textChars":16,"textLines":1,"bbox":[42,68,1196,70]}
+{"kind":"shape","id":"sh/twfux0ne","slide":6,"name":"rule","bbox":[42,154,1196,0]}
+{"kind":"textbox","id":"sh/98rqt4r6","slide":6,"name":"case-num-2","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[656,198,90,44]}
+{"kind":"shape","id":"sh/ml07i9sv","slide":6,"name":"dot-把手决定握姿","bbox":[656,269,10,10]}
+{"kind":"textbox","id":"sh/7m98ru9g","slide":6,"name":"head-把手决定握姿","text":"把手决定握姿","textPreview":"把手决定握姿","textChars":6,"textLines":1,"bbox":[682,264,514,30]}
+{"kind":"textbox","id":"sh/oryp8fah","slide":6,"name":"body-把手决定握姿","text":"弧形空间容纳手指，隔热材质区分安全接触区。","textPreview":"弧形空间容纳手指，隔热材质区分安全接触区。","textChars":21,"textLines":1,"bbox":[682,302,514,58]}
+{"kind":"shape","id":"sh/pc76hkr2","slide":6,"name":"dot-壶嘴决定方向","bbox":[656,381,10,10]}
+{"kind":"textbox","id":"sh/h4bupgn6","slide":6,"name":"head-壶嘴决定方向","text":"壶嘴决定方向","textPreview":"壶嘴决定方向","textChars":6,"textLines":1,"bbox":[682,376,514,30]}
+{"kind":"textbox","id":"sh/w32twb6l","slide":6,"name":"body-壶嘴决定方向","text":"尖端朝向给出液体出口，壶身重心支持倾倒轨迹。","textPreview":"尖端朝向给出液体出口，壶身重心支持倾倒轨迹。","textChars":22,"textLines":1,"bbox":[682,414,514,58]}
+{"kind":"shape","id":"sh/v2tcn650","slide":6,"name":"takeaway-box-6","bbox":[656,566,540,50]}
+{"kind":"textbox","id":"sh/u1kbu1ov","slide":6,"name":"takeaway-6","text":"语义关键：多个细节要共同指向同一动作链","textPreview":"语义关键：多个细节要共同指向同一动作链","textChars":19,"textLines":1,"bbox":[674,578,504,26]}
+{"kind":"textbox","id":"sh/5svutgni","slide":6,"name":"footer-6","text":"产品形态语义设计","textPreview":"产品形态语义设计","textChars":8,"textLines":1,"bbox":[42,664,420,20]}
+{"kind":"textbox","id":"sh/47mt0b6x","slide":6,"name":"page-6","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1180,660,58,24]}
+{"kind":"image","id":"im/b61sbutc","slide":6,"name":"","geometry":"roundRect","bbox":[42,190,560,424]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":"按‘可见细节—传递信息—用户动作’顺序讲解。\n\n[Sources]\n- OpenAI-generated visual asset: kettle.png.\n- Original visual analysis of a generic everyday product."}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"案例 03 · 旋转 / 调节","textShapes":10}
+{"kind":"textbox","id":"sh/p8fih03e","slide":7,"name":"kicker-7","text":"案例 03 · 旋转 / 调节","textPreview":"案例 03 · 旋转 / 调节","textChars":15,"textLines":1,"bbox":[42,34,420,24]}
+{"kind":"textbox","id":"sh/cb2tkvap","slide":7,"name":"title-7","text":"控制旋钮：圆形暗示旋转，刻度表达连续性","textPreview":"控制旋钮：圆形暗示旋转，刻度表达连续性","textChars":19,"textLines":1,"bbox":[42,68,1196,70]}
+{"kind":"shape","id":"sh/f2d0b6lc","slide":7,"name":"rule","bbox":[42,154,1196,0]}
+{"kind":"textbox","id":"sh/zedcfa9g","slide":7,"name":"case-num-3","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[42,198,90,44]}
+{"kind":"shape","id":"sh/kzmdova1","slide":7,"name":"dot-滚花＝需要扭矩","bbox":[42,269,10,10]}
+{"kind":"textbox","id":"sh/l0vuh0rm","slide":7,"name":"head-滚花＝需要扭矩","text":"滚花＝需要扭矩","textPreview":"滚花＝需要扭矩","textChars":7,"textLines":1,"bbox":[68,264,514,30]}
+{"kind":"textbox","id":"sh/eh0ba1sr","slide":7,"name":"body-滚花＝需要扭矩","text":"边缘纹理增加摩擦，也在视觉上强化可抓握感。","textPreview":"边缘纹理增加摩擦，也在视觉上强化可抓握感。","textChars":21,"textLines":1,"bbox":[68,302,514,58]}
+{"kind":"shape","id":"sh/fi9c369c","slide":7,"name":"dot-指针＋弧线＝映射","bbox":[42,381,10,10]}
+{"kind":"textbox","id":"sh/baxkjqlk","slide":7,"name":"head-指针＋弧线＝映射","text":"指针＋弧线＝映射","textPreview":"指针＋弧线＝映射","textChars":8,"textLines":1,"bbox":[68,376,514,30]}
+{"kind":"textbox","id":"sh/a9ojq5kz","slide":7,"name":"body-指针＋弧线＝映射","text":"旋转方向与刻度空间对应，用户能预判增减关系。","textPreview":"旋转方向与刻度空间对应，用户能预判增减关系。","textChars":22,"textLines":1,"bbox":[68,414,514,58]}
+{"kind":"shape","id":"sh/xcz2l03q","slide":7,"name":"takeaway-box-7","bbox":[42,566,540,50]}
+{"kind":"textbox","id":"sh/cbq1sv25","slide":7,"name":"takeaway-7","text":"语义关键：控制方向必须与结果变化自然对应","textPreview":"语义关键：控制方向必须与结果变化自然对应","textChars":20,"textLines":1,"bbox":[60,578,504,26]}
+{"kind":"textbox","id":"sh/n6x0fqlo","slide":7,"name":"footer-7","text":"产品形态语义设计","textPreview":"产品形态语义设计","textChars":8,"textLines":1,"bbox":[42,664,420,20]}
+{"kind":"textbox","id":"sh/25ojml43","slide":7,"name":"page-7","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1180,660,58,24]}
+{"kind":"image","id":"im/tsze1szm","slide":7,"name":"","geometry":"roundRect","bbox":[678,190,560,424]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":"按‘可见细节—传递信息—用户动作’顺序讲解。\n\n[Sources]\n- OpenAI-generated visual asset: knob.png.\n- Original visual analysis of a generic rotary control."}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"案例 04 · 紧急 / 停止","textShapes":10}
+{"kind":"textbox","id":"sh/ehgvihwr","slide":8,"name":"kicker-8","text":"案例 04 · 紧急 / 停止","textPreview":"案例 04 · 紧急 / 停止","textChars":15,"textLines":1,"bbox":[42,34,420,24]}
+{"kind":"textbox","id":"sh/18byd4zy","slide":8,"name":"title-8","text":"急停按钮：高风险信息必须先于文字被看见","textPreview":"急停按钮：高风险信息必须先于文字被看见","textChars":19,"textLines":1,"bbox":[42,68,1196,70]}
+{"kind":"shape","id":"sh/kfixwbe1","slide":8,"name":"rule","bbox":[42,154,1196,0]}
+{"kind":"textbox","id":"sh/6h0fypgb","slide":8,"name":"case-num-4","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[656,198,90,44]}
+{"kind":"shape","id":"sh/tkby9kzm","slide":8,"name":"dot-蘑菇头＝快速拍击","bbox":[656,269,10,10]}
+{"kind":"textbox","id":"sh/sjix0zy1","slide":8,"name":"head-蘑菇头＝快速拍击","text":"蘑菇头＝快速拍击","textPreview":"蘑菇头＝快速拍击","textChars":8,"textLines":1,"bbox":[682,264,514,30]}
+{"kind":"textbox","id":"sh/je9g3ahk","slide":8,"name":"body-蘑菇头＝快速拍击","text":"大直径、突出表面，让紧急状态下也能迅速命中。","textPreview":"大直径、突出表面，让紧急状态下也能迅速命中。","textChars":22,"textLines":1,"bbox":[682,302,514,58]}
+{"kind":"shape","id":"sh/id0fu50z","slide":8,"name":"dot-红＋黄＝风险编码","bbox":[656,381,10,10]}
+{"kind":"textbox","id":"sh/o7ydoret","slide":8,"name":"head-红＋黄＝风险编码","text":"红＋黄＝风险编码","textPreview":"红＋黄＝风险编码","textChars":8,"textLines":1,"bbox":[682,376,514,30]}
+{"kind":"textbox","id":"sh/98rehwve","slide":8,"name":"body-红＋黄＝风险编码","text":"高对比色与防护圈同时强调重要性并减少误触。","textPreview":"高对比色与防护圈同时强调重要性并减少误触。","textChars":21,"textLines":1,"bbox":[682,414,514,58]}
+{"kind":"shape","id":"sh/m5gvmhwn","slide":8,"name":"takeaway-box-8","bbox":[656,566,540,50]}
+{"kind":"textbox","id":"sh/n6pwfmd8","slide":8,"name":"takeaway-8","text":"语义关键：风险越高，信号越要冗余、醒目、可确认","textPreview":"语义关键：风险越高，信号越要冗余、醒目、可确认","textChars":23,"textLines":1,"bbox":[674,578,504,26]}
+{"kind":"textbox","id":"sh/0jydkreh","slide":8,"name":"footer-8","text":"产品形态语义设计","textPreview":"产品形态语义设计","textChars":8,"textLines":1,"bbox":[42,664,420,20]}
+{"kind":"textbox","id":"sh/1k7edwv2","slide":8,"name":"page-8","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1180,660,58,24]}
+{"kind":"image","id":"im/mt47qt0z","slide":8,"name":"","geometry":"roundRect","bbox":[42,190,560,424]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":"按‘可见细节—传递信息—用户动作’顺序讲解。\n\n[Sources]\n- OpenAI-generated visual asset: emergency.png.\n- ISO 3864-1:2011: https://www.iso.org/standard/51021.html"}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"横向比较","textShapes":30}
+{"kind":"textbox","id":"sh/rutwv65w","slide":9,"name":"kicker-9","text":"横向比较","textPreview":"横向比较","textChars":4,"textLines":1,"bbox":[42,34,420,24]}
+{"kind":"textbox","id":"sh/1cfmhgne","slide":9,"name":"title-9","text":"四个案例的共性：细节必须形成合力","textPreview":"四个案例的共性：细节必须形成合力","textChars":16,"textLines":1,"bbox":[42,68,1196,70]}
+{"kind":"shape","id":"sh/mdsnatcn","slide":9,"name":"rule","bbox":[42,154,1196,0]}
+{"kind":"shape","id":"sh/nex4jq5k","slide":9,"name":"table-head","bbox":[42,202,1196,54]}
+{"kind":"textbox","id":"sh/mdonql4z","slide":9,"name":"th-0","text":"案例","textPreview":"案例","textChars":2,"textLines":1,"bbox":[54,216,270,26]}
+{"kind":"textbox","id":"sh/9gzml0nq","slide":9,"name":"th-1","text":"主要信息","textPreview":"主要信息","textChars":4,"textLines":1,"bbox":[344,216,210,26]}
+{"kind":"textbox","id":"sh/ofq5svm5","slide":9,"name":"th-2","text":"形态线索","textPreview":"形态线索","textChars":4,"textLines":1,"bbox":[574,216,230,26]}
+{"kind":"textbox","id":"sh/bih4na5w","slide":9,"name":"th-3","text":"映射关系","textPreview":"映射关系","textChars":4,"textLines":1,"bbox":[824,216,210,26]}
+{"kind":"textbox","id":"sh/ah8nu54b","slide":9,"name":"th-4","text":"反馈 / 约束","textPreview":"反馈 / 约束","textChars":7,"textLines":1,"bbox":[1054,216,176,26]}
+{"kind":"shape","id":"sh/j6l4ritg","slide":9,"name":"rule","bbox":[42,337,1196,0]}
+{"kind":"textbox","id":"sh/p0ji9kf2","slide":9,"name":"cell-0-0","text":"门五金","textPreview":"门五金","textChars":3,"textLines":1,"bbox":[54,274,270,48]}
+{"kind":"textbox","id":"sh/2xsjepgb","slide":9,"name":"cell-0-1","text":"推 / 拉","textPreview":"推 / 拉","textChars":5,"textLines":1,"bbox":[344,274,210,48]}
+{"kind":"textbox","id":"sh/3y107axw","slide":9,"name":"cell-0-2","text":"平板 vs. 拉手","textPreview":"平板 vs. 拉手","textChars":9,"textLines":1,"bbox":[574,274,230,48]}
+{"kind":"textbox","id":"sh/cnu1kzyd","slide":9,"name":"cell-0-3","text":"施力方式↔开门方向","textPreview":"施力方式↔开门方向","textChars":9,"textLines":1,"bbox":[824,274,210,48]}
+{"kind":"textbox","id":"sh/do3id4fy","slide":9,"name":"cell-0-4","text":"物理抓握约束","textPreview":"物理抓握约束","textChars":6,"textLines":1,"bbox":[1054,274,176,48]}
+{"kind":"shape","id":"sh/qlcjipgn","slide":9,"name":"row-bg-1","bbox":[42,338,1196,82]}
+{"kind":"shape","id":"sh/t8nmx8ri","slide":9,"name":"rule","bbox":[42,419,1196,0]}
+{"kind":"textbox","id":"sh/0ru1ozyp","slide":9,"name":"cell-1-0","text":"电热水壶","textPreview":"电热水壶","textChars":4,"textLines":1,"bbox":[54,356,270,48]}
+{"kind":"textbox","id":"sh/lsn2h4fa","slide":9,"name":"cell-1-1","text":"握持 / 倾倒","textPreview":"握持 / 倾倒","textChars":7,"textLines":1,"bbox":[344,356,210,48]}
+{"kind":"textbox","id":"sh/98ji147e","slide":9,"name":"cell-1-2","text":"把手、壶嘴、重心","textPreview":"把手、壶嘴、重心","textChars":8,"textLines":1,"bbox":[574,356,230,48]}
+{"kind":"textbox","id":"sh/87a18zqt","slide":9,"name":"cell-1-3","text":"握姿↔出水方向","textPreview":"握姿↔出水方向","textChars":7,"textLines":1,"bbox":[824,356,210,48]}
+{"kind":"textbox","id":"sh/76h0zup8","slide":9,"name":"cell-1-4","text":"隔热与防烫","textPreview":"隔热与防烫","textChars":5,"textLines":1,"bbox":[1054,356,176,48]}
+{"kind":"shape","id":"sh/kzm14z2p","slide":9,"name":"rule","bbox":[42,501,1196,0]}
+{"kind":"textbox","id":"sh/hcji5o7a","slide":9,"name":"cell-2-0","text":"控制旋钮","textPreview":"控制旋钮","textChars":4,"textLines":1,"bbox":[54,438,270,48]}
+{"kind":"textbox","id":"sh/wba1cjqp","slide":9,"name":"cell-2-1","text":"连续调节","textPreview":"连续调节","textChars":4,"textLines":1,"bbox":[344,438,210,48]}
+{"kind":"textbox","id":"sh/va103ep4","slide":9,"name":"cell-2-2","text":"圆形、滚花、指针","textPreview":"圆形、滚花、指针","textChars":8,"textLines":1,"bbox":[574,438,230,48]}
+{"kind":"textbox","id":"sh/u9sja98z","slide":9,"name":"cell-2-3","text":"旋转↔增减","textPreview":"旋转↔增减","textChars":5,"textLines":1,"bbox":[824,438,210,48]}
+{"kind":"textbox","id":"sh/xgzitk76","slide":9,"name":"cell-2-4","text":"刻度与阻尼","textPreview":"刻度与阻尼","textChars":5,"textLines":1,"bbox":[1054,438,176,48]}
+{"kind":"shape","id":"sh/cf6h0fql","slide":9,"name":"row-bg-3","bbox":[42,502,1196,82]}
+{"kind":"shape","id":"sh/hsf25oji","slide":9,"name":"rule","bbox":[42,583,1196,0]}
+{"kind":"textbox","id":"sh/nmdg3q54","slide":9,"name":"cell-3-0","text":"急停按钮","textPreview":"急停按钮","textChars":4,"textLines":1,"bbox":[54,520,270,48]}
+{"kind":"textbox","id":"sh/onmxcv69","slide":9,"name":"cell-3-1","text":"紧急停止","textPreview":"紧急停止","textChars":4,"textLines":1,"bbox":[344,520,210,48]}
+{"kind":"textbox","id":"sh/pofy50nu","slide":9,"name":"cell-3-2","text":"大体量、红黄对比","textPreview":"大体量、红黄对比","textChars":8,"textLines":1,"bbox":[574,520,230,48]}
+{"kind":"textbox","id":"sh/apofe5of","slide":9,"name":"cell-3-3","text":"拍击↔停机","textPreview":"拍击↔停机","textChars":5,"textLines":1,"bbox":[824,520,210,48]}
+{"kind":"textbox","id":"sh/bqxg7q50","slide":9,"name":"cell-3-4","text":"防护圈与复位","textPreview":"防护圈与复位","textChars":6,"textLines":1,"bbox":[1054,520,176,48]}
+{"kind":"textbox","id":"sh/cr6xgv6l","slide":9,"name":"matrix-conclusion","text":"结论：一个清晰语义通常不是靠单一符号，而是靠轮廓、位置、材质和反馈相互验证。","textPreview":"结论：一个清晰语义通常不是靠单一符号，而是靠轮廓、位置、材质和反馈相互验证。","textChars":38,"textLines":1,"bbox":[42,610,1130,36]}
+{"kind":"textbox","id":"sh/xcfy90n6","slide":9,"name":"footer-9","text":"产品形态语义设计","textPreview":"产品形态语义设计","textChars":8,"textLines":1,"bbox":[42,664,420,20]}
+{"kind":"textbox","id":"sh/qtkf21ob","slide":9,"name":"page-9","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1180,660,58,24]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":"横向比较四个案例，指出有效语义的共同机制是多线索一致。\n\n[Sources]\n- IEC/ISO symbols general description: https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYwNDE3e2VkMS4wfWIucGRm\n- ISO 3864-1:2011: https://www.iso.org/standard/51021.html"}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"反例与修正","textShapes":9}
+{"kind":"textbox","id":"sh/r6pcv6lw","slide":10,"name":"kicker-10","text":"反例与修正","textPreview":"反例与修正","textChars":5,"textLines":1,"bbox":[42,34,420,24]}
+{"kind":"textbox","id":"sh/xc3mho32","slide":10,"name":"title-10","text":"当造型和动作冲突，用户只能靠猜","textPreview":"当造型和动作冲突，用户只能靠猜","textChars":15,"textLines":1,"bbox":[42,68,1196,70]}
+{"kind":"shape","id":"sh/1cru1g3y","slide":10,"name":"rule","bbox":[42,154,1196,0]}
+{"kind":"textbox","id":"sh/zelojyl8","slide":10,"name":"bad-title","text":"冲突的形态","textPreview":"冲突的形态","textChars":5,"textLines":1,"bbox":[42,206,520,38]}
+{"kind":"textbox","id":"sh/ydcnatkn","slide":10,"name":"bad-copy","text":"门上安装可抓握的拉手，实际却只能向前推；\n旋钮顺时针旋转，结果却对应数值降低；\n危险控制与普通按键尺寸、颜色完全相同。","textPreview":"门上安装可抓握的拉手，实际却只能向前推； | 旋钮顺时针旋转，结果却对应数值降低； | 危险控制与普通按键尺寸、颜色完全相同。","textChars":59,"textLines":3,"bbox":[42,270,520,190]}
+{"kind":"shape","id":"sh/l036l83y","slide":10,"name":"divider","bbox":[616,202,2,360]}
+{"kind":"textbox","id":"sh/kzu5c32t","slide":10,"name":"good-title","text":"一致的形态","textPreview":"一致的形态","textChars":5,"textLines":1,"bbox":[674,206,520,38]}
+{"kind":"textbox","id":"sh/725onyl4","slide":10,"name":"good-copy","text":"让可见形态与真实动作一致；\n让控制方向与结果变化一致；\n让视觉显著性与风险等级一致。","textPreview":"让可见形态与真实动作一致； | 让控制方向与结果变化一致； | 让视觉显著性与风险等级一致。","textChars":42,"textLines":3,"bbox":[674,270,520,190]}
+{"kind":"shape","id":"sh/m1cnetkj","slide":10,"name":"anti-takeaway","bbox":[42,520,1152,76]}
+{"kind":"textbox","id":"sh/s7yt4b21","slide":10,"name":"anti-summary","text":"问题不在于用户“不会用”，而在于产品给出了相互矛盾的信息。","textPreview":"问题不在于用户“不会用”，而在于产品给出了相互矛盾的信息。","textChars":29,"textLines":1,"bbox":[70,542,1096,34]}
+{"kind":"textbox","id":"sh/d87uxg3m","slide":10,"name":"footer-10","text":"产品形态语义设计","textPreview":"产品形态语义设计","textChars":8,"textLines":1,"bbox":[42,664,420,20]}
+{"kind":"textbox","id":"sh/q5gb21kb","slide":10,"name":"page-10","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1180,660,58,24]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":"反例页用于把‘形态语义’转化为可评价的设计准则。\n\n[Sources]\n- Nielsen Norman Group: https://www.nngroup.com/articles/clickable-elements/"}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"设计方法","textShapes":14}
+{"kind":"textbox","id":"sh/tsnip0ny","slide":11,"name":"kicker-11","text":"设计方法","textPreview":"设计方法","textChars":4,"textLines":1,"bbox":[42,34,420,24]}
+{"kind":"textbox","id":"sh/xcryxg7y","slide":11,"name":"title-11","text":"先定义信息，再设计形态细节","textPreview":"先定义信息，再设计形态细节","textChars":13,"textLines":1,"bbox":[42,68,1196,70]}
+{"kind":"shape","id":"sh/7650nq5s","slide":11,"name":"rule","bbox":[42,154,1196,0]}
+{"kind":"shape","id":"sh/65wzelo7","slide":11,"name":"rule","bbox":[88,346,1080,0]}
+{"kind":"shape","id":"sh/250zy18b","slide":11,"name":"process-node-0","bbox":[96,333,26,26]}
+{"kind":"textbox","id":"sh/98rytw72","slide":11,"name":"process-num-0","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[96,220,80,28]}
+{"kind":"textbox","id":"sh/o7ih0r6h","slide":11,"name":"process-title-0","text":"定义意图","textPreview":"定义意图","textChars":4,"textLines":1,"bbox":[96,258,300,42]}
+{"kind":"textbox","id":"sh/72t03qp0","slide":11,"name":"process-body-0","text":"用户需要知道什么？\n动作、方向、状态还是风险？","textPreview":"用户需要知道什么？ | 动作、方向、状态还是风险？","textChars":23,"textLines":2,"bbox":[96,396,306,88]}
+{"kind":"shape","id":"sh/61kzalof","slide":11,"name":"process-node-1","bbox":[474,333,26,26]}
+{"kind":"textbox","id":"sh/ofqtgnyt","slide":11,"name":"process-num-1","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[474,220,80,28]}
+{"kind":"textbox","id":"sh/9gza9sze","slide":11,"name":"process-title-1","text":"选择线索","textPreview":"选择线索","textChars":4,"textLines":1,"bbox":[474,258,300,42]}
+{"kind":"textbox","id":"sh/mdobedg3","slide":11,"name":"process-body-1","text":"轮廓、尺寸、位置、材质、\n颜色分别承担什么信息？","textPreview":"轮廓、尺寸、位置、材质、 | 颜色分别承担什么信息？","textChars":24,"textLines":2,"bbox":[474,396,306,88]}
+{"kind":"shape","id":"sh/nehs7iho","slide":11,"name":"process-node-2","bbox":[852,333,26,26]}
+{"kind":"textbox","id":"sh/0b6tc3yx","slide":11,"name":"process-num-2","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[852,220,80,28]}
+{"kind":"textbox","id":"sh/1cfa58zi","slide":11,"name":"process-title-2","text":"验证一致性","textPreview":"验证一致性","textChars":5,"textLines":1,"bbox":[852,258,300,42]}
+{"kind":"textbox","id":"sh/epobatgr","slide":11,"name":"process-body-2","text":"不看说明能否预判？\n操作结果是否符合预期？","textPreview":"不看说明能否预判？ | 操作结果是否符合预期？","textChars":21,"textLines":2,"bbox":[852,396,306,88]}
+{"kind":"textbox","id":"sh/zaxs3yhc","slide":11,"name":"test-question","text":"检验问题：去掉文字标签，产品还会不会“说话”？","textPreview":"检验问题：去掉文字标签，产品还会不会“说话”？","textChars":23,"textLines":1,"bbox":[96,548,980,42]}
+{"kind":"textbox","id":"sh/cn6t83y1","slide":11,"name":"footer-11","text":"产品形态语义设计","textPreview":"产品形态语义设计","textChars":8,"textLines":1,"bbox":[42,664,420,20]}
+{"kind":"textbox","id":"sh/dofa18z6","slide":11,"name":"page-11","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1180,660,58,24]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":"把案例分析收束为一个可复用的三步设计方法。\n\n[Sources]\n- Nielsen Norman Group: https://www.nngroup.com/articles/clickable-elements/"}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"结论","textShapes":13}
+{"kind":"textbox","id":"sh/9sj65kn2","slide":12,"name":"close-kicker","text":"结论","textPreview":"结论","textChars":2,"textLines":1,"bbox":[42,42,180,28]}
+{"kind":"textbox","id":"sh/1gbm9s3a","slide":12,"name":"close-title","text":"好形态不是“更像”，\n而是让人“更少猜”。","textPreview":"好形态不是“更像”， | 而是让人“更少猜”。","textChars":21,"textLines":2,"bbox":[42,146,1040,178]}
+{"kind":"shape","id":"sh/nq1o3a5w","slide":12,"name":"rule","bbox":[42,374,1196,0]}
+{"kind":"textbox","id":"sh/ra943il8","slide":12,"name":"close-num-0","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[42,420,50,28]}
+{"kind":"textbox","id":"sh/q903ad4n","slide":12,"name":"close-head-0","text":"动作可读","textPreview":"动作可读","textChars":4,"textLines":1,"bbox":[42,462,310,38]}
+{"kind":"textbox","id":"sh/dcbm583y","slide":12,"name":"close-body-0","text":"形态先给出可操作性","textPreview":"形态先给出可操作性","textChars":9,"textLines":1,"bbox":[42,512,330,54]}
+{"kind":"textbox","id":"sh/sb2lcnmd","slide":12,"name":"close-num-1","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[440,420,50,28]}
+{"kind":"textbox","id":"sh/b6d4f2lc","slide":12,"name":"close-head-1","text":"映射自然","textPreview":"映射自然","textChars":4,"textLines":1,"bbox":[440,462,310,38]}
+{"kind":"textbox","id":"sh/a543mx4r","slide":12,"name":"close-body-1","text":"方向与结果彼此对应","textPreview":"方向与结果彼此对应","textChars":9,"textLines":1,"bbox":[440,512,330,54]}
+{"kind":"textbox","id":"sh/wvupgz6t","slide":12,"name":"close-num-2","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[838,420,50,28]}
+{"kind":"textbox","id":"sh/xw3q94ne","slide":12,"name":"close-head-2","text":"风险醒目","textPreview":"风险醒目","textChars":4,"textLines":1,"bbox":[838,462,310,38]}
+{"kind":"textbox","id":"sh/atc7epon","slide":12,"name":"close-body-2","text":"重要信息形成多重验证","textPreview":"重要信息形成多重验证","textChars":10,"textLines":1,"bbox":[838,512,330,54]}
+{"kind":"textbox","id":"sh/bulo7u58","slide":12,"name":"discussion","text":"讨论：你身边还有哪些产品，去掉文字后仍然能让人一眼看懂？","textPreview":"讨论：你身边还有哪些产品，去掉文字后仍然能让人一眼看懂？","textChars":28,"textLines":1,"bbox":[42,624,1120,32]}
+{"kind":"textbox","id":"sh/orapcf6h","slide":12,"name":"page-12","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1180,660,58,24]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":"结束时回到开场问题，并邀请同学用同一框架寻找新的案例。\n\n[Sources]\n- Original synthesis based on the preceding analysis."}

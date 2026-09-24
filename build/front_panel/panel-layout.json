@@ -1,0 +1,1622 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/h68rxe",
+    "id": "h68rxe",
+    "slide": 1,
+    "layoutId": "39cddaab-350f-42b6-a14f-dae2a8731802",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "18b05079-e2e6-4f7f-a929-490769f7a09f",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#EEF1F5",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1200,
+      "height": 675
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "39cddaab-350f-42b6-a14f-dae2a8731802",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "18b05079-e2e6-4f7f-a929-490769f7a09f",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "18b05079-e2e6-4f7f-a929-490769f7a09f",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3qd47698",
+      "id": "1",
+      "name": "panel",
+      "bbox": [
+        80,
+        45,
+        1040,
+        570
+      ],
+      "geometry": "rect",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 2.3
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4r6l0rad",
+      "id": "2",
+      "name": "corner-screw-94-59",
+      "bbox": [
+        87,
+        52,
+        14,
+        14
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 1.5
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5sfm9wry",
+      "id": "3",
+      "name": "corner-slot-94-59",
+      "bbox": [
+        91,
+        59,
+        6,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#243446",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u143uhsb",
+      "id": "4",
+      "name": "corner-screw-1106-59",
+      "bbox": [
+        1099,
+        52,
+        14,
+        14
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 1.5
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v2d43m9w",
+      "id": "5",
+      "name": "corner-slot-1106-59",
+      "bbox": [
+        1103,
+        59,
+        6,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#243446",
+      "lineWidth": 1
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gnmlwrah",
+      "id": "6",
+      "name": "corner-screw-94-601",
+      "bbox": [
+        87,
+        594,
+        14,
+        14
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 1.5
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hovm5wr2",
+      "id": "7",
+      "name": "corner-slot-94-601",
+      "bbox": [
+        91,
+        601,
+        6,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#243446",
+      "lineWidth": 1
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/exon6l8v",
+      "id": "8",
+      "name": "corner-screw-1106-601",
+      "bbox": [
+        1099,
+        594,
+        14,
+        14
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 1.5
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fix4fq90",
+      "id": "9",
+      "name": "corner-slot-1106-601",
+      "bbox": [
+        1103,
+        601,
+        6,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#243446",
+      "lineWidth": 1
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/32tsvm58",
+      "id": "10",
+      "name": "left-handle-frame",
+      "bbox": [
+        180,
+        125,
+        40,
+        390
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 1.8
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/21kbmh4n",
+      "id": "11",
+      "name": "left-handle-grip",
+      "bbox": [
+        192,
+        159,
+        16,
+        320
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#E2E7EB",
+      "lineColor": "#243446",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p4vaxwny",
+      "id": "12",
+      "name": "left-handle-top-bolt",
+      "bbox": [
+        195,
+        136,
+        10,
+        10
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/432tormt",
+      "id": "13",
+      "name": "left-handle-bottom-bolt",
+      "bbox": [
+        195,
+        493,
+        10,
+        10
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r6dsz654",
+      "id": "14",
+      "name": "right-handle-frame",
+      "bbox": [
+        992,
+        125,
+        40,
+        390
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 1.8
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q54bq14j",
+      "id": "15",
+      "name": "right-handle-grip",
+      "bbox": [
+        1004,
+        159,
+        16,
+        320
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#E2E7EB",
+      "lineColor": "#243446",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dsvu1wna",
+      "id": "16",
+      "name": "right-handle-top-bolt",
+      "bbox": [
+        1007,
+        136,
+        10,
+        10
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c7mtsrmp",
+      "id": "17",
+      "name": "right-handle-bottom-bolt",
+      "bbox": [
+        1007,
+        493,
+        10,
+        10
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zudc365g",
+      "id": "18",
+      "name": "inlet-quick-disconnect-outer",
+      "bbox": [
+        426,
+        134,
+        108,
+        108
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 2.2
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/et4bu14v",
+      "id": "19",
+      "name": "inlet-quick-disconnect-ring",
+      "bbox": [
+        435,
+        143,
+        90,
+        90
+      ],
+      "geometry": "ellipse",
+      "lineColor": "#243446",
+      "lineWidth": 1.4
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ap8v25o3",
+      "id": "20",
+      "name": "inlet-quick-disconnect-socket",
+      "bbox": [
+        466,
+        174,
+        28,
+        28
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#F1F3F5",
+      "lineColor": "#243446",
+      "lineWidth": 1.4
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bqhwvapo",
+      "id": "21",
+      "name": "inlet-quick-disconnect-bolt-1",
+      "bbox": [
+        526,
+        185,
+        6,
+        6
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 1
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wrqd4f6t",
+      "id": "22",
+      "name": "inlet-quick-disconnect-bolt-2",
+      "bbox": [
+        477,
+        234,
+        6,
+        6
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 1
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xszexk7e",
+      "id": "23",
+      "name": "inlet-quick-disconnect-bolt-3",
+      "bbox": [
+        428,
+        185,
+        6,
+        6
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 1
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m1ovy5or",
+      "id": "24",
+      "name": "inlet-quick-disconnect-bolt-4",
+      "bbox": [
+        477,
+        136,
+        6,
+        6
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 1
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nmxwrqpc",
+      "id": "25",
+      "name": "outlet-quick-disconnect-outer",
+      "bbox": [
+        811,
+        279,
+        108,
+        108
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 2.2
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/onqd0v6x",
+      "id": "26",
+      "name": "outlet-quick-disconnect-ring",
+      "bbox": [
+        820,
+        288,
+        90,
+        90
+      ],
+      "geometry": "ellipse",
+      "lineColor": "#243446",
+      "lineWidth": 1.4
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9ozet07i",
+      "id": "27",
+      "name": "outlet-quick-disconnect-socket",
+      "bbox": [
+        851,
+        319,
+        28,
+        28
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#F1F3F5",
+      "lineColor": "#243446",
+      "lineWidth": 1.4
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6hsfapob",
+      "id": "28",
+      "name": "outlet-quick-disconnect-bolt-1",
+      "bbox": [
+        911,
+        330,
+        6,
+        6
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 1
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7i1w3upg",
+      "id": "29",
+      "name": "outlet-quick-disconnect-bolt-2",
+      "bbox": [
+        862,
+        379,
+        6,
+        6
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 1
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hc3ytory",
+      "id": "30",
+      "name": "outlet-quick-disconnect-bolt-3",
+      "bbox": [
+        813,
+        330,
+        6,
+        6
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 1
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gbuh0jqd",
+      "id": "31",
+      "name": "outlet-quick-disconnect-bolt-4",
+      "bbox": [
+        862,
+        281,
+        6,
+        6
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 1
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fqlgre9s",
+      "id": "32",
+      "name": "L1L2-housing",
+      "bbox": [
+        566,
+        83,
+        72,
+        29
+      ],
+      "geometry": "rect",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 1.3
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/upczy987",
+      "id": "33",
+      "name": "L1L2-terminal-588",
+      "bbox": [
+        583,
+        92,
+        10,
+        10
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/to3yporm",
+      "id": "34",
+      "name": "L1L2-terminal-616",
+      "bbox": [
+        611,
+        92,
+        10,
+        10
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/snuhwjq1",
+      "id": "35",
+      "name": "X83-flange",
+      "bbox": [
+        842,
+        501,
+        48,
+        48
+      ],
+      "geometry": "rect",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 1.3
+    },
+    {
+      "order": 36,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7m1gne9w",
+      "id": "36",
+      "name": "X83-shell",
+      "bbox": [
+        849,
+        508,
+        34,
+        34
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 1.4
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6lszu98b",
+      "id": "37",
+      "name": "X83-core",
+      "bbox": [
+        856,
+        515,
+        20,
+        20
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#E9EEF2",
+      "lineColor": "#243446",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 38,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dkni18r6",
+      "id": "38",
+      "name": "X83-pin--4--3",
+      "bbox": [
+        860.2,
+        520.2,
+        3.6,
+        3.6
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#243446",
+      "lineColor": "#243446",
+      "lineWidth": 0.5
+    },
+    {
+      "order": 39,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cjeh83ql",
+      "id": "39",
+      "name": "X83-pin-3--4",
+      "bbox": [
+        867.2,
+        519.2,
+        3.6,
+        3.6
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#243446",
+      "lineColor": "#243446",
+      "lineWidth": 0.5
+    },
+    {
+      "order": 40,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kn2ps3q1",
+      "id": "40",
+      "name": "X83-pin--3-4",
+      "bbox": [
+        861.2,
+        527.2,
+        3.6,
+        3.6
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#243446",
+      "lineColor": "#243446",
+      "lineWidth": 0.5
+    },
+    {
+      "order": 41,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lob618rm",
+      "id": "41",
+      "name": "X83-pin-4-3",
+      "bbox": [
+        868.2,
+        526.2,
+        3.6,
+        3.6
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#243446",
+      "lineColor": "#243446",
+      "lineWidth": 0.5
+    },
+    {
+      "order": 42,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ylk7qd8b",
+      "id": "42",
+      "name": "X83-bolt-847-506",
+      "bbox": [
+        844.7,
+        503.7,
+        4.6,
+        4.6
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 0.8
+    },
+    {
+      "order": 43,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jmtozy9g",
+      "id": "43",
+      "name": "X83-bolt-885-506",
+      "bbox": [
+        882.7,
+        503.7,
+        4.6,
+        4.6
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 0.8
+    },
+    {
+      "order": 44,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8rmpwnqd",
+      "id": "44",
+      "name": "X83-bolt-847-544",
+      "bbox": [
+        844.7,
+        541.7,
+        4.6,
+        4.6
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 0.8
+    },
+    {
+      "order": 45,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tsvq5sry",
+      "id": "45",
+      "name": "X83-bolt-885-544",
+      "bbox": [
+        882.7,
+        541.7,
+        4.6,
+        4.6
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FBFCFD",
+      "lineColor": "#243446",
+      "lineWidth": 0.8
+    },
+    {
+      "order": 46,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/l8fip8nu",
+      "id": "46",
+      "bbox": [
+        718,
+        96,
+        70,
+        70
+      ],
+      "alt": "西安交通大学官方校徽",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "ec416384-acd2-498d-ade4-603c3109c30a",
+        "contentType": "image/png",
+        "byteLength": 316965
+      }
+    },
+    {
+      "order": 47,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7qd83i9s",
+      "id": "47",
+      "name": "university-name",
+      "bbox": [
+        798,
+        111,
+        185,
+        40
+      ],
+      "geometry": "rect",
+      "text": "西安交通大学",
+      "textPreview": "西安交通大学",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei",
+        "color": "#173B62",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "西安交通大学"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "西安交通大学",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Microsoft YaHei",
+            "color": "#173B62",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "西安交通大学",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei",
+              "color": "#173B62",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 48,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gfmp0nq9",
+      "id": "48",
+      "name": "university-underline",
+      "bbox": [
+        798,
+        158,
+        175,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#C72B31",
+      "lineWidth": 2.5
+    },
+    {
+      "order": 49,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hgvq9s7u",
+      "id": "49",
+      "name": "module-title",
+      "bbox": [
+        300,
+        307,
+        500,
+        54
+      ],
+      "geometry": "rect",
+      "text": "新型无泵式沸腾散热实验模块",
+      "textPreview": "新型无泵式沸腾散热实验模块",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 30,
+        "typeface": "Microsoft YaHei",
+        "color": "#173B62",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "新型无泵式沸腾散热实验模块"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "新型无泵式沸腾散热实验模块",
+          "resolvedTextStyle": {
+            "fontSize": 30,
+            "typeface": "Microsoft YaHei",
+            "color": "#173B62",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "新型无泵式沸腾散热实验模块",
+              "fontSize": 30,
+              "typeface": "Microsoft YaHei",
+              "color": "#173B62",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 50,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rahszmtw",
+      "id": "50",
+      "name": "title-rule",
+      "bbox": [
+        332,
+        367,
+        436,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#C72B31",
+      "lineWidth": 2.3
+    },
+    {
+      "order": 51,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q98rqhsr",
+      "id": "51",
+      "name": "inlet-label",
+      "bbox": [
+        402,
+        251,
+        158,
+        35
+      ],
+      "geometry": "rect",
+      "text": "工质入口  Y61",
+      "textPreview": "工质入口  Y61",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#173B62",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "工质入口  Y61"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "工质入口  Y61",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#173B62",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "工质入口  Y61",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#173B62",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 52,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dcza1wb2",
+      "id": "52",
+      "name": "outlet-label",
+      "bbox": [
+        790,
+        397,
+        156,
+        35
+      ],
+      "geometry": "rect",
+      "text": "工质出口  Y64",
+      "textPreview": "工质出口  Y64",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#173B62",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "工质出口  Y64"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "工质出口  Y64",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#173B62",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "工质出口  Y64",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#173B62",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 53,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sbq9srah",
+      "id": "53",
+      "name": "terminal-label",
+      "bbox": [
+        558,
+        118,
+        88,
+        28
+      ],
+      "geometry": "rect",
+      "text": "L1 / L2",
+      "textPreview": "L1 / L2",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 15,
+        "typeface": "Microsoft YaHei",
+        "color": "#52677A",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "L1 / L2"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "L1 / L2",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Microsoft YaHei",
+            "color": "#52677A",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "L1 / L2",
+              "fontSize": 15,
+              "typeface": "Microsoft YaHei",
+              "color": "#52677A",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 54,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3mxsvmt0",
+      "id": "54",
+      "name": "comm-label",
+      "bbox": [
+        791,
+        554,
+        155,
+        34
+      ],
+      "geometry": "rect",
+      "text": "通讯接口  X83",
+      "textPreview": "通讯接口  X83",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 17,
+        "typeface": "Microsoft YaHei",
+        "color": "#173B62",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "通讯接口  X83"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "通讯接口  X83",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Microsoft YaHei",
+            "color": "#173B62",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "通讯接口  X83",
+              "fontSize": 17,
+              "typeface": "Microsoft YaHei",
+              "color": "#173B62",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 55,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ilormhsf",
+      "id": "55",
+      "name": "leaders-label",
+      "bbox": [
+        300,
+        426,
+        145,
+        32
+      ],
+      "geometry": "rect",
+      "text": "项目负责人",
+      "textPreview": "项目负责人",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 17,
+        "typeface": "Microsoft YaHei",
+        "color": "#52677A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "项目负责人"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "项目负责人",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Microsoft YaHei",
+            "color": "#52677A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "项目负责人",
+              "fontSize": 17,
+              "typeface": "Microsoft YaHei",
+              "color": "#52677A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 56,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5ofaxwb6",
+      "id": "56",
+      "name": "leaders-names",
+      "bbox": [
+        440,
+        426,
+        325,
+        32
+      ],
+      "geometry": "rect",
+      "text": "杨小平    魏进家",
+      "textPreview": "杨小平    魏进家",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 19,
+        "typeface": "Microsoft YaHei",
+        "color": "#243446",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "杨小平    魏进家"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "杨小平    魏进家",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Microsoft YaHei",
+            "color": "#243446",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "杨小平    魏进家",
+              "fontSize": 19,
+              "typeface": "Microsoft YaHei",
+              "color": "#243446",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 57,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4n69oral",
+      "id": "57",
+      "name": "members-label",
+      "bbox": [
+        300,
+        466,
+        145,
+        32
+      ],
+      "geometry": "rect",
+      "text": "项目成员",
+      "textPreview": "项目成员",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 17,
+        "typeface": "Microsoft YaHei",
+        "color": "#52677A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "项目成员"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "项目成员",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Microsoft YaHei",
+            "color": "#52677A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "项目成员",
+              "fontSize": 17,
+              "typeface": "Microsoft YaHei",
+              "color": "#52677A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 58,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ni1s7694",
+      "id": "58",
+      "name": "members-names",
+      "bbox": [
+        440,
+        466,
+        325,
+        32
+      ],
+      "geometry": "rect",
+      "text": "崔庆杰    王晋璞",
+      "textPreview": "崔庆杰    王晋璞",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 19,
+        "typeface": "Microsoft YaHei",
+        "color": "#243446",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "崔庆杰    王晋璞"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "崔庆杰    王晋璞",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Microsoft YaHei",
+            "color": "#243446",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "崔庆杰    王晋璞",
+              "fontSize": 19,
+              "typeface": "Microsoft YaHei",
+              "color": "#243446",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 59,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2hsbylsj",
+      "id": "59",
+      "name": "credits-rule",
+      "bbox": [
+        300,
+        414,
+        470,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#C5CDD3",
+      "lineWidth": 1.2
+    }
+  ],
+  "composeRuns": []
+}

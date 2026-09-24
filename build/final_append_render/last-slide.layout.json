@@ -1,0 +1,2374 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/9cm9d4",
+    "id": "9cm9d4",
+    "slide": 15,
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light"
+    ]
+  },
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cre1gveh",
+      "id": "1",
+      "name": "top-left-bus",
+      "bbox": [
+        155,
+        78,
+        0,
+        70
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bq5k7qxw",
+      "id": "2",
+      "name": "top-pool-bus",
+      "bbox": [
+        466,
+        78,
+        0,
+        67
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qpwjelwb",
+      "id": "3",
+      "name": "top-measure-bus",
+      "bbox": [
+        839,
+        78,
+        0,
+        67
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p4n25gf6",
+      "id": "4",
+      "name": "group-left-down",
+      "bbox": [
+        155,
+        223,
+        0,
+        52
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o3e1cbyl",
+      "id": "5",
+      "name": "group-pool-down",
+      "bbox": [
+        466,
+        223,
+        0,
+        52
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/325k36x0",
+      "id": "6",
+      "name": "measure-down",
+      "bbox": [
+        839,
+        223,
+        0,
+        27
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/21cja1gf",
+      "id": "7",
+      "name": "large-flow-bottom",
+      "bbox": [
+        76,
+        470,
+        0,
+        180
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9072hkfa",
+      "id": "8",
+      "name": "cooling-bottom",
+      "bbox": [
+        235,
+        470,
+        0,
+        180
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8zylofep",
+      "id": "9",
+      "name": "small-flow-bottom",
+      "bbox": [
+        540,
+        470,
+        0,
+        180
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6d036d8f",
+      "id": "10",
+      "name": "micro-ccd-bottom",
+      "bbox": [
+        145,
+        565,
+        0,
+        85
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/re94fi90",
+      "id": "11",
+      "name": "fast-ccd-bottom",
+      "bbox": [
+        394,
+        565,
+        0,
+        85
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sfil8nql",
+      "id": "12",
+      "name": "main-bottom",
+      "bbox": [
+        748,
+        565,
+        0,
+        85
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tgrmhsr6",
+      "id": "13",
+      "name": "fan-bottom",
+      "bbox": [
+        923,
+        470,
+        0,
+        180
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ipg32t8j",
+      "id": "14",
+      "name": "large-flow-up",
+      "bbox": [
+        76,
+        359,
+        0,
+        38
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jap4by94",
+      "id": "15",
+      "name": "large-flow-arrow",
+      "bbox": [
+        65,
+        350,
+        22,
+        28
+      ],
+      "geometry": "upArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4bil43qp",
+      "id": "16",
+      "name": "cooling-up",
+      "bbox": [
+        235,
+        359,
+        0,
+        38
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5crmd8ra",
+      "id": "17",
+      "name": "cooling-arrow",
+      "bbox": [
+        224,
+        350,
+        22,
+        28
+      ],
+      "geometry": "upArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2lk3ex8n",
+      "id": "18",
+      "name": "small-flow-up",
+      "bbox": [
+        540,
+        359,
+        0,
+        38
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/36t4n2p8",
+      "id": "19",
+      "name": "small-flow-arrow",
+      "bbox": [
+        529,
+        350,
+        22,
+        28
+      ],
+      "geometry": "upArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zql0zupk",
+      "id": "20",
+      "name": "fan-up",
+      "bbox": [
+        923,
+        359,
+        0,
+        38
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ypcj6pof",
+      "id": "21",
+      "name": "fan-arrow",
+      "bbox": [
+        912,
+        350,
+        22,
+        28
+      ],
+      "geometry": "upArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lsni147q",
+      "id": "22",
+      "name": "pool-hv-link",
+      "bbox": [
+        535,
+        184,
+        53,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kru18z65",
+      "id": "23",
+      "name": "pool-hv-left",
+      "bbox": [
+        526,
+        173,
+        24,
+        22
+      ],
+      "geometry": "leftArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7u503upw",
+      "id": "24",
+      "name": "pool-hv-right",
+      "bbox": [
+        575,
+        173,
+        24,
+        22
+      ],
+      "geometry": "rightArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mtwja9ob",
+      "id": "25",
+      "name": "hv-secondary-link",
+      "bbox": [
+        720,
+        184,
+        15,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9gni5472",
+      "id": "26",
+      "name": "hv-secondary-left",
+      "bbox": [
+        711,
+        173,
+        24,
+        22
+      ],
+      "geometry": "leftArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8ve1cz6h",
+      "id": "27",
+      "name": "hv-secondary-right",
+      "bbox": [
+        722,
+        173,
+        24,
+        22
+      ],
+      "geometry": "rightArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vi507eps",
+      "id": "28",
+      "name": "secondary-sensor-stem",
+      "bbox": [
+        751,
+        322,
+        0,
+        26
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/uhwje9o7",
+      "id": "29",
+      "name": "sensor-valve-branch",
+      "bbox": [
+        696,
+        348,
+        110,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/snyh4jml",
+      "id": "30",
+      "name": "sensor-down",
+      "bbox": [
+        685,
+        340,
+        22,
+        28
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/to7ixo36",
+      "id": "31",
+      "name": "valve-down",
+      "bbox": [
+        795,
+        340,
+        22,
+        28
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6lgz294f",
+      "id": "32",
+      "name": "secondary-main-left",
+      "bbox": [
+        633,
+        286,
+        57,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rmp0vel0",
+      "id": "33",
+      "name": "secondary-main-vertical",
+      "bbox": [
+        633,
+        286,
+        0,
+        236
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4jyh0zmp",
+      "id": "34",
+      "name": "secondary-main-right",
+      "bbox": [
+        633,
+        522,
+        70,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5k7it43u",
+      "id": "35",
+      "name": "main-right",
+      "bbox": [
+        691,
+        511,
+        24,
+        22
+      ],
+      "geometry": "rightArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 36,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ixwzy94j",
+      "id": "36",
+      "name": "project-header",
+      "bbox": [
+        12,
+        18,
+        976,
+        60
+      ],
+      "geometry": "rect",
+      "text": "实验项目模块",
+      "textPreview": "实验项目模块",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 25,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "实验项目模块"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "实验项目模块",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "实验项目模块",
+              "fontSize": 25,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ji50rel4",
+      "id": "37",
+      "name": "common-footer",
+      "bbox": [
+        12,
+        650,
+        976,
+        58
+      ],
+      "geometry": "rect",
+      "text": "两相柜公共模块",
+      "textPreview": "两相柜公共模块",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "两相柜公共模块"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "两相柜公共模块",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "两相柜公共模块",
+              "fontSize": 24,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 38,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wvehwzmd",
+      "id": "38",
+      "name": "experiment-unit-group",
+      "bbox": [
+        67,
+        130,
+        480,
+        110
+      ],
+      "geometry": "rect",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 39,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hwnip43y",
+      "id": "39",
+      "name": "flow-boiling-unit",
+      "bbox": [
+        88,
+        148,
+        135,
+        75
+      ],
+      "geometry": "rect",
+      "text": "流动/射流复合\n沸腾实验单元",
+      "textPreview": "流动/射流复合 | 沸腾实验单元",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "流动/射流复合"
+          },
+          {
+            "index": 2,
+            "text": "沸腾实验单元"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "流动/射流复合",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "流动/射流复合",
+              "fontSize": 16,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "沸腾实验单元",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "沸腾实验单元",
+              "fontSize": 16,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 40,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l03ex0jq",
+      "id": "40",
+      "name": "pool-boiling-unit",
+      "bbox": [
+        403,
+        145,
+        132,
+        78
+      ],
+      "geometry": "rect",
+      "text": "池沸腾\n实验单元",
+      "textPreview": "池沸腾 | 实验单元",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 17,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "池沸腾"
+          },
+          {
+            "index": 2,
+            "text": "实验单元"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "池沸腾",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "池沸腾",
+              "fontSize": 17,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "实验单元",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "实验单元",
+              "fontSize": 17,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 41,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kzax4v25",
+      "id": "41",
+      "name": "flow-boiling-device",
+      "bbox": [
+        12,
+        275,
+        132,
+        73
+      ],
+      "geometry": "rect",
+      "text": "流动/射流复合\n沸腾实验装置",
+      "textPreview": "流动/射流复合 | 沸腾实验装置",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "流动/射流复合"
+          },
+          {
+            "index": 2,
+            "text": "沸腾实验装置"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "流动/射流复合",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "流动/射流复合",
+              "fontSize": 16,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "沸腾实验装置",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "沸腾实验装置",
+              "fontSize": 16,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 42,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zy1wvq1k",
+      "id": "42",
+      "name": "flow-heat-device",
+      "bbox": [
+        170,
+        275,
+        132,
+        73
+      ],
+      "geometry": "rect",
+      "text": "流动/射流复合\n沸腾散热装置",
+      "textPreview": "流动/射流复合 | 沸腾散热装置",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "流动/射流复合"
+          },
+          {
+            "index": 2,
+            "text": "沸腾散热装置"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "流动/射流复合",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "流动/射流复合",
+              "fontSize": 16,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "沸腾散热装置",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "沸腾散热装置",
+              "fontSize": 16,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 43,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yxsf2lkz",
+      "id": "43",
+      "name": "pool-device",
+      "bbox": [
+        329,
+        275,
+        132,
+        73
+      ],
+      "geometry": "rect",
+      "text": "池沸腾\n实验装置",
+      "textPreview": "池沸腾 | 实验装置",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 17,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "池沸腾"
+          },
+          {
+            "index": 2,
+            "text": "实验装置"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "池沸腾",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "池沸腾",
+              "fontSize": 17,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "实验装置",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "实验装置",
+              "fontSize": 17,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 44,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9o3e10jm",
+      "id": "44",
+      "name": "pool-heat-device",
+      "bbox": [
+        473,
+        275,
+        132,
+        73
+      ],
+      "geometry": "rect",
+      "text": "池沸腾\n散热装置",
+      "textPreview": "池沸腾 | 散热装置",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 17,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "池沸腾"
+          },
+          {
+            "index": 2,
+            "text": "散热装置"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "池沸腾",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "池沸腾",
+              "fontSize": 17,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "散热装置",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "散热装置",
+              "fontSize": 17,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 45,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/83ux8f2h",
+      "id": "45",
+      "name": "large-flow-module",
+      "bbox": [
+        12,
+        397,
+        132,
+        73
+      ],
+      "geometry": "rect",
+      "text": "大流量\n供液模块",
+      "textPreview": "大流量 | 供液模块",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 17,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "大流量"
+          },
+          {
+            "index": 2,
+            "text": "供液模块"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "大流量",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "大流量",
+              "fontSize": 17,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "供液模块",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "供液模块",
+              "fontSize": 17,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 46,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/72lwza1w",
+      "id": "46",
+      "name": "cooling-device",
+      "bbox": [
+        170,
+        397,
+        132,
+        73
+      ],
+      "geometry": "rect",
+      "text": "大流量供液\n冷却装置",
+      "textPreview": "大流量供液 | 冷却装置",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "大流量供液"
+          },
+          {
+            "index": 2,
+            "text": "冷却装置"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "大流量供液",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "大流量供液",
+              "fontSize": 16,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "冷却装置",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "冷却装置",
+              "fontSize": 16,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 47,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m1cf65kb",
+      "id": "47",
+      "name": "small-flow-module",
+      "bbox": [
+        473,
+        397,
+        132,
+        73
+      ],
+      "geometry": "rect",
+      "text": "小流量\n供液模块",
+      "textPreview": "小流量 | 供液模块",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 17,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "小流量"
+          },
+          {
+            "index": 2,
+            "text": "供液模块"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "小流量",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "小流量",
+              "fontSize": 17,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "供液模块",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "供液模块",
+              "fontSize": 17,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 48,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p8jepgji",
+      "id": "48",
+      "name": "micro-ccd",
+      "bbox": [
+        98,
+        500,
+        94,
+        65
+      ],
+      "geometry": "rect",
+      "text": "细观CCD",
+      "textPreview": "细观CCD",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 17,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "细观CCD"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "细观CCD",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "细观CCD",
+              "fontSize": 17,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 49,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o7qdwb2x",
+      "id": "49",
+      "name": "high-speed-ccd",
+      "bbox": [
+        347,
+        500,
+        94,
+        65
+      ],
+      "geometry": "rect",
+      "text": "高速CCD",
+      "textPreview": "高速CCD",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 17,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "高速CCD"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "高速CCD",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "高速CCD",
+              "fontSize": 17,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 50,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u143adwj",
+      "id": "50",
+      "name": "hv-converter",
+      "bbox": [
+        588,
+        145,
+        132,
+        78
+      ],
+      "geometry": "rect",
+      "text": "高压电\n转换装置",
+      "textPreview": "高压电 | 转换装置",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 17,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "高压电"
+          },
+          {
+            "index": 2,
+            "text": "转换装置"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "高压电",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "高压电",
+              "fontSize": 17,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "转换装置",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "转换装置",
+              "fontSize": 17,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 51,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f2dkjid4",
+      "id": "51",
+      "name": "measure-control",
+      "bbox": [
+        778,
+        145,
+        122,
+        78
+      ],
+      "geometry": "rect",
+      "text": "测量/控制模块",
+      "textPreview": "测量/控制模块",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "测量/控制模块"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "测量/控制模块",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "测量/控制模块",
+              "fontSize": 16,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 52,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gn6lcnep",
+      "id": "52",
+      "name": "secondary-controller",
+      "bbox": [
+        690,
+        250,
+        122,
+        72
+      ],
+      "geometry": "rect",
+      "text": "次级控制器\n（电控盒）",
+      "textPreview": "次级控制器 | （电控盒）",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "次级控制器"
+          },
+          {
+            "index": 2,
+            "text": "（电控盒）"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "次级控制器",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "次级控制器",
+              "fontSize": 16,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "（电控盒）",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "（电控盒）",
+              "fontSize": 16,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 53,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hof2lsva",
+      "id": "53",
+      "name": "sensor-flowmeter",
+      "bbox": [
+        650,
+        365,
+        90,
+        73
+      ],
+      "geometry": "rect",
+      "text": "传感器/\n流量计",
+      "textPreview": "传感器/ | 流量计",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "传感器/"
+          },
+          {
+            "index": 2,
+            "text": "流量计"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "传感器/",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "传感器/",
+              "fontSize": 16,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "流量计",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "流量计",
+              "fontSize": 16,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 54,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2po3exwv",
+      "id": "54",
+      "name": "solenoid-valve",
+      "bbox": [
+        758,
+        365,
+        90,
+        73
+      ],
+      "geometry": "rect",
+      "text": "电磁阀门",
+      "textPreview": "电磁阀门",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "电磁阀门"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "电磁阀门",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "电磁阀门",
+              "fontSize": 16,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 55,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3qxkn2d0",
+      "id": "55",
+      "name": "main-controller",
+      "bbox": [
+        703,
+        500,
+        92,
+        65
+      ],
+      "geometry": "rect",
+      "text": "主控制器",
+      "textPreview": "主控制器",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 17,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "主控制器"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "主控制器",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "主控制器",
+              "fontSize": 17,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 56,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4r6lg7el",
+      "id": "56",
+      "name": "controlled-heat",
+      "bbox": [
+        861,
+        250,
+        122,
+        72
+      ],
+      "geometry": "rect",
+      "text": "电控盒\n散热结构",
+      "textPreview": "电控盒 | 散热结构",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "电控盒"
+          },
+          {
+            "index": 2,
+            "text": "散热结构"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "电控盒",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "电控盒",
+              "fontSize": 16,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "散热结构",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "散热结构",
+              "fontSize": 16,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 57,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/psfmpsv6",
+      "id": "57",
+      "name": "fan-module",
+      "bbox": [
+        861,
+        397,
+        122,
+        73
+      ],
+      "geometry": "rect",
+      "text": "风冷模块",
+      "textPreview": "风冷模块",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 17,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "风冷模块"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "风冷模块",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "风冷模块",
+              "fontSize": 17,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    }
+  ],
+  "composeRuns": []
+}

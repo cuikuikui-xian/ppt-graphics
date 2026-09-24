@@ -1,0 +1,2102 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/d34h3t",
+    "id": "d34h3t",
+    "slide": 16,
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light"
+    ]
+  },
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w3mx8bql",
+      "id": "1",
+      "name": "main-to-box-line",
+      "bbox": [
+        500,
+        138,
+        0,
+        62
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b2dwzq90",
+      "id": "2",
+      "name": "main-down-arrow",
+      "bbox": [
+        488,
+        177,
+        24,
+        28
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a14f6l8v",
+      "id": "3",
+      "name": "main-up-arrow",
+      "bbox": [
+        488,
+        132,
+        24,
+        28
+      ],
+      "geometry": "upArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lsvy50ri",
+      "id": "4",
+      "name": "control-box-stem",
+      "bbox": [
+        500,
+        270,
+        0,
+        38
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/krmxcvqx",
+      "id": "5",
+      "name": "control-bus",
+      "bbox": [
+        235,
+        308,
+        265,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jqdw3q9c",
+      "id": "6",
+      "name": "control-left-drop",
+      "bbox": [
+        235,
+        308,
+        0,
+        31
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y54fal8r",
+      "id": "7",
+      "name": "control-right-drop",
+      "bbox": [
+        500,
+        308,
+        0,
+        31
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1wbetwry",
+      "id": "8",
+      "name": "control-left-corner",
+      "bbox": [
+        223,
+        324,
+        24,
+        28
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0v2x0rqd",
+      "id": "9",
+      "name": "control-group-top",
+      "bbox": [
+        82,
+        338,
+        320,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y9s7ql0j",
+      "id": "10",
+      "name": "control-group-left",
+      "bbox": [
+        82,
+        338,
+        0,
+        20
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zal8zq14",
+      "id": "11",
+      "name": "control-group-right",
+      "bbox": [
+        402,
+        338,
+        0,
+        20
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0bupsvip",
+      "id": "12",
+      "name": "heater-command",
+      "bbox": [
+        82,
+        420,
+        0,
+        36
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lc3q1gju",
+      "id": "13",
+      "name": "heater-command-arrow",
+      "bbox": [
+        70,
+        443,
+        24,
+        28
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mdc7ul0f",
+      "id": "14",
+      "name": "hv-command",
+      "bbox": [
+        192,
+        420,
+        0,
+        36
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nel83q10",
+      "id": "15",
+      "name": "hv-command-arrow",
+      "bbox": [
+        180,
+        443,
+        24,
+        28
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8fupwvil",
+      "id": "16",
+      "name": "valve-command",
+      "bbox": [
+        302,
+        420,
+        0,
+        36
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9g3q50j6",
+      "id": "17",
+      "name": "valve-command-arrow",
+      "bbox": [
+        290,
+        443,
+        24,
+        28
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ahc7y50r",
+      "id": "18",
+      "name": "proportion-command",
+      "bbox": [
+        412,
+        420,
+        0,
+        36
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vi587a1c",
+      "id": "19",
+      "name": "proportion-command-arrow",
+      "bbox": [
+        400,
+        443,
+        24,
+        28
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/765ovax4",
+      "id": "20",
+      "name": "read-bus",
+      "bbox": [
+        500,
+        308,
+        265,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6lw7m5gj",
+      "id": "21",
+      "name": "read-right-up",
+      "bbox": [
+        765,
+        308,
+        0,
+        31
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t8n6xkfa",
+      "id": "22",
+      "name": "read-up-arrow",
+      "bbox": [
+        753,
+        324,
+        24,
+        28
+      ],
+      "geometry": "upArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s7epofyp",
+      "id": "23",
+      "name": "read-group-top",
+      "bbox": [
+        618,
+        338,
+        320,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ji5orqh8",
+      "id": "24",
+      "name": "read-group-left",
+      "bbox": [
+        618,
+        338,
+        0,
+        20
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ihw7ilgn",
+      "id": "25",
+      "name": "read-group-right",
+      "bbox": [
+        938,
+        338,
+        0,
+        20
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5kn6t0fe",
+      "id": "26",
+      "name": "temperature-read",
+      "bbox": [
+        658,
+        456,
+        0,
+        36
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kjepkvyt",
+      "id": "27",
+      "name": "temperature-up",
+      "bbox": [
+        646,
+        420,
+        24,
+        28
+      ],
+      "geometry": "upArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/velonqhw",
+      "id": "28",
+      "name": "flow-read",
+      "bbox": [
+        768,
+        456,
+        0,
+        36
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/adcnelgr",
+      "id": "29",
+      "name": "flow-up",
+      "bbox": [
+        756,
+        420,
+        24,
+        28
+      ],
+      "geometry": "upArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0jalore9",
+      "id": "30",
+      "name": "pressure-read",
+      "bbox": [
+        878,
+        456,
+        0,
+        36
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lkjmxwfu",
+      "id": "31",
+      "name": "pressure-up",
+      "bbox": [
+        866,
+        420,
+        24,
+        28
+      ],
+      "geometry": "upArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yh83mhwj",
+      "id": "32",
+      "name": "diff-pressure-read",
+      "bbox": [
+        958,
+        456,
+        0,
+        36
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zi14vmxo",
+      "id": "33",
+      "name": "diff-pressure-up",
+      "bbox": [
+        946,
+        420,
+        24,
+        28
+      ],
+      "geometry": "upArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8nalsrel",
+      "id": "34",
+      "name": "experiment-main-control",
+      "bbox": [
+        260,
+        70,
+        480,
+        68
+      ],
+      "geometry": "rect",
+      "text": "实验主控单元",
+      "textPreview": "实验主控单元",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 27,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "实验主控单元"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "实验主控单元",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "实验主控单元",
+              "fontSize": 27,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9ojm1wv6",
+      "id": "35",
+      "name": "experiment-electrical-box",
+      "bbox": [
+        260,
+        200,
+        480,
+        70
+      ],
+      "geometry": "rect",
+      "text": "实验模块电控盒",
+      "textPreview": "实验模块电控盒",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 25,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "实验模块电控盒"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "实验模块电控盒",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "实验模块电控盒",
+              "fontSize": 25,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 36,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mls3q1wf",
+      "id": "36",
+      "name": "parameter-transfer-label",
+      "bbox": [
+        535,
+        145,
+        235,
+        42
+      ],
+      "geometry": "rect",
+      "text": "传输指令及工参",
+      "textPreview": "传输指令及工参",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 23,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "传输指令及工参"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "传输指令及工参",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "传输指令及工参",
+              "fontSize": 23,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nm14zmd0",
+      "id": "37",
+      "name": "control-label",
+      "bbox": [
+        145,
+        298,
+        90,
+        40
+      ],
+      "geometry": "rect",
+      "text": "控制",
+      "textPreview": "控制",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 23,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "控制"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "控制",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "控制",
+              "fontSize": 23,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 38,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4rqlg7e1",
+      "id": "38",
+      "name": "read-label",
+      "bbox": [
+        765,
+        298,
+        90,
+        40
+      ],
+      "geometry": "rect",
+      "text": "读取",
+      "textPreview": "读取",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 23,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "读取"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "读取",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "读取",
+              "fontSize": 23,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 39,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pszmpcfm",
+      "id": "39",
+      "name": "heater",
+      "bbox": [
+        36,
+        358,
+        92,
+        62
+      ],
+      "geometry": "rect",
+      "text": "加热片",
+      "textPreview": "加热片",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "加热片"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "加热片",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "加热片",
+              "fontSize": 18,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 40,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hkvm5wji",
+      "id": "40",
+      "name": "high-voltage-device",
+      "bbox": [
+        146,
+        358,
+        92,
+        62
+      ],
+      "geometry": "rect",
+      "text": "高压装置",
+      "textPreview": "高压装置",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "高压装置"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "高压装置",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "高压装置",
+              "fontSize": 18,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 41,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gz25crix",
+      "id": "41",
+      "name": "normally-closed-valve",
+      "bbox": [
+        256,
+        358,
+        92,
+        62
+      ],
+      "geometry": "rect",
+      "text": "常闭阀",
+      "textPreview": "常闭阀",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "常闭阀"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "常闭阀",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "常闭阀",
+              "fontSize": 18,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 42,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vyt43m1c",
+      "id": "42",
+      "name": "proportional-valve",
+      "bbox": [
+        366,
+        358,
+        92,
+        62
+      ],
+      "geometry": "rect",
+      "text": "比例阀",
+      "textPreview": "比例阀",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "比例阀"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "比例阀",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "比例阀",
+              "fontSize": 18,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 43,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/uxkna10r",
+      "id": "43",
+      "name": "heater-code",
+      "bbox": [
+        36,
+        492,
+        92,
+        82
+      ],
+      "geometry": "rect",
+      "text": "编号\n电压",
+      "textPreview": "编号 | 电压",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 20,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "编号"
+          },
+          {
+            "index": 2,
+            "text": "电压"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "编号",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "编号",
+              "fontSize": 20,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "电压",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "电压",
+              "fontSize": 20,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 44,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/twbm1wj6",
+      "id": "44",
+      "name": "hv-code",
+      "bbox": [
+        146,
+        492,
+        92,
+        82
+      ],
+      "geometry": "rect",
+      "text": "编号\n电压",
+      "textPreview": "编号 | 电压",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 20,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "编号"
+          },
+          {
+            "index": 2,
+            "text": "电压"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "编号",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "编号",
+              "fontSize": 20,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "电压",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "电压",
+              "fontSize": 20,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 45,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8v2l8ril",
+      "id": "45",
+      "name": "closed-valve-code",
+      "bbox": [
+        256,
+        492,
+        92,
+        82
+      ],
+      "geometry": "rect",
+      "text": "编号\n开闭",
+      "textPreview": "编号 | 开闭",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 20,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "编号"
+          },
+          {
+            "index": 2,
+            "text": "开闭"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "编号",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "编号",
+              "fontSize": 20,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "开闭",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "开闭",
+              "fontSize": 20,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 46,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7ut4zm10",
+      "id": "46",
+      "name": "proportional-code",
+      "bbox": [
+        366,
+        492,
+        92,
+        82
+      ],
+      "geometry": "rect",
+      "text": "编号\n开度",
+      "textPreview": "编号 | 开度",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 20,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "编号"
+          },
+          {
+            "index": 2,
+            "text": "开度"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "编号",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "编号",
+              "fontSize": 20,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "开度",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "开度",
+              "fontSize": 20,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 47,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6tk36h0f",
+      "id": "47",
+      "name": "thermocouple",
+      "bbox": [
+        612,
+        358,
+        92,
+        62
+      ],
+      "geometry": "rect",
+      "text": "热电偶",
+      "textPreview": "热电偶",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "热电偶"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "热电偶",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "热电偶",
+              "fontSize": 18,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 48,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lsbmxcja",
+      "id": "48",
+      "name": "flowmeter",
+      "bbox": [
+        722,
+        358,
+        92,
+        62
+      ],
+      "geometry": "rect",
+      "text": "流量计",
+      "textPreview": "流量计",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "流量计"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "流量计",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "流量计",
+              "fontSize": 18,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 49,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kril47ip",
+      "id": "49",
+      "name": "pressure-gauge",
+      "bbox": [
+        832,
+        358,
+        92,
+        62
+      ],
+      "geometry": "rect",
+      "text": "压力计",
+      "textPreview": "压力计",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "压力计"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "压力计",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "压力计",
+              "fontSize": 18,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 50,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qlwbitcb",
+      "id": "50",
+      "name": "differential-gauge",
+      "bbox": [
+        926,
+        358,
+        64,
+        62
+      ],
+      "geometry": "rect",
+      "text": "差压计",
+      "textPreview": "差压计",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 14,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "差压计"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "差压计",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "差压计",
+              "fontSize": 14,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 51,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bm5sredw",
+      "id": "51",
+      "name": "temperature-value",
+      "bbox": [
+        612,
+        492,
+        92,
+        82
+      ],
+      "geometry": "rect",
+      "text": "温度",
+      "textPreview": "温度",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 20,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "温度"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "温度",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "温度",
+              "fontSize": 20,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 52,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cnytkju1",
+      "id": "52",
+      "name": "flow-value",
+      "bbox": [
+        722,
+        492,
+        92,
+        82
+      ],
+      "geometry": "rect",
+      "text": "流量",
+      "textPreview": "流量",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 20,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "流量"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "流量",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "流量",
+              "fontSize": 20,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 53,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/do7atovm",
+      "id": "53",
+      "name": "pressure-value",
+      "bbox": [
+        832,
+        492,
+        92,
+        82
+      ],
+      "geometry": "rect",
+      "text": "压力",
+      "textPreview": "压力",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 20,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "压力"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "压力",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "压力",
+              "fontSize": 20,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    },
+    {
+      "order": 54,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2xwre9cz",
+      "id": "54",
+      "name": "differential-value",
+      "bbox": [
+        926,
+        492,
+        64,
+        82
+      ],
+      "geometry": "rect",
+      "text": "压差",
+      "textPreview": "压差",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 20,
+        "typeface": "Calibri",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "压差"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "压差",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "压差",
+              "fontSize": 20,
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#111111",
+      "lineWidth": 3
+    }
+  ],
+  "composeRuns": []
+}

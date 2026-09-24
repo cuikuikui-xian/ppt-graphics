@@ -1,0 +1,689 @@
+{"kind":"deck","id":"pr/uhfo37","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"自定义版式"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"标题幻灯片"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout3.xml","name":"1_标题幻灯片"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout4.xml","name":"2_标题幻灯片"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster2.xml","name":"","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout5.xml","name":"标题和竖排文字","type":"vertTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/4/11"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout6.xml","name":"垂直排列标题与文本","type":"vertTitleAndTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/4/11"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout7.xml","name":"自定义版式"}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"汇报人：第一PPT","textShapes":6}
+{"kind":"textbox","id":"sh/65g3298r","slide":1,"name":"PA_圆角矩形 31","text":"汇报人：第一PPT","textPreview":"汇报人：第一PPT","textChars":9,"textLines":1,"bbox":[224.63,518.02,156.84,34.78]}
+{"kind":"textbox","id":"sh/ts7md4r2","slide":1,"name":"PA_圆角矩形 31","text":"时间：20XX.10","textPreview":"时间：20XX.10","textChars":10,"textLines":1,"bbox":[448.36,518.02,144.15,34.78]}
+{"kind":"textbox","id":"sh/sryl4zqx","slide":1,"name":"Rectangle 3","text":"Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam \nnonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam","textPreview":"Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam  | nonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat v...","textChars":172,"textLines":2,"bbox":[90.87,407.59,639.5,67.86]}
+{"kind":"textbox","id":"sh/fu94fe98","slide":1,"name":"文本框 7","text":"机械行业总结计划PPT","textPreview":"机械行业总结计划PPT","textChars":11,"textLines":1,"bbox":[65.6,268.08,742.04,96.94]}
+{"kind":"textbox","id":"sh/utg3698n","slide":1,"name":"文本框 8","text":"WORK REPORT","textPreview":"WORK REPORT","textChars":11,"textLines":1,"bbox":[158.33,184,572.04,80.78]}
+{"kind":"textbox","id":"sh/wn6dc7eh","slide":1,"name":"文本框 9","text":"毕业答辩| 工作总结 | 月度报告 | 工作计划 | 季度报告 ","textPreview":"毕业答辩| 工作总结 | 月度报告 | 工作计划 | 季度报告","textChars":32,"textLines":1,"bbox":[162.36,375.28,496.52,32.31]}
+{"kind":"image","id":"im/ipofexcz","slide":1,"name":"图片 2","bbox":[802.93,81.3,476.04,639.46]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":""}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"CONTENTS","textShapes":19}
+{"kind":"textbox","id":"sh/3q9w3uxc","slide":2,"name":"文本框 78","text":"CONTENTS","textPreview":"CONTENTS","textChars":8,"textLines":1,"bbox":[532.68,117.04,208.16,48.47]}
+{"kind":"textbox","id":"sh/ret8r2dk","slide":2,"name":"文本框 79","text":"目录","textPreview":"目录","textChars":2,"textLines":1,"bbox":[563.78,42.71,145.96,80.78]}
+{"kind":"textbox","id":"sh/ipk7udcn","slide":2,"name":"文本框 84","text":"月度工作概述","textPreview":"月度工作概述","textChars":6,"textLines":1,"bbox":[235.86,198.73,208.31,42.01]}
+{"kind":"textbox","id":"sh/5sbqpsve","slide":2,"name":"文本框 85","text":"Monthly work summary and work plan","textPreview":"Monthly work summary and work plan","textChars":34,"textLines":1,"bbox":[238.36,227.56,377.09,28.93]}
+{"kind":"shape","id":"sh/dwfmpobm","slide":2,"name":"圆角矩形 149","bbox":[164.47,201.31,51.46,51.46]}
+{"kind":"textbox","id":"sh/cv6lwjuh","slide":2,"name":"文本框 150","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[160.16,207.27,49.34,38.78]}
+{"kind":"textbox","id":"sh/gn2lozu9","slide":2,"name":"文本框 158","text":"工作完成情况","textPreview":"工作完成情况","textChars":6,"textLines":1,"bbox":[329.56,287.84,208.31,42.01]}
+{"kind":"textbox","id":"sh/s76l4z25","slide":2,"name":"文本框 159","text":"Monthly work summary and work plan","textPreview":"Monthly work summary and work plan","textChars":34,"textLines":1,"bbox":[332.06,316.66,377.09,28.93]}
+{"kind":"shape","id":"sh/2p43q9cz","slide":2,"name":"圆角矩形 156","bbox":[258.18,290.42,51.46,51.46]}
+{"kind":"textbox","id":"sh/1ov2h4ve","slide":2,"name":"文本框 157","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[259.17,296.38,49.34,38.78]}
+{"kind":"textbox","id":"sh/iho3ypkn","slide":2,"name":"文本框 165","text":"优秀项目展示","textPreview":"优秀项目展示","textChars":6,"textLines":1,"bbox":[235.86,376.94,208.31,42.01]}
+{"kind":"textbox","id":"sh/j2xk7ul8","slide":2,"name":"文本框 166","text":"Monthly work summary and work plan","textPreview":"Monthly work summary and work plan","textChars":34,"textLines":1,"bbox":[238.36,405.77,377.09,28.93]}
+{"kind":"shape","id":"sh/k36l0z2t","slide":2,"name":"圆角矩形 163","bbox":[164.47,379.52,51.46,51.46]}
+{"kind":"textbox","id":"sh/54f2943e","slide":2,"name":"文本框 164","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[165.46,385.48,49.34,38.78]}
+{"kind":"textbox","id":"sh/0vup4nm5","slide":2,"name":"文本框 172","text":"工作不足之处","textPreview":"工作不足之处","textChars":6,"textLines":1,"bbox":[329.56,466.05,208.31,42.01]}
+{"kind":"textbox","id":"sh/nylof2lw","slide":2,"name":"文本框 173","text":"Monthly work summary and work plan","textPreview":"Monthly work summary and work plan","textChars":34,"textLines":1,"bbox":[332.06,494.87,377.09,28.93]}
+{"kind":"shape","id":"sh/etc72x4f","slide":2,"name":"圆角矩形 170","bbox":[258.18,468.63,51.46,51.46]}
+{"kind":"textbox","id":"sh/1w36dsnq","slide":2,"name":"文本框 171","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[259.17,474.59,49.34,38.78]}
+{"kind":"textbox","id":"sh/6dovehs7","slide":2,"name":"文本框 179","text":"未来工作计划","textPreview":"未来工作计划","textChars":6,"textLines":1,"bbox":[235.86,555.15,208.31,42.01]}
+{"kind":"textbox","id":"sh/rexw7m9s","slide":2,"name":"文本框 180","text":"Monthly work summary and work plan","textPreview":"Monthly work summary and work plan","textChars":34,"textLines":1,"bbox":[238.36,583.97,377.09,28.93]}
+{"kind":"shape","id":"sh/321o3y5s","slide":2,"name":"圆角矩形 177","bbox":[164.47,557.73,51.46,51.46]}
+{"kind":"textbox","id":"sh/21snud47","slide":2,"name":"文本框 178","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[165.46,563.69,49.34,38.78]}
+{"kind":"shape","id":"sh/18jyxgbu","slide":2,"name":"直接连接符 197","bbox":[-687.14,143.54,363.72,0]}
+{"kind":"shape","id":"sh/x8nu5kba","slide":2,"name":"椭圆 199","bbox":[-1044.95,135.42,16.24,16.24]}
+{"kind":"shape","id":"sh/c7etcfup","slide":2,"name":"椭圆 200","bbox":[-1049.05,139.51,8.06,8.06]}
+{"kind":"textbox","id":"sh/yhcze5cn","slide":2,"name":"矩形 196","text":"“天下无难事 ， 只怕有心人”","textPreview":"“天下无难事 ， 只怕有心人”","textChars":15,"textLines":1,"bbox":[950.82,103.69,299.98,32.31]}
+{"kind":"textbox","id":"sh/b29kza94","slide":2,"name":"TextBox 4","text":"行业PPT模板http://www.1ppt.com/hangye/","textPreview":"行业PPT模板http://www.1ppt.com/hangye/","textChars":34,"textLines":1,"bbox":[2.83,0,47.63,12.43]}
+{"kind":"image","id":"im/q1czy10z","slide":2,"name":"图片 1","bbox":[646.55,104.53,615.47,615.47]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":""}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"PART ONE","textShapes":4}
+{"kind":"textbox","id":"sh/d0jax03i","slide":3,"name":"TextBox 30","text":"PART ONE","textPreview":"PART ONE","textChars":8,"textLines":1,"bbox":[78.41,263.77,784.79,151.87]}
+{"kind":"textbox","id":"sh/298ryl4v","slide":3,"name":"文本框 3","text":"月度工作概述","textPreview":"月度工作概述","textChars":6,"textLines":1,"bbox":[239.42,296.05,462.77,112.06]}
+{"kind":"shape","id":"sh/3ah8rqlg","slide":3,"name":"矩形 4","bbox":[450.43,418.83,40.73,8.3]}
+{"kind":"shape","id":"sh/pcjqtg36","slide":3,"name":"圆角矩形 6","bbox":[416.19,136.8,109.13,109.13]}
+{"kind":"textbox","id":"sh/m5cra54z","slide":3,"name":"文本框 7","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[402.18,155.26,137.58,80.78]}
+{"kind":"textbox","id":"sh/n6ls3alk","slide":3,"name":"Rectangle 3","text":"Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam \nnonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam","textPreview":"Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam  | nonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat v...","textChars":172,"textLines":2,"bbox":[151.3,450.31,639.5,67.86]}
+{"kind":"image","id":"im/4repgvex","slide":3,"name":"图片 1","bbox":[802.93,81.3,476.04,639.46]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"模板来自于：第一PPT https://www.1ppt.com/\n"}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"团队介绍","textShapes":11}
+{"kind":"shape","id":"sh/kbm987y5","slide":4,"name":"矩形 9","bbox":[78.22,269.52,1125.84,19.61]}
+{"kind":"shape","id":"sh/ql8jytsj","slide":4,"name":"矩形 4","bbox":[78.22,285.47,1125.84,344.95]}
+{"kind":"textbox","id":"sh/sna103ap","slide":4,"name":"TextBox 76","text":"团队介绍","textPreview":"团队介绍","textChars":4,"textLines":1,"bbox":[120.3,326.31,182.01,42.01]}
+{"kind":"textbox","id":"sh/3ihk3et8","slide":4,"name":"文本框 7","text":"请在此添加文字说明请在此添加文字说明请在此添加文字说明。请在此添加文字说明请在此添加文字说明请在此添加文字说明。\n\n请在此添加文字说明请在此添加文字说明请在此添加文字说明。\n\n初心不改共成长  凝心聚力普新篇！\n","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加文字说明。请在此添加文字说明请在此添加文字说明请在此添加文字说明。 |  | 请在此添加文字说明请在此添加文字说明请在此添加文字说明。 |  | 初心不改共成长  凝心聚力普新篇！ |","textChars":106,"textLines":6,"bbox":[120.3,371.19,340.61,236.53]}
+{"kind":"textbox","id":"sh/mtcfypkn","slide":4,"name":"TextBox 76","text":"Team introduction","textPreview":"Team introduction","textChars":17,"textLines":1,"bbox":[119.17,303.44,182.01,29.08]}
+{"kind":"shape","id":"sh/0ba143al","slide":4,"name":"矩形 2","bbox":[523.74,226.63,204.32,267.67]}
+{"kind":"shape","id":"sh/1wbapc7q","slide":4,"name":"矩形 23","bbox":[740.43,226.63,204.32,267.67]}
+{"kind":"shape","id":"sh/gv29g7q5","slide":4,"name":"矩形 24","bbox":[957.11,226.63,204.32,267.67]}
+{"kind":"shape","id":"sh/rm1k7yt4","slide":4,"name":"矩形 3","bbox":[523.74,511.95,204.32,65.18]}
+{"kind":"textbox","id":"sh/tsrqlc7u","slide":4,"name":"文本框 27","text":"请在此添加文字说明","textPreview":"请在此添加文字说明","textChars":9,"textLines":1,"bbox":[544.52,542.03,167.12,28.65]}
+{"kind":"textbox","id":"sh/sri9s7q9","slide":4,"name":"文本框 28","text":"李先生","textPreview":"李先生","textChars":3,"textLines":1,"bbox":[556.94,513.24,142.27,36.23]}
+{"kind":"shape","id":"sh/jm5gze1g","slide":4,"name":"矩形 30","bbox":[740.43,511.95,204.32,65.18]}
+{"kind":"textbox","id":"sh/knex8j21","slide":4,"name":"文本框 31","text":"请在此添加文字说明","textPreview":"请在此添加文字说明","textChars":9,"textLines":1,"bbox":[761.2,542.03,167.12,28.65]}
+{"kind":"textbox","id":"sh/5ony1oj6","slide":4,"name":"文本框 32","text":"张先生","textPreview":"张先生","textChars":3,"textLines":1,"bbox":[773.63,513.24,142.27,36.23]}
+{"kind":"shape","id":"sh/vy5gbe14","slide":4,"name":"矩形 34","bbox":[957.11,511.95,204.32,65.18]}
+{"kind":"textbox","id":"sh/wzex4z2p","slide":4,"name":"文本框 35","text":"请在此添加文字说明","textPreview":"请在此添加文字说明","textChars":9,"textLines":1,"bbox":[977.89,542.03,167.12,28.65]}
+{"kind":"textbox","id":"sh/xknyx4ja","slide":4,"name":"文本框 36","text":"王女士","textPreview":"王女士","textChars":3,"textLines":1,"bbox":[990.31,513.24,142.27,36.23]}
+{"kind":"textbox","id":"sh/et0reh8f","slide":4,"name":"文本框 26","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[44.24,37.33,65.84,54.93]}
+{"kind":"textbox","id":"sh/18nu50nu","slide":4,"name":"文本框 41","text":"月度工作概述","textPreview":"月度工作概述","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":""}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"添加标题","textShapes":14}
+{"kind":"shape","id":"sh/yhkbe1o7","slide":5,"name":"Freeform 6","bbox":[706.63,351.02,124.1,143.21]}
+{"kind":"shape","id":"sh/l4bupwny","slide":5,"name":"Freeform 7","bbox":[449.28,351.02,123.95,143.21]}
+{"kind":"shape","id":"sh/032tgr6d","slide":5,"name":"Freeform 8","bbox":[513.54,239.18,123.95,143.35]}
+{"kind":"shape","id":"sh/n6dcr65o","slide":5,"name":"Freeform 9","bbox":[642.5,239.18,123.95,143.35]}
+{"kind":"shape","id":"sh/m5kbi1oj","slide":5,"name":"Freeform 10","bbox":[513.54,462.15,123.95,143.35]}
+{"kind":"shape","id":"sh/w32dkbuh","slide":5,"name":"Freeform 11","bbox":[642.5,462.15,123.95,143.35]}
+{"kind":"shape","id":"sh/x4vedgvm","slide":5,"name":"Freeform 13","bbox":[485.92,395.56,55.25,54.56]}
+{"kind":"shape","id":"sh/ahkvi1cb","slide":5,"name":"Freeform 14","bbox":[557.63,277.99,39.65,54.13]}
+{"kind":"shape","id":"sh/v2twb6dw","slide":5,"name":"Freeform 15","bbox":[673.14,284,62.98,53.99]}
+{"kind":"shape","id":"sh/k7mxovud","slide":5,"name":"Freeform 17","bbox":[739.5,395.28,55.25,55.42]}
+{"kind":"shape","id":"sh/i54fmlc7","slide":5,"name":"Freeform 36","bbox":[682.06,505.57,29,19.27]}
+{"kind":"shape","id":"sh/j6dwfqds","slide":5,"name":"Freeform 37","bbox":[704.82,517.02,30.25,31.67]}
+{"kind":"shape","id":"sh/sb6xsvu9","slide":5,"name":"Freeform 38","bbox":[674.18,525.47,36.65,36.62]}
+{"kind":"shape","id":"sh/hgrmpwj2","slide":5,"name":"Freeform 665","bbox":[545.92,504.72,51.51,39.77]}
+{"kind":"shape","id":"sh/gfi5grih","slide":5,"name":"Rectangle 666","bbox":[550.46,547.43,7.47,13.61]}
+{"kind":"shape","id":"sh/fe94nm1w","slide":5,"name":"Rectangle 667","bbox":[562.73,540.75,7.47,20.29]}
+{"kind":"shape","id":"sh/ud0ne10b","slide":5,"name":"Rectangle 668","bbox":[575.28,534.08,7.47,26.96]}
+{"kind":"shape","id":"sh/pkr6tgjy","slide":5,"name":"Rectangle 669","bbox":[587.55,527.41,7.47,33.63]}
+{"kind":"textbox","id":"sh/4ji5kbid","slide":5,"name":"TextBox 76","text":"添加标题","textPreview":"添加标题","textChars":4,"textLines":1,"bbox":[811.48,213.12,166.81,42.01]}
+{"kind":"textbox","id":"sh/3i94r61s","slide":5,"name":"文本框 25","text":"您的内容打在这里，或者通过复制您的文本在此框中选择粘贴并选择只保留","textPreview":"您的内容打在这里，或者通过复制您的文本在此框中选择粘贴并选择只保留","textChars":33,"textLines":1,"bbox":[811.48,251.9,328.37,57.64]}
+{"kind":"textbox","id":"sh/2h0ni107","slide":5,"name":"TextBox 76","text":"添加标题","textPreview":"添加标题","textChars":4,"textLines":1,"bbox":[811.48,533.91,153.09,42.01]}
+{"kind":"textbox","id":"sh/5o7mhcju","slide":5,"name":"文本框 27","text":"您的内容打在这里，或者通过复制您的文本在此框中选择粘贴并选择只保留","textPreview":"您的内容打在这里，或者通过复制您的文本在此框中选择粘贴并选择只保留","textChars":33,"textLines":1,"bbox":[811.48,572.69,311.57,57.64]}
+{"kind":"textbox","id":"sh/kny587i9","slide":5,"name":"TextBox 76","text":"添加标题","textPreview":"添加标题","textChars":4,"textLines":1,"bbox":[888.03,369.24,171.01,42.01]}
+{"kind":"textbox","id":"sh/atcjidg7","slide":5,"name":"文本框 29","text":"您的内容打在这里，或者通过复制您的文本在此框中选择粘贴并选择只保留","textPreview":"您的内容打在这里，或者通过复制您的文本在此框中选择粘贴并选择只保留","textChars":33,"textLines":1,"bbox":[888.03,408.02,311.2,57.64]}
+{"kind":"textbox","id":"sh/vu5kbihc","slide":5,"name":"TextBox 76","text":"添加标题","textPreview":"添加标题","textChars":4,"textLines":1,"bbox":[300.5,213.12,165.65,42.01]}
+{"kind":"textbox","id":"sh/wve1knyx","slide":5,"name":"文本框 31","text":"您的内容打在这里，或者通过复制您的文本在此框中选择粘贴并选择只保留","textPreview":"您的内容打在这里，或者通过复制您的文本在此框中选择粘贴并选择只保留","textChars":33,"textLines":1,"bbox":[150.44,251.9,315.71,57.64]}
+{"kind":"textbox","id":"sh/xwn2dszi","slide":5,"name":"TextBox 76","text":"添加标题","textPreview":"添加标题","textChars":4,"textLines":1,"bbox":[317.3,533.91,145.67,42.01]}
+{"kind":"textbox","id":"sh/ihw3mxg3","slide":5,"name":"文本框 33","text":"您的内容打在这里，或者通过复制您的文本在此框中选择粘贴并选择只保留","textPreview":"您的内容打在这里，或者通过复制您的文本在此框中选择粘贴并选择只保留","textChars":33,"textLines":1,"bbox":[150.44,572.69,312.53,57.64]}
+{"kind":"textbox","id":"sh/ji5kf2ho","slide":5,"name":"TextBox 76","text":"添加标题","textPreview":"添加标题","textChars":4,"textLines":1,"bbox":[234.67,369.24,151.22,42.01]}
+{"kind":"textbox","id":"sh/kjelony9","slide":5,"name":"文本框 35","text":"您的内容打在这里，或者通过复制您的文本在此框中选择粘贴并选择只保留","textPreview":"您的内容打在这里，或者通过复制您的文本在此框中选择粘贴并选择只保留","textChars":33,"textLines":1,"bbox":[69.08,408.02,316.8,57.64]}
+{"kind":"textbox","id":"sh/bqx0fe9g","slide":5,"name":"文本框 47","text":"月度工作概述","textPreview":"月度工作概述","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/2l4zip8j","slide":5,"name":"文本框 44","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[44.24,37.33,65.84,54.93]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":""}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"20XX","textShapes":8}
+{"kind":"shape","id":"sh/h4bupgn6","slide":6,"name":"矩形 9","bbox":[127.63,215.57,292.51,179.69]}
+{"kind":"textbox","id":"sh/w32twb6l","slide":6,"name":"矩形 10","text":"20XX\n7月","textPreview":"20XX | 7月","textChars":7,"textLines":2,"bbox":[487.91,215.57,86.96,67.88]}
+{"kind":"textbox","id":"sh/v2tcn650","slide":6,"name":"TextBox 76","text":"今年企业大事件","textPreview":"今年企业大事件","textChars":7,"textLines":1,"bbox":[618.79,210.01,322.01,42.01]}
+{"kind":"textbox","id":"sh/u1kbu1ov","slide":6,"name":"文本框 12","text":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明。请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明。","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明。请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明。","textChars":110,"textLines":1,"bbox":[620.26,254.49,526.09,110.51]}
+{"kind":"shape","id":"sh/5svutgni","slide":6,"name":"矩形 13","bbox":[829,466.33,292.51,179.69]}
+{"kind":"textbox","id":"sh/47mt0b6x","slide":6,"name":"矩形 14","text":"20XX\n8月","textPreview":"20XX | 8月","textChars":7,"textLines":2,"bbox":[690.33,466.33,86.96,67.88]}
+{"kind":"textbox","id":"sh/j6dcr65c","slide":6,"name":"TextBox 76","text":"公司发生的变化","textPreview":"公司发生的变化","textChars":7,"textLines":1,"bbox":[321,460.78,322.01,42.01]}
+{"kind":"textbox","id":"sh/i54bylor","slide":6,"name":"文本框 16","text":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明。请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明。请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明","textChars":109,"textLines":1,"bbox":[117.62,505.26,526.09,110.51]}
+{"kind":"shape","id":"sh/svmt4v6t","slide":6,"name":"直接连接符 18","bbox":[127.63,431.44,993.87,0]}
+{"kind":"textbox","id":"sh/dcnm98zm","slide":6,"name":"文本框 20","text":"月度工作概述","textPreview":"月度工作概述","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/qpwnet0b","slide":6,"name":"文本框 21","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[48.2,37.33,65.84,54.93]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":""}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"初心不改共成长  凝心聚力普新篇","textShapes":12}
+{"kind":"textbox","id":"sh/cb2tkvap","slide":7,"name":"TextBox 370","text":"  初心不改共成长  凝心聚力普新篇 ","textPreview":"初心不改共成长  凝心聚力普新篇","textChars":19,"textLines":1,"bbox":[713.11,226.89,436.76,52.45]}
+{"kind":"textbox","id":"sh/ydkbm5sv","slide":7,"name":"TextBox 372","text":"诚信互利","textPreview":"诚信互利","textChars":4,"textLines":1,"bbox":[180.03,227.49,105.55,35.54]}
+{"kind":"textbox","id":"sh/zedcfa9g","slide":7,"name":"TextBox 373","text":"团队合作","textPreview":"团队合作","textChars":4,"textLines":1,"bbox":[263.06,593.22,105.55,35.54]}
+{"kind":"textbox","id":"sh/kzmdova1","slide":7,"name":"TextBox 374","text":"全局观念","textPreview":"全局观念","textChars":4,"textLines":1,"bbox":[532.69,471.02,105.55,35.54]}
+{"kind":"textbox","id":"sh/l0vuh0rm","slide":7,"name":"TextBox 375","text":"充满激情","textPreview":"充满激情","textChars":4,"textLines":1,"bbox":[467.66,280.25,105.55,35.54]}
+{"kind":"textbox","id":"sh/eh0ba1sr","slide":7,"name":"TextBox 376","text":"创新思维","textPreview":"创新思维","textChars":4,"textLines":1,"bbox":[115.9,417.73,105.55,35.54]}
+{"kind":"shape","id":"sh/fi9c369c","slide":7,"name":"椭圆 8","bbox":[290.25,283.91,135.19,135.19]}
+{"kind":"shape","id":"sh/baxkjqlk","slide":7,"name":"椭圆 9","bbox":[194.63,459.39,105.21,105.21]}
+{"kind":"shape","id":"sh/a9ojq5kz","slide":7,"name":"椭圆 10","bbox":[509.3,419.63,39.76,39.76]}
+{"kind":"shape","id":"sh/50v2pgna","slide":7,"name":"椭圆 22","bbox":[537.82,326.85,86.35,86.35]}
+{"kind":"shape","id":"sh/cbq1sv25","slide":7,"name":"椭圆 12","bbox":[166.16,591.56,29.03,29.03]}
+{"kind":"shape","id":"sh/jedkn654","slide":7,"name":"椭圆 20","bbox":[161.66,363.87,38.03,38.03]}
+{"kind":"shape","id":"sh/25ojml43","slide":7,"name":"椭圆 14","bbox":[467.27,221.13,39.76,39.76]}
+{"kind":"shape","id":"sh/p8fih03e","slide":7,"name":"椭圆 15","bbox":[571.74,591.98,19.88,19.88]}
+{"kind":"shape","id":"sh/o761ov2t","slide":7,"name":"椭圆 16","bbox":[388.82,472.07,88.33,88.33]}
+{"kind":"shape","id":"sh/f2d0b6lc","slide":7,"name":"椭圆 17","bbox":[317.92,218.98,39.92,39.76]}
+{"kind":"shape","id":"sh/eh4jil4r","slide":7,"name":"椭圆 18","bbox":[423.04,431.25,19.88,19.88]}
+{"kind":"shape","id":"sh/mxc7mts7","slide":7,"name":"椭圆 45","bbox":[458.12,578.71,14.77,14.77]}
+{"kind":"shape","id":"sh/x4j6p47q","slide":7,"name":"矩形 33","bbox":[713.11,302.68,436.76,160.38]}
+{"kind":"textbox","id":"sh/r2dkrq5g","slide":7,"name":"矩形 24","text":"您的内容打在这里，或者通过复制您的文本在此框中选择粘贴并选择只保留文字您的您的内容打在这里，或者通过复制您的文本后，","textPreview":"您的内容打在这里，或者通过复制您的文本在此框中选择粘贴并选择只保留文字您的您的内容打在这里，或者通过复制您的文本后，","textChars":58,"textLines":1,"bbox":[731.11,357.06,403.24,92.9]}
+{"kind":"textbox","id":"sh/s3ml0v61","slide":7,"name":"矩形 25","text":"团队成员建设","textPreview":"团队成员建设","textChars":6,"textLines":1,"bbox":[729.63,309.22,230.11,52.45]}
+{"kind":"shape","id":"sh/ulc7qdsj","slide":7,"name":"矩形 41","bbox":[713.11,482.75,436.76,160.38]}
+{"kind":"textbox","id":"sh/8jupo3ad","slide":7,"name":"矩形 43","text":"您的内容打在这里通过复制您的文本在此框中选择粘贴并选择只保留文字您的您的或者通过复制您的文本框中选择粘贴并选择只保此您的内框中","textPreview":"您的内容打在这里通过复制您的文本在此框中选择粘贴并选择只保留文字您的您的或者通过复制您的文本框中选择粘贴并选择只保此您的内框中","textChars":63,"textLines":1,"bbox":[731.11,537.13,403.24,92.9]}
+{"kind":"textbox","id":"sh/9k3qx8ry","slide":7,"name":"矩形 44","text":"团队技能培训","textPreview":"团队技能培训","textChars":6,"textLines":1,"bbox":[729.63,489.29,230.11,52.45]}
+{"kind":"textbox","id":"sh/b2h4nupk","slide":7,"name":"文本框 35","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[48.2,37.33,65.84,54.93]}
+{"kind":"textbox","id":"sh/a18nup8z","slide":7,"name":"文本框 36","text":"月度工作概述","textPreview":"月度工作概述","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":""}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"项目运营情况","textShapes":10}
+{"kind":"shape","id":"sh/je9g3ahk","slide":8,"name":"Oval 5","bbox":[134.04,259.61,104.79,104.57]}
+{"kind":"shape","id":"sh/id0fu50z","slide":8,"name":"Freeform 7","bbox":[159.83,280.83,54.8,54.69]}
+{"kind":"textbox","id":"sh/ehgvihwr","slide":8,"name":"TextBox 76","text":"项目运营情况","textPreview":"项目运营情况","textChars":6,"textLines":1,"bbox":[280.81,259.12,182.01,42.01]}
+{"kind":"textbox","id":"sh/zipwbmdc","slide":8,"name":"文本框 16","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":40,"textLines":1,"bbox":[280.81,294.66,341.88,57.64]}
+{"kind":"shape","id":"sh/0jydkreh","slide":8,"name":"Oval 26","bbox":[689.14,259.12,104.79,104.79]}
+{"kind":"shape","id":"sh/1k7edwv2","slide":8,"name":"Freeform 6","bbox":[707.42,280.11,65.37,66.9]}
+{"kind":"textbox","id":"sh/kfixwbe1","slide":8,"name":"TextBox 76","text":"项目运营情况","textPreview":"项目运营情况","textChars":6,"textLines":1,"bbox":[834.32,259.12,182.01,42.01]}
+{"kind":"textbox","id":"sh/lgbepgvm","slide":8,"name":"文本框 18","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":40,"textLines":1,"bbox":[834.32,294.66,341.88,57.64]}
+{"kind":"shape","id":"sh/o7ydoret","slide":8,"name":"Oval 21","bbox":[134.04,465.4,104.79,104.79]}
+{"kind":"shape","id":"sh/98rehwve","slide":8,"name":"Freeform 12","bbox":[149.69,491.53,71.49,43.62]}
+{"kind":"textbox","id":"sh/tw7e9gnq","slide":8,"name":"TextBox 76","text":"项目运营情况","textPreview":"项目运营情况","textChars":6,"textLines":1,"bbox":[280.81,465.4,182.01,42.01]}
+{"kind":"textbox","id":"sh/svydgb65","slide":8,"name":"文本框 20","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":40,"textLines":1,"bbox":[280.81,500.95,341.88,57.64]}
+{"kind":"shape","id":"sh/m5gvmhwn","slide":8,"name":"Oval 24","bbox":[689.14,465.08,104.79,104.57]}
+{"kind":"shape","id":"sh/n6pwfmd8","slide":8,"name":"Freeform 22","bbox":[716.97,493.04,50.06,49.89]}
+{"kind":"textbox","id":"sh/7u5w765k","slide":8,"name":"TextBox 76","text":"项目运营情况","textPreview":"项目运营情况","textChars":6,"textLines":1,"bbox":[834.32,465.4,182.01,42.01]}
+{"kind":"textbox","id":"sh/6twve1oz","slide":8,"name":"文本框 22","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":40,"textLines":1,"bbox":[834.32,500.95,341.88,57.64]}
+{"kind":"textbox","id":"sh/jq5w365o","slide":8,"name":"文本框 25","text":"月度工作概述","textPreview":"月度工作概述","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/i5wva1o3","slide":8,"name":"文本框 26","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[48.2,37.33,65.84,54.93]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":""}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"A类 客户群体","textShapes":6}
+{"kind":"shape","id":"sh/mdonql4z","slide":9,"name":"Rectangle 58","bbox":[377.89,257.55,151.18,151.18]}
+{"kind":"shape","id":"sh/9gzml0nq","slide":9,"name":"Rectangle 58","bbox":[551.32,256,151.18,151.18]}
+{"kind":"shape","id":"sh/ofq5svm5","slide":9,"name":"Rectangle 58","bbox":[729.18,257.55,151.18,151.18]}
+{"kind":"shape","id":"sh/bih4na5w","slide":9,"name":"Freeform 28","bbox":[586.36,295.46,75.78,72.25]}
+{"kind":"shape","id":"sh/ah8nu54b","slide":9,"name":"Freeform 29","bbox":[425.68,300.16,53.2,62.85]}
+{"kind":"shape","id":"sh/oza1gfyh","slide":9,"name":"Freeform 30","bbox":[774.62,295.39,57.91,72.38]}
+{"kind":"shape","id":"sh/p0ji9kf2","slide":9,"name":"Rectangle 58","bbox":[264.24,300.02,66.25,66.25]}
+{"kind":"shape","id":"sh/2xsjepgb","slide":9,"name":"Rectangle 58","bbox":[929.03,300.02,66.25,66.25]}
+{"kind":"textbox","id":"sh/3y107axw","slide":9,"name":"TextBox 76","text":"A类 客户群体","textPreview":"A类 客户群体","textChars":7,"textLines":1,"bbox":[209.14,497.92,182.01,42.01]}
+{"kind":"textbox","id":"sh/cnu1kzyd","slide":9,"name":"文本框 13","text":"请在此添加文字说明请在此添加文字说明，请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明。请在此添加文字说明请在此添加文字说明，请在此添加文字说明","textPreview":"请在此添加文字说明请在此添加文字说明，请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明。请在此添加文字说明请在此添加文字说明，请在此添加文字说明","textChars":84,"textLines":1,"bbox":[206.66,539.92,376.51,110.51]}
+{"kind":"textbox","id":"sh/76h0zup8","slide":9,"name":"TextBox 76","text":"B类 客户群体","textPreview":"B类 客户群体","textChars":7,"textLines":1,"bbox":[706.17,497.92,182.01,42.01]}
+{"kind":"textbox","id":"sh/2l4faloj","slide":9,"name":"文本框 29","text":"请在此添加文字说明请在此添加文字说明，请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明。请在此添加文字说明请在此添加文字说明，请在此添加文字说明","textPreview":"请在此添加文字说明请在此添加文字说明，请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明。请在此添加文字说明请在此添加文字说明，请在此添加文字说明","textChars":84,"textLines":1,"bbox":[703.69,539.92,376.51,110.51]}
+{"kind":"textbox","id":"sh/ml8j6p8n","slide":9,"name":"文本框 22","text":"月度工作概述","textPreview":"月度工作概述","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/u9sja98z","slide":9,"name":"文本框 26","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[48.2,37.33,65.84,54.93]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":""}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"PART TWO","textShapes":4}
+{"kind":"textbox","id":"sh/cbu58j2h","slide":10,"name":"TextBox 30","text":"PART TWO","textPreview":"PART TWO","textChars":8,"textLines":1,"bbox":[78.41,263.77,784.79,151.87]}
+{"kind":"textbox","id":"sh/zelojyl8","slide":10,"name":"文本框 3","text":"工作完成情况","textPreview":"工作完成情况","textChars":6,"textLines":1,"bbox":[239.42,296.05,462.77,112.06]}
+{"kind":"shape","id":"sh/ydcnatkn","slide":10,"name":"矩形 4","bbox":[450.43,418.83,40.73,8.3]}
+{"kind":"shape","id":"sh/kzu5c32t","slide":10,"name":"圆角矩形 6","bbox":[416.19,136.8,109.13,109.13]}
+{"kind":"textbox","id":"sh/725onyl4","slide":10,"name":"文本框 7","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[402.18,155.26,137.58,80.78]}
+{"kind":"textbox","id":"sh/m1cnetkj","slide":10,"name":"Rectangle 3","text":"Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam \nnonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam","textPreview":"Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam  | nonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat v...","textChars":172,"textLines":2,"bbox":[151.3,450.31,639.5,67.86]}
+{"kind":"image","id":"im/fip0zylc","slide":10,"name":"图片 1","bbox":[802.93,81.3,476.04,639.46]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":""}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"北京光纤集团项目","textShapes":10}
+{"kind":"shape","id":"sh/72t03qp0","slide":11,"name":"Rectangle 10","bbox":[100.3,206.76,577.8,426]}
+{"kind":"shape","id":"sh/61kzalof","slide":11,"name":"Rectangle 22","bbox":[100.3,269.13,577.8,149.67]}
+{"kind":"textbox","id":"sh/ofqtgnyt","slide":11,"name":"TextBox 76","text":"北京光纤集团项目","textPreview":"北京光纤集团项目","textChars":8,"textLines":1,"bbox":[122.68,291.3,240.96,42.01]}
+{"kind":"textbox","id":"sh/9gza9sze","slide":11,"name":"文本框 10","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明。","textChars":50,"textLines":1,"bbox":[122.68,332.34,532.31,57.64]}
+{"kind":"textbox","id":"sh/mdobedg3","slide":11,"name":"文本框 11","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明","textChars":59,"textLines":1,"bbox":[769.62,250.71,418.55,85.3]}
+{"kind":"textbox","id":"sh/nehs7iho","slide":11,"name":"TextBox 76","text":"项目类别","textPreview":"项目类别","textChars":4,"textLines":1,"bbox":[778.91,198.72,152.14,42.01]}
+{"kind":"textbox","id":"sh/0b6tc3yx","slide":11,"name":"文本框 13","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明","textChars":59,"textLines":1,"bbox":[769.62,403.77,418.55,85.3]}
+{"kind":"textbox","id":"sh/1cfa58zi","slide":11,"name":"TextBox 76","text":"项目性质","textPreview":"项目性质","textChars":4,"textLines":1,"bbox":[778.91,351.79,152.14,42.01]}
+{"kind":"textbox","id":"sh/epobatgr","slide":11,"name":"文本框 15","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明","textChars":59,"textLines":1,"bbox":[769.62,556.83,418.55,85.3]}
+{"kind":"textbox","id":"sh/zaxs3yhc","slide":11,"name":"TextBox 76","text":"项目服务","textPreview":"项目服务","textChars":4,"textLines":1,"bbox":[778.91,504.85,152.14,42.01]}
+{"kind":"textbox","id":"sh/tsnip0ny","slide":11,"name":"文本框 19","text":"工作完成情况","textPreview":"工作完成情况","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/87ehgv6d","slide":11,"name":"文本框 20","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[48.2,37.33,65.84,54.93]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":""}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"请在此添加文字说明请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明请在此添加文字说明。请在此添加文字说明，请在此添加文字说明...","textShapes":8}
+{"kind":"shape","id":"sh/9sj65kn2","slide":12,"name":"矩形 14","bbox":[728.51,221.23,424.18,435.12]}
+{"kind":"textbox","id":"sh/mps7a5or","slide":12,"name":"文本框 15","text":"请在此添加文字说明请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明请在此添加文字说明。请在此添加文字说明，请在此添加文字说明请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明请在此添加文字说明。请在此添加文字说明，请在此添加文字说明请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":117,"textLines":1,"bbox":[765.38,297.37,358.92,160.92]}
+{"kind":"textbox","id":"sh/nq1o3a5w","slide":12,"name":"TextBox 76","text":"项目收益","textPreview":"项目收益","textChars":4,"textLines":1,"bbox":[765.38,250.96,127.1,42.01]}
+{"kind":"shape","id":"sh/0nap8f6l","slide":12,"name":"矩形 17","bbox":[728.51,494.27,424.18,137.14]}
+{"kind":"shape","id":"sh/1oj61kn6","slide":12,"name":"KSO_Shape","bbox":[785.25,507.39,110.89,110.89]}
+{"kind":"textbox","id":"sh/hkbm5wzu","slide":12,"name":"TextBox 76","text":"99%","textPreview":"99%","textChars":3,"textLines":1,"bbox":[940.6,525.68,130.63,74.32]}
+{"kind":"textbox","id":"sh/tgrm1wzy","slide":12,"name":"文本框 23","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明添加文字说明。请在此添加文字说明添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。\n\n请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说添加文字说明请在此添加文字说明添加文字说明在此添加文字说明明请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明添加文字说明。请在此添加文字说明添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。 |  | 请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说添...","textChars":182,"textLines":3,"bbox":[134.83,401.21,456.76,236.53]}
+{"kind":"textbox","id":"sh/sfi58ryd","slide":12,"name":"TextBox 76","text":"重点项目概述","textPreview":"重点项目概述","textChars":6,"textLines":1,"bbox":[162.25,337.83,248.41,48.47]}
+{"kind":"textbox","id":"sh/7u94zmhs","slide":12,"name":"TextBox 76","text":"¥：888,000","textPreview":"¥：888,000","textChars":9,"textLines":1,"bbox":[162.25,226.43,248.41,61.39]}
+{"kind":"textbox","id":"sh/6t0n6hg7","slide":12,"name":"文本框 26","text":"工作完成情况","textPreview":"工作完成情况","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/dcv6dgz2","slide":12,"name":"文本框 27","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[48.2,37.33,65.84,54.93]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":""}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"C","textShapes":14}
+{"kind":"shape","id":"sh/1076lobm","slide":13,"name":"矩形 8","bbox":[272.88,458.61,363.16,127.76]}
+{"kind":"textbox","id":"sh/gb6x0zm9","slide":13,"name":"菱形 10","text":"C","textPreview":"C","textChars":1,"textLines":1,"bbox":[227.38,476.87,91.97,91.97]}
+{"kind":"textbox","id":"sh/vaxg7ulo","slide":13,"name":"TextBox 76","text":"工作计划内容","textPreview":"工作计划内容","textChars":6,"textLines":1,"bbox":[331.41,478.37,189.56,42.01]}
+{"kind":"textbox","id":"sh/u9ofyp43","slide":13,"name":"文本框 12","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明","textChars":29,"textLines":1,"bbox":[331.41,511.72,293.76,57.64]}
+{"kind":"shape","id":"sh/gzy5s3a1","slide":13,"name":"矩形 7","bbox":[148.53,237.08,363.16,127.76]}
+{"kind":"textbox","id":"sh/hcfy9k3u","slide":13,"name":"菱形 9","text":"A","textPreview":"A","textChars":1,"textLines":1,"bbox":[102.54,254.6,91.97,91.97]}
+{"kind":"textbox","id":"sh/t8fy5k3i","slide":13,"name":"TextBox 76","text":"工作计划内容","textPreview":"工作计划内容","textChars":6,"textLines":1,"bbox":[206.72,256.85,189.41,42.01]}
+{"kind":"textbox","id":"sh/876xwfmx","slide":13,"name":"文本框 14","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明","textChars":29,"textLines":1,"bbox":[206.72,290.2,293.76,57.64]}
+{"kind":"shape","id":"sh/6l4fu547","slide":13,"name":"矩形 16","bbox":[837.66,458.61,363.16,127.76]}
+{"kind":"textbox","id":"sh/kjmxsfm1","slide":13,"name":"菱形 18","text":"D","textPreview":"D","textChars":1,"textLines":1,"bbox":[792.16,476.87,91.97,91.97]}
+{"kind":"textbox","id":"sh/cnqh8fux","slide":13,"name":"TextBox 76","text":"工作计划内容","textPreview":"工作计划内容","textChars":6,"textLines":1,"bbox":[896.19,478.37,180.28,42.01]}
+{"kind":"textbox","id":"sh/xozyhkbi","slide":13,"name":"文本框 20","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明","textChars":29,"textLines":1,"bbox":[896.19,511.72,293.76,57.64]}
+{"kind":"shape","id":"sh/7mdg3als","slide":13,"name":"矩形 15","bbox":[713.31,237.08,363.16,127.76]}
+{"kind":"textbox","id":"sh/lkvy103m","slide":13,"name":"菱形 17","text":"B","textPreview":"B","textChars":1,"textLines":1,"bbox":[667.32,254.6,91.97,91.97]}
+{"kind":"textbox","id":"sh/q18f65cr","slide":13,"name":"TextBox 76","text":"工作计划内容","textPreview":"工作计划内容","textChars":6,"textLines":1,"bbox":[771.5,256.85,189.41,42.01]}
+{"kind":"textbox","id":"sh/bmhgfatc","slide":13,"name":"文本框 22","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明","textChars":29,"textLines":1,"bbox":[771.5,290.2,293.76,57.64]}
+{"kind":"textbox","id":"sh/2xof2lcv","slide":13,"name":"文本框 25","text":"工作完成情况","textPreview":"工作完成情况","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/3yxgbqdg","slide":13,"name":"文本框 26","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[48.2,37.33,65.84,54.93]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":""}
+{"kind":"slide","id":"sl/6lsnupw7","slide":14,"title":"项目完成","textShapes":10}
+{"kind":"shape","id":"sh/grmxwvqt","slide":14,"name":"Teardrop 25","bbox":[208.54,318.52,68.12,68.12]}
+{"kind":"shape","id":"sh/fqdg3q98","slide":14,"name":"Freeform 63","bbox":[226.38,338.62,32.56,27.91]}
+{"kind":"textbox","id":"sh/bup4rils","slide":14,"name":"TextBox 76","text":"项目完成","textPreview":"项目完成","textChars":4,"textLines":1,"bbox":[169.64,453.05,143.56,42.01]}
+{"kind":"textbox","id":"sh/cvylkn2d","slide":14,"name":"文本框 31","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":40,"textLines":1,"bbox":[111.15,495.65,257.94,85.3]}
+{"kind":"shape","id":"sh/4vmh0vq5","slide":14,"name":"Teardrop 33","bbox":[470.6,236.62,68.12,68.12]}
+{"kind":"shape","id":"sh/3udg7q9k","slide":14,"name":"Freeform 103","bbox":[490.36,257.13,30.54,27.1]}
+{"kind":"textbox","id":"sh/xw7mts3y","slide":14,"name":"TextBox 76","text":"项目完成","textPreview":"项目完成","textChars":4,"textLines":1,"bbox":[438.05,371.15,136.97,42.01]}
+{"kind":"textbox","id":"sh/yxgnmxkj","slide":14,"name":"文本框 33","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":40,"textLines":1,"bbox":[376.27,413.75,257.94,85.3]}
+{"kind":"shape","id":"sh/up4fal83","slide":14,"name":"Teardrop 37","bbox":[735.03,318.52,68.12,68.12]}
+{"kind":"shape","id":"sh/pwvy90rq","slide":14,"name":"Freeform 100","bbox":[750,336.4,28.72,32.36]}
+{"kind":"textbox","id":"sh/jyp4fil4","slide":14,"name":"TextBox 76","text":"项目完成","textPreview":"项目完成","textChars":4,"textLines":1,"bbox":[701.04,453.05,141.21,42.01]}
+{"kind":"textbox","id":"sh/kzy5on2p","slide":14,"name":"文本框 35","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":40,"textLines":1,"bbox":[641.38,495.65,257.94,85.3]}
+{"kind":"shape","id":"sh/2t4fyl8z","slide":14,"name":"Teardrop 21","bbox":[1001.82,236.62,68.12,68.12]}
+{"kind":"shape","id":"sh/cz6h4fq1","slide":14,"name":"Freeform 108","bbox":[1019.8,250.25,30.74,40.85]}
+{"kind":"shape","id":"sh/atg3idk7","slide":14,"name":"Freeform 109","bbox":[1035.17,255.51,10.11,10.11]}
+{"kind":"textbox","id":"sh/lkrmhsju","slide":14,"name":"TextBox 76","text":"项目完成","textPreview":"项目完成","textChars":4,"textLines":1,"bbox":[963.19,371.15,147.13,42.01]}
+{"kind":"textbox","id":"sh/6l0nqxkf","slide":14,"name":"文本框 37","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":40,"textLines":1,"bbox":[906.49,413.75,257.94,85.3]}
+{"kind":"textbox","id":"sh/fi5432t4","slide":14,"name":"文本框 39","text":"工作完成情况","textPreview":"工作完成情况","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/uhw3axcj","slide":14,"name":"文本框 40","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[48.2,37.33,65.84,54.93]}
+{"kind":"notes","id":"nt/6lsnupw7","slide":14,"text":""}
+{"kind":"slide","id":"sl/vaxsvy10","slide":15,"title":"完成数据概述","textShapes":8}
+{"kind":"shape","id":"sh/na5476l8","slide":15,"name":"Freeform 5","bbox":[717.14,191.71,373.2,209.23]}
+{"kind":"shape","id":"sh/m9c3e1kn","slide":15,"name":"Freeform 6","bbox":[878.64,340.35,273.36,285.78]}
+{"kind":"shape","id":"sh/wrm9kvep","slide":15,"name":"Freeform 7","bbox":[690.89,301.25,211.45,366.99]}
+{"kind":"shape","id":"sh/upkrilwj","slide":15,"name":"Freeform 665","bbox":[854.64,238.74,77.74,60.02]}
+{"kind":"shape","id":"sh/vqdsrqx4","slide":15,"name":"Rectangle 666","bbox":[861.48,303.19,11.28,20.54]}
+{"kind":"shape","id":"sh/4vm9ovel","slide":15,"name":"Rectangle 667","bbox":[880.01,293.12,11.28,30.61]}
+{"kind":"shape","id":"sh/5wvax0f6","slide":15,"name":"Rectangle 668","bbox":[898.94,283.05,11.28,40.68]}
+{"kind":"shape","id":"sh/it4rm5wv","slide":15,"name":"Rectangle 669","bbox":[917.47,272.98,11.28,50.75]}
+{"kind":"shape","id":"sh/0z29cbyh","slide":15,"name":"Freeform 283","bbox":[982.28,455.63,89.56,34.09]}
+{"kind":"shape","id":"sh/l0bqlgf2","slide":15,"name":"Freeform 284","bbox":[986.86,473.95,79.89,53.94]}
+{"kind":"shape","id":"sh/1kjyt83e","slide":15,"name":"Oval 285","bbox":[1015.35,491.25,23.41,23.92]}
+{"kind":"shape","id":"sh/gjax03m9","slide":15,"name":"Freeform 286","bbox":[752.35,453.61,88.54,89.56]}
+{"kind":"shape","id":"sh/ehsfyt43","slide":15,"name":"Flowchart: Off-page Connector 22","bbox":[167.84,233.88,84.12,81.99]}
+{"kind":"shape","id":"sh/p8jyx83q","slide":15,"name":"Freeform 35","bbox":[175.73,254.01,67.88,39.6]}
+{"kind":"textbox","id":"sh/cbuh8nmh","slide":15,"name":"TextBox 76","text":"完成数据概述","textPreview":"完成数据概述","textChars":6,"textLines":1,"bbox":[271.39,221.4,166.43,38.78]}
+{"kind":"textbox","id":"sh/uh4v2pkj","slide":15,"name":"文本框 29","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":40,"textLines":1,"bbox":[271.39,260.17,351.1,57.64]}
+{"kind":"shape","id":"sh/25sf2d4z","slide":15,"name":"Flowchart: Off-page Connector 32","bbox":[167.83,393.86,84.12,81.99]}
+{"kind":"shape","id":"sh/dc3y1s3m","slide":15,"name":"Freeform 5","bbox":[182.8,415.88,53.74,37.95]}
+{"kind":"textbox","id":"sh/vixcvu14","slide":15,"name":"TextBox 76","text":"完成数据概述","textPreview":"完成数据概述","textChars":6,"textLines":1,"bbox":[271.39,380.94,166.43,38.78]}
+{"kind":"textbox","id":"sh/wj6d4z2p","slide":15,"name":"文本框 31","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":40,"textLines":1,"bbox":[271.39,419.71,351.1,57.64]}
+{"kind":"shape","id":"sh/o7ah4nm5","slide":15,"name":"Flowchart: Off-page Connector 47","bbox":[167.07,553.84,84.12,81.99]}
+{"kind":"shape","id":"sh/361gvilk","slide":15,"name":"Freeform 61","bbox":[184.73,569.72,48.36,50.22]}
+{"kind":"textbox","id":"sh/hkfexkja","slide":15,"name":"TextBox 76","text":"完成数据概述","textPreview":"完成数据概述","textChars":6,"textLines":1,"bbox":[274.08,540.48,163.74,38.78]}
+{"kind":"textbox","id":"sh/ilov6pkv","slide":15,"name":"文本框 33","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":40,"textLines":1,"bbox":[274.08,579.25,351.1,57.64]}
+{"kind":"textbox","id":"sh/5ofe14j6","slide":15,"name":"文本框 36","text":"工作完成情况","textPreview":"工作完成情况","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/6p8va9kr","slide":15,"name":"文本框 37","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[48.2,37.33,65.84,54.93]}
+{"kind":"notes","id":"nt/vaxsvy10","slide":15,"text":""}
+{"kind":"slide","id":"sl/gny5sjyp","slide":16,"title":"标题一","textShapes":13}
+{"kind":"shape","id":"sh/fm1gzq5o","slide":16,"name":"MH_Other_6","bbox":[299.48,235.73,96.67,30.67]}
+{"kind":"shape","id":"sh/e1sf65o3","slide":16,"name":"MH_Other_7","bbox":[299.48,354.4,163.17,30.67]}
+{"kind":"shape","id":"sh/1ojy10ne","slide":16,"name":"MH_Other_8","bbox":[299.48,473.07,226.83,30.83]}
+{"kind":"shape","id":"sh/gnax8v6t","slide":16,"name":"MH_Other_9","bbox":[299.48,591.9,311.33,30.67]}
+{"kind":"shape","id":"sh/zutgvm94","slide":16,"name":"MH_Other_1","bbox":[255.48,195.07,0,467.33]}
+{"kind":"shape","id":"sh/kv2h4rqp","slide":16,"name":"MH_Other_2","bbox":[253.81,227.9,46.33,46.33]}
+{"kind":"shape","id":"sh/lwbyxwra","slide":16,"name":"MH_Other_3","bbox":[253.81,346.57,46.33,46.33]}
+{"kind":"shape","id":"sh/ip4zel83","slide":16,"name":"MH_Other_4","bbox":[253.81,465.23,46.33,46.5]}
+{"kind":"shape","id":"sh/3qdg7qpo","slide":16,"name":"MH_Other_5","bbox":[253.81,584.07,46.33,46.33]}
+{"kind":"textbox","id":"sh/nqlg3a5k","slide":16,"name":"MH_SubTitle_1","text":"标题一","textPreview":"标题一","textChars":3,"textLines":1,"bbox":[139.98,217.07,113,67.83]}
+{"kind":"textbox","id":"sh/2pcfa5oz","slide":16,"name":"MH_SubTitle_2","text":"标题二","textPreview":"标题二","textChars":3,"textLines":1,"bbox":[139.98,335.9,113,67.83]}
+{"kind":"textbox","id":"sh/ps3y5knq","slide":16,"name":"MH_SubTitle_3","text":"标题三","textPreview":"标题三","textChars":3,"textLines":1,"bbox":[139.98,454.73,113,67.83]}
+{"kind":"textbox","id":"sh/oruhcf65","slide":16,"name":"MH_SubTitle_4","text":"标题四","textPreview":"标题四","textChars":3,"textLines":1,"bbox":[139.98,573.57,113,67.83]}
+{"kind":"textbox","id":"sh/bulg7u5g","slide":16,"name":"MH_Text_1","text":"20%","textPreview":"20%","textChars":3,"textLines":1,"bbox":[413.31,227.9,89.14,46.17]}
+{"kind":"textbox","id":"sh/atczepob","slide":16,"name":"MH_Text_2","text":"40%","textPreview":"40%","textChars":3,"textLines":1,"bbox":[481.98,346.73,89.14,46.17]}
+{"kind":"textbox","id":"sh/mpgj6t8j","slide":16,"name":"MH_Text_3","text":"60%","textPreview":"60%","textChars":3,"textLines":1,"bbox":[546.48,465.57,89.14,46.17]}
+{"kind":"textbox","id":"sh/7qp0zepo","slide":16,"name":"MH_Text_4","text":"80%","textPreview":"80%","textChars":3,"textLines":1,"bbox":[632.64,584.4,89.14,46.17]}
+{"kind":"textbox","id":"sh/8by18jq9","slide":16,"name":"文本框 21","text":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明。\n请在此添加文字说明请在此添加文字说明。\n\n请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明。\n\n请在此添加文字说明请在此添加文字说明。\n请在此添加文字说明请在此添加文字说明。\n\n\n","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明。 | 请在此添加文字说明请在此添加文字说明。 |  | 请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明。 |  | 请在此添加文字说明请在...","textChars":158,"textLines":10,"bbox":[744.97,389.59,473.14,312.14]}
+{"kind":"textbox","id":"sh/9c7i1o7u","slide":16,"name":"TextBox 76","text":"项目数据分析","textPreview":"项目数据分析","textChars":6,"textLines":1,"bbox":[756.57,236.64,244.57,60.5]}
+{"kind":"textbox","id":"sh/ylwj2987","slide":16,"name":"TextBox 76","text":"添加您的副标题","textPreview":"添加您的副标题","textChars":7,"textLines":1,"bbox":[744.97,337.42,342.45,42.01]}
+{"kind":"textbox","id":"sh/lo7ixo7y","slide":16,"name":"文本框 26","text":"工作完成情况","textPreview":"工作完成情况","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/ih0jedob","slide":16,"name":"文本框 27","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[48.2,37.33,65.84,54.93]}
+{"kind":"notes","id":"nt/gny5sjyp","slide":16,"text":""}
+{"kind":"slide","id":"sl/14bup87q","slide":17,"title":"PART THREE","textShapes":4}
+{"kind":"textbox","id":"sh/gbedwfmx","slide":17,"name":"TextBox 30","text":"PART THREE","textPreview":"PART THREE","textChars":10,"textLines":1,"bbox":[78.41,263.77,784.79,151.87]}
+{"kind":"textbox","id":"sh/rm5czq50","slide":17,"name":"文本框 3","text":"优秀项目展示","textPreview":"优秀项目展示","textChars":6,"textLines":1,"bbox":[239.42,296.05,462.77,96.94]}
+{"kind":"shape","id":"sh/6lwvql4v","slide":17,"name":"矩形 4","bbox":[450.43,418.83,40.73,8.3]}
+{"kind":"shape","id":"sh/snedsvml","slide":17,"name":"圆角矩形 6","bbox":[416.19,136.8,109.13,109.13]}
+{"kind":"textbox","id":"sh/jilcvq54","slide":17,"name":"文本框 7","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[402.18,155.26,137.58,80.78]}
+{"kind":"textbox","id":"sh/ihcvml4j","slide":17,"name":"Rectangle 3","text":"Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam \nnonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam","textPreview":"Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam  | nonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat v...","textChars":172,"textLines":2,"bbox":[151.3,450.31,639.5,67.86]}
+{"kind":"image","id":"im/nyt03q18","slide":17,"name":"图片 1","bbox":[802.93,81.3,476.04,639.46]}
+{"kind":"notes","id":"nt/14bup87q","slide":17,"text":""}
+{"kind":"slide","id":"sl/y5wne50z","slide":18,"title":"北京项目","textShapes":10}
+{"kind":"shape","id":"sh/7mpknmp0","slide":18,"name":"Rectangle 3","bbox":[114.28,220.72,223.38,223.38]}
+{"kind":"shape","id":"sh/6lg3e18f","slide":18,"name":"Rectangle 5","bbox":[392.97,220.72,223.38,223.38]}
+{"kind":"shape","id":"sh/to72pw76","slide":18,"name":"Rectangle 6","bbox":[669.54,220.9,223.38,223.38]}
+{"kind":"shape","id":"sh/snylgrql","slide":18,"name":"Rectangle 7","bbox":[954.61,220.9,223.38,223.38]}
+{"kind":"textbox","id":"sh/bi94zqp4","slide":18,"name":"TextBox 76","text":"北京项目","textPreview":"北京项目","textChars":4,"textLines":1,"bbox":[145.79,420.98,182.01,42.01]}
+{"kind":"textbox","id":"sh/qh03ql8j","slide":18,"name":"文本框 18","text":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文请","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文请","textChars":43,"textLines":1,"bbox":[127.72,500.4,218.16,110.51]}
+{"kind":"textbox","id":"sh/md4nipsr","slide":18,"name":"TextBox 76","text":"上海项目","textPreview":"上海项目","textChars":4,"textLines":1,"bbox":[411.05,420.98,182.01,42.01]}
+{"kind":"textbox","id":"sh/nedoru9c","slide":18,"name":"文本框 20","text":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文请","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文请","textChars":43,"textLines":1,"bbox":[392.97,500.4,218.16,110.51]}
+{"kind":"textbox","id":"sh/8zm5kzax","slide":18,"name":"TextBox 76","text":"深圳项目","textPreview":"深圳项目","textChars":4,"textLines":1,"bbox":[692.83,420.98,182.01,42.01]}
+{"kind":"textbox","id":"sh/90v6t4ri","slide":18,"name":"文本框 22","text":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文请","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文请","textChars":43,"textLines":1,"bbox":[674.75,500.4,218.16,110.51]}
+{"kind":"textbox","id":"sh/a14nm9s3","slide":18,"name":"TextBox 76","text":"广州项目","textPreview":"广州项目","textChars":4,"textLines":1,"bbox":[972.69,420.98,182.01,42.01]}
+{"kind":"textbox","id":"sh/v2xovu9o","slide":18,"name":"文本框 24","text":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文请","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文请","textChars":43,"textLines":1,"bbox":[954.61,500.4,218.16,110.51]}
+{"kind":"textbox","id":"sh/x4f6x4re","slide":18,"name":"文本框 26","text":"优秀项目展示","textPreview":"优秀项目展示","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/q5kna5sz","slide":18,"name":"文本框 27","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[45.23,37.33,65.84,54.93]}
+{"kind":"notes","id":"nt/y5wne50z","slide":18,"text":""}
+{"kind":"slide","id":"sl/nid43ytk","slide":19,"title":"添加标题","textShapes":14}
+{"kind":"shape","id":"sh/ahk7qls3","slide":19,"name":"稻壳儿小白白(http://dwz.cn/Wu2UP)","bbox":[225.33,212.28,90.5,90.5]}
+{"kind":"shape","id":"sh/et0jix8r","slide":19,"name":"稻壳儿小白白(http://dwz.cn/Wu2UP)","bbox":[254.99,239.12,29.17,35.67]}
+{"kind":"textbox","id":"sh/zu90b29c","slide":19,"name":"TextBox 76","text":"添加标题","textPreview":"添加标题","textChars":4,"textLines":1,"bbox":[181.81,321.47,182.01,42.01]}
+{"kind":"textbox","id":"sh/oj21o7qt","slide":19,"name":"文本框 17","text":"请在此添加文字说明请在此添加文字说明请在此添加\n","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加 |","textChars":24,"textLines":2,"bbox":[145.66,360.95,254.58,85.3]}
+{"kind":"shape","id":"sh/jmd83atk","slide":19,"name":"稻壳儿小白白(http://dwz.cn/Wu2UP)","bbox":[225.33,439.05,90.5,90.5]}
+{"kind":"shape","id":"sh/qpgjex8f","slide":19,"name":"稻壳儿小白白(http://dwz.cn/Wu2UP)","bbox":[251.16,469.71,38.83,32.67]}
+{"kind":"textbox","id":"sh/9kb2hcre","slide":19,"name":"TextBox 76","text":"添加标题","textPreview":"添加标题","textChars":4,"textLines":1,"bbox":[181.81,550.75,182.01,42.01]}
+{"kind":"textbox","id":"sh/x07i1cji","slide":19,"name":"文本框 19","text":"请在此添加文字说明请在此添加文字说明请在此添加\n","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加 |","textChars":24,"textLines":2,"bbox":[145.66,590.24,254.58,85.3]}
+{"kind":"shape","id":"sh/xkbq10be","slide":19,"name":"稻壳儿小白白(http://dwz.cn/Wu2UP)","bbox":[594.49,212.28,90.5,90.5]}
+{"kind":"shape","id":"sh/0vi1k7qx","slide":19,"name":"稻壳儿小白白(http://dwz.cn/Wu2UP)","bbox":[617.33,235.28,45,43.33]}
+{"kind":"textbox","id":"sh/wfy1s7ix","slide":19,"name":"TextBox 76","text":"添加标题","textPreview":"添加标题","textChars":4,"textLines":1,"bbox":[549.19,321.47,182.01,42.01]}
+{"kind":"textbox","id":"sh/vep0z21c","slide":19,"name":"文本框 21","text":"请在此添加文字说明请在此添加文字说明请在此添加\n","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加 |","textChars":24,"textLines":2,"bbox":[513.04,360.95,254.58,85.3]}
+{"kind":"shape","id":"sh/il47u5sz","slide":19,"name":"稻壳儿小白白(http://dwz.cn/Wu2UP)","bbox":[594.49,439.05,90.5,90.5]}
+{"kind":"shape","id":"sh/rqp07290","slide":19,"name":"稻壳儿小白白(http://dwz.cn/Wu2UP)","bbox":[617.33,467.71,39.5,40.33]}
+{"kind":"textbox","id":"sh/adgjqx0r","slide":19,"name":"TextBox 76","text":"添加标题","textPreview":"添加标题","textChars":4,"textLines":1,"bbox":[549.19,550.75,182.01,42.01]}
+{"kind":"textbox","id":"sh/54ri5wje","slide":19,"name":"文本框 23","text":"请在此添加文字说明请在此添加文字说明请在此添加\n","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加 |","textChars":24,"textLines":2,"bbox":[513.04,590.24,254.58,85.3]}
+{"kind":"shape","id":"sh/wj2psvat","slide":19,"name":"稻壳儿小白白(http://dwz.cn/Wu2UP)","bbox":[961.5,212.28,90.33,90.5]}
+{"kind":"shape","id":"sh/1gridcr2","slide":19,"name":"稻壳儿小白白(http://dwz.cn/Wu2UP)","bbox":[985,239.12,43.33,39.5]}
+{"kind":"textbox","id":"sh/k3y1wri9","slide":19,"name":"TextBox 76","text":"添加标题","textPreview":"添加标题","textChars":4,"textLines":1,"bbox":[916.31,321.47,182.01,42.01]}
+{"kind":"textbox","id":"sh/j2p03m1o","slide":19,"name":"文本框 25","text":"请在此添加文字说明请在此添加文字说明请在此添加\n","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加 |","textChars":24,"textLines":2,"bbox":[880.15,360.95,254.58,85.3]}
+{"kind":"shape","id":"sh/cri1gnql","slide":19,"name":"稻壳儿小白白(http://dwz.cn/Wu2UP)","bbox":[961.5,439.05,90.33,90.5]}
+{"kind":"shape","id":"sh/dsri9sr6","slide":19,"name":"稻壳儿小白白(http://dwz.cn/Wu2UP)","bbox":[985,463.55,43.33,38.83]}
+{"kind":"textbox","id":"sh/i1gjuh03","slide":19,"name":"TextBox 76","text":"添加标题","textPreview":"添加标题","textChars":4,"textLines":1,"bbox":[916.31,550.75,182.01,42.01]}
+{"kind":"textbox","id":"sh/l8nitsja","slide":19,"name":"文本框 27","text":"请在此添加文字说明请在此添加文字说明请在此添加\n","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加 |","textChars":24,"textLines":2,"bbox":[880.15,590.24,254.58,85.3]}
+{"kind":"textbox","id":"sh/0jux03yp","slide":19,"name":"文本框 35","text":"优秀项目展示","textPreview":"优秀项目展示","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/lk3y98za","slide":19,"name":"文本框 36","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[45.23,37.33,65.84,54.93]}
+{"kind":"notes","id":"nt/nid43ytk","slide":19,"text":""}
+{"kind":"slide","id":"sl/zyxsni5k","slide":20,"title":"01","textShapes":10}
+{"kind":"shape","id":"sh/po3itc72","slide":20,"name":"圆角矩形 4","bbox":[166.97,256.97,363.16,127.76]}
+{"kind":"textbox","id":"sh/2lczih8r","slide":20,"name":"圆角矩形 5","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[122.47,276.08,91.97,91.97]}
+{"kind":"textbox","id":"sh/3ml0rmpw","slide":20,"name":"文本框 6","text":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请","textChars":46,"textLines":1,"bbox":[225.5,282.74,293.76,85.3]}
+{"kind":"shape","id":"sh/gjuhg7ql","slide":20,"name":"圆角矩形 7","bbox":[701.42,256.97,363.16,127.76]}
+{"kind":"textbox","id":"sh/hk3ipcr6","slide":20,"name":"圆角矩形 8","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[656.92,276.08,91.97,91.97]}
+{"kind":"textbox","id":"sh/dkfmp4zy","slide":20,"name":"文本框 9","text":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请","textChars":46,"textLines":1,"bbox":[759.94,282.74,293.76,85.3]}
+{"kind":"shape","id":"sh/cj65wzyd","slide":20,"name":"圆角矩形 10","bbox":[760.31,479.49,363.16,127.76]}
+{"kind":"textbox","id":"sh/rid4nuhs","slide":20,"name":"圆角矩形 11","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1076.48,497.86,91.97,91.97]}
+{"kind":"textbox","id":"sh/qh4nupg7","slide":20,"name":"文本框 12","text":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请","textChars":46,"textLines":1,"bbox":[771.51,505.26,293.76,85.3]}
+{"kind":"shape","id":"sh/pwvmlkzm","slide":20,"name":"圆角矩形 13","bbox":[225.86,479.49,363.16,127.76]}
+{"kind":"textbox","id":"sh/4vm5sfy1","slide":20,"name":"圆角矩形 14","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[542.03,497.86,91.97,91.97]}
+{"kind":"textbox","id":"sh/3ud4juhg","slide":20,"name":"文本框 15","text":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明请","textChars":46,"textLines":1,"bbox":[237.06,505.26,293.76,85.3]}
+{"kind":"textbox","id":"sh/69on25ov","slide":20,"name":"文本框 21","text":"优秀项目展示","textPreview":"优秀项目展示","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/7ax4bapg","slide":20,"name":"文本框 22","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[45.23,37.33,65.84,54.93]}
+{"kind":"notes","id":"nt/zyxsni5k","slide":20,"text":""}
+{"kind":"slide","id":"sl/m1wvqtk3","slide":21,"title":"项目收益","textShapes":8}
+{"kind":"shape","id":"sh/ra9kryp8","slide":21,"name":"椭圆 3","bbox":[434.06,222.95,210.32,210.32]}
+{"kind":"shape","id":"sh/porutkje","slide":21,"name":"椭圆 19","bbox":[629.47,223.66,210.32,210.32]}
+{"kind":"shape","id":"sh/onid0f2t","slide":21,"name":"椭圆 20","bbox":[527,352.27,210.32,210.32]}
+{"kind":"shape","id":"sh/sb298bmd","slide":21,"name":"Line 6","bbox":[369.13,224.92,145.5,102.33]}
+{"kind":"shape","id":"sh/tcba1gny","slide":21,"name":"Line 7","bbox":[759.46,246.15,176.17,82.67]}
+{"kind":"shape","id":"sh/edkral4j","slide":21,"name":"Line 8","bbox":[632.89,482.36,2.06,110.58]}
+{"kind":"textbox","id":"sh/fets3q54","slide":21,"name":"TextBox 76","text":"项目收益","textPreview":"项目收益","textChars":4,"textLines":1,"bbox":[551.88,592.96,155.16,42.01]}
+{"kind":"textbox","id":"sh/gf29cvmp","slide":21,"name":"文本框 75","text":"请在此添加文字说明请在此添加文字说请在此添加文字说明请在此添加\n","textPreview":"请在此添加文字说明请在此添加文字说请在此添加文字说明请在此添加 |","textChars":32,"textLines":2,"bbox":[517.41,633.49,224.12,110.51]}
+{"kind":"textbox","id":"sh/10ba50na","slide":21,"name":"TextBox 76","text":"项目质量","textPreview":"项目质量","textChars":4,"textLines":1,"bbox":[978.64,176.55,151.34,42.01]}
+{"kind":"textbox","id":"sh/uhgry14f","slide":21,"name":"文本框 77","text":"请在此添加文字说明请在此添加文字说请在此添加文字说明请在此添加\n","textPreview":"请在此添加文字说明请在此添加文字说请在此添加文字说明请在此添加 |","textChars":32,"textLines":2,"bbox":[942.25,218.31,224.12,110.51]}
+{"kind":"textbox","id":"sh/vip8rm50","slide":21,"name":"TextBox 76","text":"项目达标","textPreview":"项目达标","textChars":4,"textLines":1,"bbox":[163.03,177.78,172.74,42.01]}
+{"kind":"textbox","id":"sh/zqxk3mh0","slide":21,"name":"文本框 79","text":"请在此添加文字说明请在此添加文字说请在此添加文字说明请在此添加\n","textPreview":"请在此添加文字说明请在此添加文字说请在此添加文字说明请在此添加 |","textChars":32,"textLines":2,"bbox":[137.34,218.31,224.12,110.51]}
+{"kind":"textbox","id":"sh/0jidwf2x","slide":21,"name":"文本框 24","text":"优秀项目展示","textPreview":"优秀项目展示","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/fi9c3a1c","slide":21,"name":"文本框 25","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[45.23,37.33,65.84,54.93]}
+{"kind":"notes","id":"nt/m1wvqtk3","slide":21,"text":""}
+{"kind":"slide","id":"sl/5onypobq","slide":22,"title":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textShapes":10}
+{"kind":"shape","id":"sh/43u9snu5","slide":22,"name":"MH_Other_1","bbox":[141.5,197.46,234.61,214.52]}
+{"kind":"shape","id":"sh/p43q1sva","slide":22,"name":"MH_Other_2","bbox":[652.54,197.46,234.61,214.52]}
+{"kind":"shape","id":"sh/p4z6tcri","slide":22,"name":"MH_Other_3","bbox":[397.02,429.3,234.61,214.52]}
+{"kind":"shape","id":"sh/436507qx","slide":22,"name":"MH_Other_4","bbox":[907.37,429.3,234.61,214.52]}
+{"kind":"shape","id":"sh/3ixor29c","slide":22,"name":"MH_Picture_2","bbox":[397.02,197.46,234.61,214.52]}
+{"kind":"shape","id":"sh/2honyx8r","slide":22,"name":"MH_Picture_4","bbox":[907.37,197.46,234.61,214.52]}
+{"kind":"shape","id":"sh/hgf6pcr6","slide":22,"name":"MH_Picture_1","bbox":[141.5,429.3,234.61,214.52]}
+{"kind":"shape","id":"sh/gf65w7ql","slide":22,"name":"MH_Picture_3","bbox":[652.54,429.3,234.61,214.52]}
+{"kind":"textbox","id":"sh/fexon290","slide":22,"name":"文本框 15","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":40,"textLines":1,"bbox":[152.94,274.45,200.38,110.51]}
+{"kind":"textbox","id":"sh/udonux8v","slide":22,"name":"TextBox 76","text":"添加标题","textPreview":"添加标题","textChars":4,"textLines":1,"bbox":[162.41,235.45,181.45,42.01]}
+{"kind":"textbox","id":"sh/1cj61w7q","slide":22,"name":"文本框 17","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":40,"textLines":1,"bbox":[670.46,274.45,200.38,110.51]}
+{"kind":"textbox","id":"sh/0bap8rq5","slide":22,"name":"TextBox 76","text":"添加标题","textPreview":"添加标题","textChars":4,"textLines":1,"bbox":[679.93,235.45,181.45,42.01]}
+{"kind":"textbox","id":"sh/krihkz2d","slide":22,"name":"文本框 19","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":40,"textLines":1,"bbox":[409,499.57,200.38,110.51]}
+{"kind":"textbox","id":"sh/lsrit4jy","slide":22,"name":"TextBox 76","text":"添加标题","textPreview":"添加标题","textChars":4,"textLines":1,"bbox":[418.47,459.05,181.45,42.01]}
+{"kind":"textbox","id":"sh/yp0zipk7","slide":22,"name":"文本框 21","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":40,"textLines":1,"bbox":[924.02,499.57,200.38,110.51]}
+{"kind":"textbox","id":"sh/jq90ru1s","slide":22,"name":"TextBox 76","text":"添加标题","textPreview":"添加标题","textChars":4,"textLines":1,"bbox":[933.49,460.57,181.45,42.01]}
+{"kind":"textbox","id":"sh/al0zepkb","slide":22,"name":"文本框 25","text":"优秀项目展示","textPreview":"优秀项目展示","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/bm9gnu1w","slide":22,"name":"文本框 26","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[45.23,37.33,65.84,54.93]}
+{"kind":"notes","id":"nt/5onypobq","slide":22,"text":""}
+{"kind":"slide","id":"sl/c7uhcr6t","slide":23,"title":"PART FOUR","textShapes":4}
+{"kind":"textbox","id":"sh/8zm9k7y5","slide":23,"name":"TextBox 30","text":"PART FOUR","textPreview":"PART FOUR","textChars":9,"textLines":1,"bbox":[78.41,263.77,784.79,151.87]}
+{"kind":"textbox","id":"sh/v2d8fmhw","slide":23,"name":"文本框 3","text":"工作不足之处","textPreview":"工作不足之处","textChars":6,"textLines":1,"bbox":[239.42,296.05,462.77,96.94]}
+{"kind":"shape","id":"sh/a14rmhgb","slide":23,"name":"矩形 4","bbox":[450.43,418.83,40.73,8.3]}
+{"kind":"shape","id":"sh/w3m9o7yh","slide":23,"name":"圆角矩形 6","bbox":[416.19,136.8,109.13,109.13]}
+{"kind":"textbox","id":"sh/jqd8jmhs","slide":23,"name":"文本框 7","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[402.18,155.26,137.58,80.78]}
+{"kind":"textbox","id":"sh/ip4rqhgn","slide":23,"name":"Rectangle 3","text":"Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam \nnonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam","textPreview":"Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam  | nonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat v...","textChars":172,"textLines":2,"bbox":[151.3,450.31,639.5,67.86]}
+{"kind":"image","id":"im/fyx4r6pw","slide":23,"name":"图片 1","bbox":[802.93,81.3,476.04,639.46]}
+{"kind":"notes","id":"nt/c7uhcr6t","slide":23,"text":""}
+{"kind":"slide","id":"sl/7qto7e10","slide":24,"title":"请在此添加文字说明请在此添加文字说明。","textShapes":10}
+{"kind":"shape","id":"sh/uhc3ulwj","slide":24,"name":"矩形 48","bbox":[86.67,263.64,252.63,335.82]}
+{"kind":"textbox","id":"sh/0bq9onq5","slide":24,"name":"文本框 49","text":"请在此添加文字说明请在此添加文字说明。","textPreview":"请在此添加文字说明请在此添加文字说明。","textChars":19,"textLines":1,"bbox":[119.61,502.27,186.75,57.64]}
+{"kind":"textbox","id":"sh/y98rmd8z","slide":24,"name":"TextBox 76","text":"添加标题","textPreview":"添加标题","textChars":4,"textLines":1,"bbox":[149.44,442.68,127.1,42.01]}
+{"kind":"shape","id":"sh/d8zad8ru","slide":24,"name":"Freeform 431","bbox":[155.92,293.59,115.01,132.98]}
+{"kind":"shape","id":"sh/q5orid83","slide":24,"name":"Freeform 432","bbox":[182.27,353.49,31.15,47.92]}
+{"kind":"shape","id":"sh/b6xsbi9o","slide":24,"name":"Freeform 433","bbox":[220.61,354.69,19.17,45.53]}
+{"kind":"shape","id":"sh/v2lk36x4","slide":24,"name":"矩形 47","bbox":[655.12,263.64,252.63,335.82]}
+{"kind":"textbox","id":"sh/lczahsrq","slide":24,"name":"文本框 50","text":"请在此添加文字说明请在此添加文字说明。","textPreview":"请在此添加文字说明请在此添加文字说明。","textChars":19,"textLines":1,"bbox":[688.06,502.27,186.75,57.64]}
+{"kind":"textbox","id":"sh/zahsfi9k","slide":24,"name":"TextBox 76","text":"添加标题","textPreview":"添加标题","textChars":4,"textLines":1,"bbox":[717.89,442.68,127.1,42.01]}
+{"kind":"shape","id":"sh/x4japcry","slide":24,"name":"Freeform 378","bbox":[720.1,365.6,122.67,43.1]}
+{"kind":"shape","id":"sh/5kfa9cj2","slide":24,"name":"Freeform 379","bbox":[720.1,311.45,122.67,47.52]}
+{"kind":"shape","id":"sh/4j6907ih","slide":24,"name":"Rectangle 380","bbox":[773.15,354.55,15.47,18.79]}
+{"kind":"shape","id":"sh/sbyl4vex","slide":24,"name":"矩形 42","bbox":[372.25,263.64,252.63,335.82]}
+{"kind":"textbox","id":"sh/fyp4fax8","slide":24,"name":"文本框 43","text":"请在此添加文字说明请在此添加文字说明。","textPreview":"请在此添加文字说明请在此添加文字说明。","textChars":19,"textLines":1,"bbox":[405.19,502.27,186.75,57.64]}
+{"kind":"textbox","id":"sh/107mhkfe","slide":24,"name":"TextBox 76","text":"添加标题","textPreview":"添加标题","textChars":4,"textLines":1,"bbox":[435.01,442.68,127.1,42.01]}
+{"kind":"shape","id":"sh/jixs721w","slide":24,"name":"Freeform 5","bbox":[443.52,322.06,107.69,76.04]}
+{"kind":"shape","id":"sh/dc7md0fi","slide":24,"name":"矩形 41","bbox":[940.69,263.64,252.63,335.82]}
+{"kind":"textbox","id":"sh/edg365w3","slide":24,"name":"文本框 44","text":"请在此添加文字说明请在此添加文字说明。","textPreview":"请在此添加文字说明请在此添加文字说明。","textChars":19,"textLines":1,"bbox":[973.63,502.27,186.75,57.64]}
+{"kind":"textbox","id":"sh/0zyl8fet","slide":24,"name":"TextBox 76","text":"添加标题","textPreview":"添加标题","textChars":4,"textLines":1,"bbox":[1003.46,442.68,127.1,42.01]}
+{"kind":"shape","id":"sh/ixoryx0b","slide":24,"name":"Freeform 381","bbox":[1016.84,307.46,105.24,105.24]}
+{"kind":"textbox","id":"sh/8nylcvml","slide":24,"name":"文本框 31","text":"工作不足之处","textPreview":"工作不足之处","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/9o7mlgn6","slide":24,"name":"文本框 32","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[45.23,37.33,65.84,54.93]}
+{"kind":"notes","id":"nt/7qto7e10","slide":24,"text":""}
+{"kind":"slide","id":"sl/69wfm9o7","slide":25,"title":"S","textShapes":14}
+{"kind":"shape","id":"sh/pc7atgf6","slide":25,"name":"椭圆 6","bbox":[647.31,409.63,172.17,198.29]}
+{"kind":"shape","id":"sh/obyt0bel","slide":25,"name":"椭圆 61","bbox":[460.53,435.73,198.29,172.19]}
+{"kind":"shape","id":"sh/fm5snmx4","slide":25,"name":"椭圆 6","bbox":[460.53,250.18,172.17,198.29]}
+{"kind":"shape","id":"sh/elwbu1wj","slide":25,"name":"椭圆 61","bbox":[619.91,248.91,198.29,172.19]}
+{"kind":"textbox","id":"sh/wza9cbqp","slide":25,"name":"TextBox 121","text":"S","textPreview":"S","textChars":1,"textLines":1,"bbox":[493.25,306.2,112.55,71.09]}
+{"kind":"textbox","id":"sh/h0jalgra","slide":25,"name":"TextBox 122","text":"W","textPreview":"W","textChars":1,"textLines":1,"bbox":[669.5,303.65,103.71,71.09]}
+{"kind":"textbox","id":"sh/uxsra18j","slide":25,"name":"TextBox 123","text":"T","textPreview":"T","textChars":1,"textLines":1,"bbox":[498.97,484.79,115.99,71.09]}
+{"kind":"textbox","id":"sh/vy1sj694","slide":25,"name":"TextBox 124","text":"O","textPreview":"O","textChars":1,"textLines":1,"bbox":[682.49,477.16,107.21,71.09]}
+{"kind":"textbox","id":"sh/8ba98bqt","slide":25,"name":"TextBox 76","text":"工作质量","textPreview":"工作质量","textChars":4,"textLines":1,"bbox":[862.86,484,182.01,42.01]}
+{"kind":"textbox","id":"sh/9cjahgry","slide":25,"name":"文本框 14","text":"请在此添加文字说明请在此添加文字说明请说明请在此添加文字说明请在此添加文字在此添加文字说明","textPreview":"请在此添加文字说明请在此添加文字说明请说明请在此添加文字说明请在此添加文字在此添加文字说明","textChars":45,"textLines":1,"bbox":[862.86,526.01,323.82,85.3]}
+{"kind":"textbox","id":"sh/m98r618n","slide":25,"name":"TextBox 76","text":"思想觉悟","textPreview":"思想觉悟","textChars":4,"textLines":1,"bbox":[862.86,226.54,182.01,42.01]}
+{"kind":"textbox","id":"sh/7a1sf698","slide":25,"name":"文本框 16","text":"请在此添加文字说明请在此添加文字说明请说明请在此添加文字说明请在此添加文字在此添加文字说明","textPreview":"请在此添加文字说明请在此添加文字说明请说明请在此添加文字说明请在此添加文字在此添加文字说明","textChars":45,"textLines":1,"bbox":[862.86,268.55,323.82,85.3]}
+{"kind":"textbox","id":"sh/s7utkvqx","slide":25,"name":"TextBox 76","text":"工作效率","textPreview":"工作效率","textChars":4,"textLines":1,"bbox":[231.95,484,182.01,42.01]}
+{"kind":"textbox","id":"sh/t83at0ri","slide":25,"name":"文本框 18","text":"请在此添加文字说明请在此添加文字说明请说明请在此添加文字说明请在此添加文字在此添加文字说明","textPreview":"请在此添加文字说明请在此添加文字说明请说明请在此添加文字说明请在此添加文字在此添加文字说明","textChars":45,"textLines":1,"bbox":[90.14,526.01,323.82,85.3]}
+{"kind":"textbox","id":"sh/1czihwva","slide":25,"name":"TextBox 76","text":"工作懒散","textPreview":"工作懒散","textChars":4,"textLines":1,"bbox":[231.95,226.54,182.01,42.01]}
+{"kind":"textbox","id":"sh/gbq1obep","slide":25,"name":"文本框 20","text":"请在此添加文字说明请在此添加文字说明请说明请在此添加文字说明请在此添加文字在此添加文字说明","textPreview":"请在此添加文字说明请在此添加文字说明请说明请在此添加文字说明请在此添加文字在此添加文字说明","textChars":45,"textLines":1,"bbox":[90.14,268.55,323.82,85.3]}
+{"kind":"textbox","id":"sh/r6x0bmx8","slide":25,"name":"文本框 25","text":"工作不足之处","textPreview":"工作不足之处","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/6lojihwn","slide":25,"name":"文本框 26","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[45.23,37.33,65.84,54.93]}
+{"kind":"notes","id":"nt/69wfm9o7","slide":25,"text":""}
+{"kind":"slide","id":"sl/l0bepsfm","slide":26,"title":"职业认知","textShapes":10}
+{"kind":"shape","id":"sh/kbil0r2p","slide":26,"name":"矩形 46","bbox":[96.3,219.64,265.41,119.04]}
+{"kind":"shape","id":"sh/z61szulc","slide":26,"name":"Freeform 5","bbox":[179.69,248.46,98.63,67.69]}
+{"kind":"textbox","id":"sh/1wn25ofi","slide":26,"name":"文本框 50","text":"职业认知","textPreview":"职业认知","textChars":4,"textLines":1,"bbox":[153.51,398.31,151,42.01]}
+{"kind":"textbox","id":"sh/etwju9wr","slide":26,"name":"文本框 21","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":60,"textLines":1,"bbox":[107.19,454.67,243.63,135.71]}
+{"kind":"shape","id":"sh/lcr2tw3a","slide":26,"name":"矩形 58","bbox":[370.43,262.29,265.21,119.04]}
+{"kind":"shape","id":"sh/y5sr69kr","slide":26,"name":"Freeform 9","bbox":[457.04,295.49,91.99,57.23]}
+{"kind":"textbox","id":"sh/fu5k3exc","slide":26,"name":"文本框 50","text":"职业素养","textPreview":"职业素养","textChars":4,"textLines":1,"bbox":[427.54,440.96,151,42.01]}
+{"kind":"textbox","id":"sh/sru1szel","slide":26,"name":"文本框 23","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":60,"textLines":1,"bbox":[381.22,497.33,243.63,135.71]}
+{"kind":"shape","id":"sh/krat8z2x","slide":26,"name":"矩形 80","bbox":[644.4,219.64,265.37,119.04]}
+{"kind":"shape","id":"sh/x4jax436","slide":26,"name":"Freeform 13","bbox":[728.82,244.39,96.51,74.12]}
+{"kind":"textbox","id":"sh/ds3i14f6","slide":26,"name":"文本框 50","text":"岗位认知","textPreview":"岗位认知","textChars":4,"textLines":1,"bbox":[701.58,398.31,151,42.01]}
+{"kind":"textbox","id":"sh/qpcjq9wv","slide":26,"name":"文本框 25","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":60,"textLines":1,"bbox":[655.27,454.67,243.63,135.71]}
+{"kind":"shape","id":"sh/lsja143i","slide":26,"name":"矩形 68","bbox":[918.29,262.29,265.41,119.04]}
+{"kind":"shape","id":"sh/b21svulg","slide":26,"name":"Freeform 17","bbox":[1016.34,318.34,71.65,30.21]}
+{"kind":"shape","id":"sh/a18r2pkv","slide":26,"name":"Freeform 18","bbox":[1036.3,351.61,22.17,12.89]}
+{"kind":"shape","id":"sh/p0zatk3a","slide":26,"name":"Freeform 19","bbox":[1013.99,279.26,66.8,35.76]}
+{"kind":"shape","id":"sh/ozq90f2p","slide":26,"name":"Freeform 20","bbox":[1026.32,291.6,11.23,11.23]}
+{"kind":"shape","id":"sh/0ve1wjex","slide":26,"name":"Freeform 21","bbox":[1056.81,291.6,11.64,11.23]}
+{"kind":"textbox","id":"sh/rql0zex0","slide":26,"name":"文本框 50","text":"工作态度","textPreview":"工作态度","textChars":4,"textLines":1,"bbox":[975.49,440.96,151,42.01]}
+{"kind":"textbox","id":"sh/cny143e5","slide":26,"name":"文本框 27","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":60,"textLines":1,"bbox":[929.18,497.33,243.63,135.71]}
+{"kind":"textbox","id":"sh/8ji5w7yd","slide":26,"name":"文本框 32","text":"工作不足之处","textPreview":"工作不足之处","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/wn2507y9","slide":26,"name":"文本框 36","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[45.23,37.33,65.84,54.93]}
+{"kind":"notes","id":"nt/l0bepsfm","slide":26,"text":""}
+{"kind":"slide","id":"sl/4vyxknqp","slide":27,"title":"积极性","textShapes":14}
+{"kind":"shape","id":"sh/utobax4f","slide":27,"name":"Freeform 53","bbox":[347,379.28,297.5,183.09]}
+{"kind":"shape","id":"sh/vuxsj250","slide":27,"name":"Freeform 56","bbox":[416.63,252.82,226.33,135.64]}
+{"kind":"shape","id":"sh/ju5gv294","slide":27,"name":"Freeform 58","bbox":[659.22,424.46,265.55,161.85]}
+{"kind":"shape","id":"sh/ytwfmx8j","slide":27,"name":"Freeform 60","bbox":[659.22,316.75,191.13,116.89]}
+{"kind":"textbox","id":"sh/lw7yxcra","slide":27,"name":"TextBox 24","text":"积极性","textPreview":"积极性","textChars":3,"textLines":1,"bbox":[463.79,290.12,138.12,38.78]}
+{"kind":"textbox","id":"sh/kvyxo7qp","slide":27,"name":"TextBox 25","text":"提前性","textPreview":"提前性","textChars":3,"textLines":1,"bbox":[699.47,344.29,138.35,38.78]}
+{"kind":"shape","id":"sh/apwfix8n","slide":27,"name":"Rectangle 27","bbox":[430.71,440.87,33.23,2.79]}
+{"kind":"shape","id":"sh/xsnytcry","slide":27,"name":"Freeform 28","bbox":[441.93,449.1,7.98,8.38]}
+{"kind":"shape","id":"sh/wrexk7qt","slide":27,"name":"Freeform 29","bbox":[442.67,449.84,23.34,23.37]}
+{"kind":"shape","id":"sh/vmpg3m9c","slide":27,"name":"Freeform 30","bbox":[454.93,462.33,14.92,14.7]}
+{"kind":"shape","id":"sh/ulgzuh8r","slide":27,"name":"Rectangle 31","bbox":[430.71,446.46,5.61,13.81]}
+{"kind":"shape","id":"sh/qhkj2lsz","slide":27,"name":"Freeform 32","bbox":[425.24,432.79,44.31,35.86]}
+{"kind":"textbox","id":"sh/rit0vqtk","slide":27,"name":"TextBox 33","text":"解决问题","textPreview":"解决问题","textChars":4,"textLines":1,"bbox":[466.85,432.46,138.12,38.78]}
+{"kind":"shape","id":"sh/dkb2x0bq","slide":27,"name":"Freeform 35","bbox":[729.72,490.93,27.18,3.09]}
+{"kind":"shape","id":"sh/elkj65sb","slide":27,"name":"Freeform 36","bbox":[729.28,497.54,27.62,12.05]}
+{"kind":"shape","id":"sh/fmdkzatw","slide":27,"name":"Freeform 37","bbox":[721.6,466.68,43.42,34.97]}
+{"kind":"shape","id":"sh/0nm18fa1","slide":27,"name":"Freeform 38","bbox":[731.79,474.62,7.68,13.52]}
+{"kind":"shape","id":"sh/1ov210bm","slide":27,"name":"Freeform 39","bbox":[744.05,474.91,13.59,13.23]}
+{"kind":"textbox","id":"sh/up0ju1sr","slide":27,"name":"TextBox 40","text":"审视问题","textPreview":"审视问题","textChars":4,"textLines":1,"bbox":[760.33,469.22,138.12,38.78]}
+{"kind":"textbox","id":"sh/vq90n6tc","slide":27,"name":"TextBox 76","text":"执行力不足","textPreview":"执行力不足","textChars":5,"textLines":1,"bbox":[969.45,204.11,162.18,42.01]}
+{"kind":"textbox","id":"sh/x4fmt4vu","slide":27,"name":"文本框 29","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":40,"textLines":1,"bbox":[907.95,244.19,285.2,85.3]}
+{"kind":"textbox","id":"sh/w36l0ju9","slide":27,"name":"TextBox 76","text":"执行力不足","textPreview":"执行力不足","textChars":5,"textLines":1,"bbox":[962.18,505.76,176.73,42.01]}
+{"kind":"textbox","id":"sh/bix4red4","slide":27,"name":"文本框 31","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":40,"textLines":1,"bbox":[907.95,542.17,285.2,85.3]}
+{"kind":"textbox","id":"sh/aho3y9cj","slide":27,"name":"TextBox 76","text":"执行力不足","textPreview":"执行力不足","textChars":5,"textLines":1,"bbox":[136.06,204.11,163.57,42.01]}
+{"kind":"textbox","id":"sh/l8zmxov6","slide":27,"name":"文本框 33","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":40,"textLines":1,"bbox":[75.25,244.19,285.2,85.3]}
+{"kind":"textbox","id":"sh/k7q54jul","slide":27,"name":"TextBox 76","text":"执行力不足","textPreview":"执行力不足","textChars":5,"textLines":1,"bbox":[122.97,500.16,189.76,42.01]}
+{"kind":"textbox","id":"sh/j6h4ved0","slide":27,"name":"文本框 35","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":40,"textLines":1,"bbox":[75.25,542.17,285.2,85.3]}
+{"kind":"textbox","id":"sh/47up0nep","slide":27,"name":"文本框 39","text":"工作不足之处","textPreview":"工作不足之处","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/5836tsfa","slide":27,"name":"文本框 40","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[45.23,37.33,65.84,54.93]}
+{"kind":"notes","id":"nt/4vyxknqp","slide":27,"text":""}
+{"kind":"slide","id":"sl/3mdove10","slide":28,"title":"不足之处","textShapes":8}
+{"kind":"shape","id":"sh/947ipwje","slide":28,"name":"Rectangle 5","bbox":[497.17,199.21,684.17,302.83]}
+{"kind":"shape","id":"sh/o3ehgr29","slide":28,"name":"Rectangle 4","bbox":[102.17,199.21,395,302.83]}
+{"kind":"textbox","id":"sh/lg3690fq","slide":28,"name":"TextBox 76","text":"不足之处","textPreview":"不足之处","textChars":4,"textLines":1,"bbox":[209.51,260.51,180.3,42.01]}
+{"kind":"textbox","id":"sh/kfu5gfe5","slide":28,"name":"文本框 10","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":80,"textLines":1,"bbox":[147.64,318.97,304.06,135.71]}
+{"kind":"shape","id":"sh/je1o7ax0","slide":28,"name":"Rectangle 5","bbox":[102.17,502.04,1079.17,148.58]}
+{"kind":"textbox","id":"sh/ytsne5wf","slide":28,"name":"文本框 12","text":"请在此添加文字说明请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":39,"textLines":1,"bbox":[241.79,567.69,328.82,57.64]}
+{"kind":"textbox","id":"sh/tk36dkf2","slide":28,"name":"文本框 13","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明请在此添加文字说明。","textChars":39,"textLines":1,"bbox":[744.36,569.22,328.82,57.64]}
+{"kind":"shape","id":"sh/987eh4rm","slide":28,"name":"Oval 5","bbox":[150.67,538.91,78.9,78.74]}
+{"kind":"shape","id":"sh/m5wf6p8b","slide":28,"name":"Freeform 7","bbox":[169.49,557.69,41.26,41.18]}
+{"kind":"textbox","id":"sh/n6pwfu9w","slide":28,"name":"TextBox 76","text":"项目品质","textPreview":"项目品质","textChars":4,"textLines":1,"bbox":[241.09,530.96,162.22,42.01]}
+{"kind":"shape","id":"sh/76t0byt0","slide":28,"name":"Oval 26","bbox":[653.93,541.29,78.9,78.9]}
+{"kind":"shape","id":"sh/65kz2tsf","slide":28,"name":"Freeform 6","bbox":[668.77,555.55,49.22,50.37]}
+{"kind":"textbox","id":"sh/t8bid8b6","slide":28,"name":"TextBox 76","text":"项目收益","textPreview":"项目收益","textChars":4,"textLines":1,"bbox":[744.36,534.52,147.38,42.01]}
+{"kind":"textbox","id":"sh/zi5wba9k","slide":28,"name":"文本框 22","text":"工作不足之处","textPreview":"工作不足之处","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/872h43al","slide":28,"name":"文本框 32","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[45.23,37.33,65.84,54.93]}
+{"kind":"notes","id":"nt/3mdove10","slide":28,"text":""}
+{"kind":"slide","id":"sl/i5o3q10v","slide":29,"title":"PART FIVE","textShapes":4}
+{"kind":"textbox","id":"sh/8jup8rad","slide":29,"name":"TextBox 30","text":"PART FIVE","textPreview":"PART FIVE","textChars":9,"textLines":1,"bbox":[78.41,263.77,784.79,151.87]}
+{"kind":"textbox","id":"sh/vmlojmto","slide":29,"name":"文本框 3","text":"未来工作计划","textPreview":"未来工作计划","textChars":6,"textLines":1,"bbox":[239.42,296.05,462.77,96.94]}
+{"kind":"shape","id":"sh/ulc7a1s3","slide":29,"name":"矩形 4","bbox":[450.43,418.83,40.73,8.3]}
+{"kind":"shape","id":"sh/g7upcra9","slide":29,"name":"圆角矩形 6","bbox":[416.19,136.8,109.13,109.13]}
+{"kind":"textbox","id":"sh/bq1o72tk","slide":29,"name":"文本框 7","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[402.18,155.26,137.58,80.78]}
+{"kind":"textbox","id":"sh/apsnyxcz","slide":29,"name":"Rectangle 3","text":"Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam \nnonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam","textPreview":"Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam  | nonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat v...","textChars":172,"textLines":2,"bbox":[151.3,450.31,639.5,67.86]}
+{"kind":"image","id":"im/juxgzqdg","slide":29,"name":"图片 1","bbox":[802.93,81.3,476.04,639.46]}
+{"kind":"notes","id":"nt/i5o3q10v","slide":29,"text":""}
+{"kind":"slide","id":"sl/wnqh07ex","slide":30,"title":"01","textShapes":14}
+{"kind":"shape","id":"sh/3mhwzu1c","slide":30,"name":"椭圆 12","bbox":[461.24,332.02,359.01,162.62]}
+{"kind":"shape","id":"sh/cbaxczit","slide":30,"name":"椭圆 13","bbox":[460.95,331.73,359.01,162.62]}
+{"kind":"textbox","id":"sh/dcje54ze","slide":30,"name":"流程图: 决策 14","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[562.07,203.73,157.12,157.12]}
+{"kind":"textbox","id":"sh/q9sfap03","slide":30,"name":"流程图: 决策 15","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[699.15,340.81,157.12,157.12]}
+{"kind":"textbox","id":"sh/ba1w3uh8","slide":30,"name":"流程图: 决策 16","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[566.72,473.24,157.12,157.12]}
+{"kind":"textbox","id":"sh/sf6d0fip","slide":30,"name":"流程图: 决策 17","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[428.5,337.3,157.12,157.12]}
+{"kind":"textbox","id":"sh/h47mlc7y","slide":30,"name":"TextBox 76","text":"添加标题","textPreview":"添加标题","textChars":4,"textLines":1,"bbox":[839.31,486.07,198.88,42.01]}
+{"kind":"textbox","id":"sh/w3ylc76d","slide":30,"name":"文本框 24","text":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添","textChars":31,"textLines":1,"bbox":[839.31,528.08,353.83,65.63]}
+{"kind":"textbox","id":"sh/v2p4jmps","slide":30,"name":"TextBox 76","text":"添加标题","textPreview":"添加标题","textChars":4,"textLines":1,"bbox":[839.31,228.61,198.88,42.01]}
+{"kind":"textbox","id":"sh/u1g3aho7","slide":30,"name":"文本框 26","text":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添","textChars":31,"textLines":1,"bbox":[839.31,270.62,353.83,65.63]}
+{"kind":"textbox","id":"sh/5srmpw7u","slide":30,"name":"TextBox 76","text":"添加标题","textPreview":"添加标题","textChars":4,"textLines":1,"bbox":[234.01,486.07,209.73,42.01]}
+{"kind":"textbox","id":"sh/4rylgr69","slide":30,"name":"文本框 28","text":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添","textChars":31,"textLines":1,"bbox":[70.6,528.08,373.14,65.63]}
+{"kind":"textbox","id":"sh/2dsjat4r","slide":30,"name":"TextBox 76","text":"添加标题","textPreview":"添加标题","textChars":4,"textLines":1,"bbox":[261.73,228.61,182.01,42.01]}
+{"kind":"textbox","id":"sh/3e10jy5c","slide":30,"name":"文本框 30","text":"请在此添加文字说明请在此添加文字说明\n请在此添加文字说明请在此添","textPreview":"请在此添加文字说明请在此添加文字说明 | 请在此添加文字说明请在此添","textChars":32,"textLines":2,"bbox":[119.92,270.62,323.82,57.64]}
+{"kind":"textbox","id":"sh/c3u1g3mt","slide":30,"name":"文本框 35","text":"未来工作计划","textPreview":"未来工作计划","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/x43ip8ne","slide":30,"name":"文本框 36","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[45.23,37.33,65.84,54.93]}
+{"kind":"notes","id":"nt/wnqh07ex","slide":30,"text":""}
+{"kind":"slide","id":"sl/lcn6tkb6","slide":31,"title":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textShapes":4}
+{"kind":"shape","id":"sh/fmhszex0","slide":31,"name":"Rectangle 2","bbox":[139.98,449.5,215.5,182.59]}
+{"kind":"shape","id":"sh/ul8rq9gf","slide":31,"name":"Rectangle 2","bbox":[386.4,449.5,215.5,182.59]}
+{"kind":"shape","id":"sh/4vm5g7al","slide":31,"name":"Freeform 42","bbox":[207.45,497.47,88.72,86.96]}
+{"kind":"textbox","id":"sh/d0fmtcr2","slide":31,"name":"文本框 14","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。\n\n\n请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。 |  |  | 请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。请在此添加文字说...","textChars":163,"textLines":4,"bbox":[692.88,326.34,472.86,259.27]}
+{"kind":"textbox","id":"sh/qx4nihsb","slide":31,"name":"TextBox 76","text":"工作计划","textPreview":"工作计划","textChars":4,"textLines":1,"bbox":[720.31,271.41,306.6,48.47]}
+{"kind":"shape","id":"sh/ryd4rm9w","slide":31,"name":"Rectangle 2","bbox":[139.98,238.7,215.5,182.59]}
+{"kind":"shape","id":"sh/832l8nad","slide":31,"name":"Rectangle 2","bbox":[386.4,238.7,215.5,182.59]}
+{"kind":"shape","id":"sh/8zu1cj21","slide":31,"name":"Freeform 43","bbox":[439.63,321.12,52.29,52.68]}
+{"kind":"shape","id":"sh/nylkjelg","slide":31,"name":"Freeform 44","bbox":[458.74,281.79,67.08,36.8]}
+{"kind":"shape","id":"sh/mxcja9kv","slide":31,"name":"Freeform 45","bbox":[497.33,311.74,47.96,67.84]}
+{"kind":"shape","id":"sh/wnulgj2d","slide":31,"name":"Freeform 816","bbox":[464.47,556.77,25.43,28.85]}
+{"kind":"shape","id":"sh/vmlknels","slide":31,"name":"Freeform 817","bbox":[477.38,505.9,54.66,60.73]}
+{"kind":"shape","id":"sh/a1c3e9k7","slide":31,"name":"Freeform 818","bbox":[452.33,522.61,15.94,27.33]}
+{"kind":"shape","id":"sh/5sn2to3u","slide":31,"name":"Freeform 541","bbox":[217.67,280.74,70.13,93.21]}
+{"kind":"textbox","id":"sh/qpor21wr","slide":31,"name":"文本框 33","text":"未来工作计划","textPreview":"未来工作计划","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/rqx8v6xc","slide":31,"name":"文本框 34","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[45.23,37.33,65.84,54.93]}
+{"kind":"notes","id":"nt/lcn6tkb6","slide":31,"text":""}
+{"kind":"slide","id":"sl/6l0j294r","slide":32,"title":"改善措施","textShapes":10}
+{"kind":"shape","id":"sh/d0bm1c7m","slide":32,"name":"Oval 7","bbox":[448.07,475.87,99.89,98.78]}
+{"kind":"shape","id":"sh/szi5s7qh","slide":32,"name":"Freeform 6","bbox":[469.71,507.43,57,37.48]}
+{"kind":"shape","id":"sh/3a94vi9k","slide":32,"name":"Oval 13","bbox":[1040.11,475.87,99.89,98.78]}
+{"kind":"shape","id":"sh/i903mx8z","slide":32,"name":"Freeform 7","bbox":[1061.98,501.63,53.61,49.08]}
+{"kind":"shape","id":"sh/5crmxsrq","slide":32,"name":"Oval 4","bbox":[158.43,232.88,99.89,98.78]}
+{"kind":"shape","id":"sh/4bilonq5","slide":32,"name":"Freeform 8","bbox":[190.32,256.58,36.1,53.2]}
+{"kind":"shape","id":"sh/v6p4ri9o","slide":32,"name":"Oval 10","bbox":[738.91,232.88,99.89,98.78]}
+{"kind":"shape","id":"sh/u5g3yd83","slide":32,"name":"Freeform 11","bbox":[766.08,260.75,45.58,44.86]}
+{"kind":"textbox","id":"sh/y1gnadsv","slide":32,"name":"TextBox 76","text":"改善措施","textPreview":"改善措施","textChars":4,"textLines":1,"bbox":[141.37,396.81,136.4,42.01]}
+{"kind":"textbox","id":"sh/j2p43itg","slide":32,"name":"文本框 20","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":40,"textLines":1,"bbox":[106,440.2,207.14,110.51]}
+{"kind":"textbox","id":"sh/k3y5cna1","slide":32,"name":"TextBox 76","text":"改善措施","textPreview":"改善措施","textChars":4,"textLines":1,"bbox":[426.07,283.03,136.4,42.01]}
+{"kind":"textbox","id":"sh/l4765sbm","slide":32,"name":"文本框 22","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":40,"textLines":1,"bbox":[390.7,326.42,207.14,110.51]}
+{"kind":"textbox","id":"sh/65gneds7","slide":32,"name":"TextBox 76","text":"改善措施","textPreview":"改善措施","textChars":4,"textLines":1,"bbox":[721.13,396.81,136.4,42.01]}
+{"kind":"textbox","id":"sh/76po7its","slide":32,"name":"文本框 24","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":40,"textLines":1,"bbox":[685.76,440.2,207.14,110.51]}
+{"kind":"textbox","id":"sh/87y5gnax","slide":32,"name":"TextBox 76","text":"改善措施","textPreview":"改善措施","textChars":4,"textLines":1,"bbox":[1015.03,283.03,136.4,42.01]}
+{"kind":"textbox","id":"sh/t8769sbi","slide":32,"name":"文本框 26","text":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textPreview":"请在此添加文字说明，请在此添加文字说明。请在此添加文字说明，请在此添加文字说明。","textChars":40,"textLines":1,"bbox":[979.66,326.42,207.14,110.51]}
+{"kind":"shape","id":"sh/lszilkfm","slide":32,"name":"直接连接符 2","bbox":[266.45,281.56,170,242.47]}
+{"kind":"shape","id":"sh/54bq1wvq","slide":32,"name":"直接连接符 29","bbox":[848.22,281.56,180.07,244.61]}
+{"kind":"shape","id":"sh/432p8ru5","slide":32,"name":"直接连接符 30","bbox":[561.83,282.27,166.11,242.99]}
+{"kind":"textbox","id":"sh/va9ob2to","slide":32,"name":"文本框 28","text":"未来工作计划","textPreview":"未来工作计划","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/sr29cbuh","slide":32,"name":"文本框 34","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[45.23,37.33,65.84,54.93]}
+{"kind":"notes","id":"nt/6l0j294r","slide":32,"text":""}
+{"kind":"slide","id":"sl/nax4b2dk","slide":33,"title":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明","textShapes":10}
+{"kind":"shape","id":"sh/nihcbe1k","slide":33,"name":"Freeform 7","bbox":[583.15,328.91,119.48,156.02]}
+{"kind":"shape","id":"sh/pofu1k36","slide":33,"name":"Freeform 387","bbox":[658.73,389.46,11.61,10.71]}
+{"kind":"shape","id":"sh/4n6tsf2l","slide":33,"name":"Freeform 388","bbox":[645.53,377.94,16.65,16.58]}
+{"kind":"shape","id":"sh/uhkjm1w7","slide":33,"name":"Freeform 5","bbox":[547.74,207.9,168.54,177.78]}
+{"kind":"shape","id":"sh/gj21ored","slide":33,"name":"Freeform 34","bbox":[628.11,279.14,20.36,24.81]}
+{"kind":"shape","id":"sh/h4bihwvy","slide":33,"name":"Freeform 35","bbox":[631,284.76,14.57,15.32]}
+{"kind":"shape","id":"sh/i5kjq1w3","slide":33,"name":"Freeform 6","bbox":[585.41,497.04,114.96,155.2]}
+{"kind":"shape","id":"sh/47m1sbe9","slide":33,"name":"Freeform 30","bbox":[654.94,553.89,9.18,10.71]}
+{"kind":"shape","id":"sh/58v2lgvu","slide":33,"name":"Freeform 31","bbox":[647.12,566.29,9.39,12.24]}
+{"kind":"shape","id":"sh/y90jehwz","slide":33,"name":"Freeform 32","bbox":[656.36,565.76,6.33,5.42]}
+{"kind":"shape","id":"sh/ja9072xk","slide":33,"name":"Freeform 33","bbox":[662.54,566.29,9.39,12.24]}
+{"kind":"shape","id":"sh/z61gbyp8","slide":33,"name":"Freeform 8","bbox":[561.9,412.36,119.07,159.51]}
+{"kind":"shape","id":"sh/l8jyd87e","slide":33,"name":"Freeform 23","bbox":[599.94,465.29,18.36,24.81]}
+{"kind":"shape","id":"sh/07ah436t","slide":33,"name":"Freeform 24","bbox":[600.25,469.07,18.34,5.89]}
+{"kind":"textbox","id":"sh/na1gfipk","slide":33,"name":"文本框 43","text":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明","textChars":36,"textLines":1,"bbox":[778.74,548.06,408.27,57.64]}
+{"kind":"textbox","id":"sh/m9sz6doz","slide":33,"name":"TextBox 76","text":"计划步骤","textPreview":"计划步骤","textChars":4,"textLines":1,"bbox":[778.74,509.56,140.37,42.01]}
+{"kind":"textbox","id":"sh/9c3yh87q","slide":33,"name":"文本框 45","text":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明","textChars":36,"textLines":1,"bbox":[778.74,375.99,408.27,57.64]}
+{"kind":"textbox","id":"sh/8buh8n65","slide":33,"name":"TextBox 76","text":"计划步骤","textPreview":"计划步骤","textChars":4,"textLines":1,"bbox":[778.74,337.48,140.37,42.01]}
+{"kind":"textbox","id":"sh/vylgjipg","slide":33,"name":"文本框 47","text":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明","textChars":36,"textLines":1,"bbox":[77.67,454.15,408.27,57.64]}
+{"kind":"textbox","id":"sh/axczadov","slide":33,"name":"TextBox 76","text":"计划步骤","textPreview":"计划步骤","textChars":4,"textLines":1,"bbox":[345.57,415.65,140.37,42.01]}
+{"kind":"textbox","id":"sh/s3ex0nm9","slide":33,"name":"文本框 49","text":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明","textPreview":"请在此添加文字说明请在此添加文字说明请在此添加文字说明请在此添加文字说明","textChars":36,"textLines":1,"bbox":[77.67,282.08,408.27,57.64]}
+{"kind":"textbox","id":"sh/t4ny9s3u","slide":33,"name":"TextBox 76","text":"计划步骤","textPreview":"计划步骤","textChars":4,"textLines":1,"bbox":[345.57,243.58,140.37,42.01]}
+{"kind":"textbox","id":"sh/61cfyx43","slide":33,"name":"文本框 51","text":"未来工作计划","textPreview":"未来工作计划","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/kzuxwnmx","slide":33,"name":"文本框 53","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[45.23,37.33,65.84,54.93]}
+{"kind":"notes","id":"nt/nax4b2dk","slide":33,"text":""}
+{"kind":"slide","id":"sl/ofu103u5","slide":34,"title":"请在此添加文字说明请在此添加文字说明，请在此添加文字说明请在此添加文字说明请在此添加文字说明，请在此添加文字说明。请在此添加文字说明请在此添加文字说明，请...","textShapes":4}
+{"kind":"shape","id":"sh/z2147eto","slide":34,"name":"椭圆 7","bbox":[138.11,632.23,462.22,33.04]}
+{"kind":"shape","id":"sh/y18ne9c3","slide":34,"name":"任意多边形 8","bbox":[121.36,233.12,495.73,301.6]}
+{"kind":"shape","id":"sh/0vidkfu5","slide":34,"name":"任意多边形 9","bbox":[121.36,534.72,495.73,49.08]}
+{"kind":"shape","id":"sh/1wredkbq","slide":34,"name":"任意多边形 10","bbox":[272.93,583.8,192.58,64.96]}
+{"kind":"shape","id":"sh/e90vipcz","slide":34,"name":"矩形 11","bbox":[272.93,645.29,192.58,3.47]}
+{"kind":"shape","id":"sh/za9wbutk","slide":34,"name":"任意多边形 12","bbox":[397.89,233.12,219.19,301.6]}
+{"kind":"textbox","id":"sh/90beh4bm","slide":34,"name":"文本框 14","text":"请在此添加文字说明请在此添加文字说明，请在此添加文字说明请在此添加文字说明请在此添加文字说明，请在此添加文字说明。请在此添加文字说明请在此添加文字说明，请在此添加文字说明。\n\n请在此添加文字说明请在此添加文字说明，请在此添加文字说明请在此添加文字说明请在此添加文字说明，请在此添加文字说明。\n","textPreview":"请在此添加文字说明请在此添加文字说明，请在此添加文字说明请在此添加文字说明请在此添加文字说明，请在此添加文字说明。请在此添加文字说明请在此添加文字说明，请在此添加文字说明。 |  | 请在此添加文字说明请在此添加文字说明，请在此添加文字说明请在此添加文字说明请在此添加文字说...","textChars":146,"textLines":4,"bbox":[725.29,327.35,456.76,236.53]}
+{"kind":"textbox","id":"sh/mxkvmpcb","slide":34,"name":"TextBox 76","text":"重点项目规划","textPreview":"重点项目规划","textChars":6,"textLines":1,"bbox":[752.72,256.35,220.37,48.47]}
+{"kind":"textbox","id":"sh/w32xszud","slide":34,"name":"文本框 17","text":"未来工作计划","textPreview":"未来工作计划","textChars":6,"textLines":1,"bbox":[122.08,39.09,245.58,54.93]}
+{"kind":"textbox","id":"sh/x4vel4by","slide":34,"name":"文本框 18","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[45.23,37.33,65.84,54.93]}
+{"kind":"image","id":"im/ml8z6xkv","slide":34,"name":"图片 5","bbox":[140.67,248.55,457.56,303.23]}
+{"kind":"image","id":"im/7mh0filg","slide":34,"name":"图片 13","bbox":[357.38,544.42,23.69,28.87]}
+{"kind":"notes","id":"nt/ofu103u5","slide":34,"text":""}
+{"kind":"slide","id":"sl/1obmtofm","slide":35,"title":"初心不改共成长  凝心聚力普新篇！","textShapes":2}
+{"kind":"shape","id":"sh/yxonud0f","slide":35,"name":"矩形 1","bbox":[16.35,0,682.26,724.49]}
+{"kind":"shape","id":"sh/ry50jqpc","slide":35,"name":"矩形 1","bbox":[0,0,682.26,724.49]}
+{"kind":"textbox","id":"sh/qxwzq5o7","slide":35,"name":"TextBox 2","text":"初心不改共成长  凝心聚力普新篇！\n\n在这里输入您的文字内容这里输入您的或者将您的文字内容复制在这里。在这里输入您的文字内容。在这里输入您的文字内容或者将您的文字内容复制在这里。在这里输入您的文字内容，或者将您的文字这里输入您的内容复制在这里。\n\n在这里输入您的文字内容者将您的文字内容复制在这里在这里输入您的文字内容在这里输入您的文字内容，或者将","textPreview":"初心不改共成长  凝心聚力普新篇！ |  | 在这里输入您的文字内容这里输入您的或者将您的文字内容复制在这里。在这里输入您的文字内容。在这里输入您的文字内容或者将您的文字内容复制在这里。在这里输入您的文字内容，或者将您的文字这里输入您的内容复制在这里。 |  | 在这里输入...","textChars":174,"textLines":5,"bbox":[673.87,368.82,500.99,279.17]}
+{"kind":"shape","id":"sh/czehsv6x","slide":35,"name":"椭圆 32","bbox":[758.35,145.37,151.45,147.18]}
+{"kind":"shape","id":"sh/z250napo","slide":35,"name":"椭圆 33","bbox":[772.49,157.66,126.29,122.73]}
+{"kind":"textbox","id":"sh/e1wzu5o3","slide":35,"name":"TextBox 11","text":"结束语","textPreview":"结束语","textChars":3,"textLines":1,"bbox":[779.13,196.29,110.91,42.01]}
+{"kind":"shape","id":"sh/v6l0b6pk","slide":35,"name":"椭圆 37","bbox":[682.26,258.59,38.99,38.99]}
+{"kind":"shape","id":"sh/udgj2lwr","slide":35,"name":"椭圆 43","bbox":[948.25,146.9,23.26,23.26]}
+{"kind":"shape","id":"sh/ih0j65wn","slide":35,"name":"椭圆 47","bbox":[854.08,99.01,23.26,23.26]}
+{"kind":"shape","id":"sh/ji90zax8","slide":35,"name":"椭圆 48","bbox":[925.06,258.59,31.98,31.98]}
+{"kind":"notes","id":"nt/1obmtofm","slide":35,"text":""}
+{"kind":"slide","id":"sl/m9s3ehgf","slide":36,"title":"汇报人：第一PPT","textShapes":4}
+{"kind":"textbox","id":"sh/qtcb2psb","slide":36,"name":"PA_圆角矩形 31","text":"汇报人：第一PPT","textPreview":"汇报人：第一PPT","textChars":9,"textLines":1,"bbox":[212.97,534.17,157.14,34.78]}
+{"kind":"textbox","id":"sh/dwnax4bm","slide":36,"name":"PA_圆角矩形 31","text":"时间：20XX.10","textPreview":"时间：20XX.10","textChars":10,"textLines":1,"bbox":[436.69,534.17,144.15,34.78]}
+{"kind":"textbox","id":"sh/fy5szuts","slide":36,"name":"文本框 7","text":"感谢您的观看","textPreview":"感谢您的观看","textChars":6,"textLines":1,"bbox":[178.07,242.32,455.61,96.94]}
+{"kind":"textbox","id":"sh/exwb69s7","slide":36,"name":"文本框 8","text":"THANK YOU","textPreview":"THANK YOU","textChars":9,"textLines":1,"bbox":[119.85,371.92,572.04,96.94]}
+{"kind":"image","id":"im/fid8vu90","slide":36,"name":"图片 2","bbox":[802.93,81.3,476.04,639.46]}
+{"kind":"notes","id":"nt/m9s3ehgf","slide":36,"text":""}
+{"kind":"slide","id":"sl/jyhsreh4","slide":37,"title":"素材授权/素材来源@包图网","textShapes":2}
+{"kind":"textbox","id":"sh/503qt8z6","slide":37,"name":"矩形 4","text":"素材授权/素材来源@包图网\n本素材仅供学习研究使用。禁止商用、传播、转载。","textPreview":"素材授权/素材来源@包图网 | 本素材仅供学习研究使用。禁止商用、传播、转载。","textChars":37,"textLines":2,"bbox":[269.09,412.92,762.58,92.08]}
+{"kind":"textbox","id":"sh/jyl8ryh0","slide":37,"name":"矩形 6","text":"https://ibaotu.com/ppt/ ","textPreview":"https://ibaotu.com/ppt/","textChars":24,"textLines":1,"bbox":[482.32,294.2,336.12,42.76]}
+{"kind":"image","id":"im/lszih0f2","slide":37,"name":"Picture 2","bbox":[531.79,193.68,237.17,91.46]}
+{"kind":"notes","id":"nt/jyhsreh4","slide":37,"text":""}
+{"kind":"slide","id":"sl/ofahkri5","slide":38,"title":"PPT模板：       www.1ppt.com/moban/                    行业PPT模板：www.1ppt.com/hangye/","textShapes":3}
+{"kind":"textbox","id":"sh/7yp0f6dg","slide":38,"name":"矩形 4","text":"PPT模板：       www.1ppt.com/moban/                    行业PPT模板：www.1ppt.com/hangye/ \n节日PPT模板：www.1ppt.com/jieri/                          PPT素材：       www.1ppt.com/sucai/\nPPT背景图片：www.1ppt.com/beijing/                     PPT图表：       www.1ppt.com/tubiao/      \n优秀PPT下载：www.1ppt.com/xiazai/                       PPT教程：       www.1ppt.com/powerpoint/      \nWord模板：    www.1ppt.com/word/                        Excel模板：     www.1ppt.com/excel/  \n个人简历：      www.1ppt.com/jianli/                         PPT课件：       www.1ppt.com/kejian/ \n手抄报：          www.1ppt.com/shouchaobao/          试题下载：      www.1ppt.com/shiti/  \n教案下载：      www.1ppt.com/jiaoan/                       字体下载：      www.1ppt.com/ziti/              ","textPreview":"PPT模板：       www.1ppt.com/moban/                    行业PPT模板：www.1ppt.com/hangye/  | 节日PPT模板：www.1ppt.com/jieri/                          ...","textChars":711,"textLines":8,"bbox":[322.48,465.84,710.63,226.8]}
+{"kind":"shape","id":"sh/lw7idgva","slide":38,"name":"Rectangle 17","bbox":[160,314.78,960,143.5]}
+{"kind":"textbox","id":"sh/ud0zmxo7","slide":38,"name":"Rectangle 3","text":"可以在下列情况使用\n个人学习、研究。\n拷贝模板中的内容用于其它幻灯片母版中使用。","textPreview":"可以在下列情况使用 | 个人学习、研究。 | 拷贝模板中的内容用于其它幻灯片母版中使用。","textChars":40,"textLines":3,"bbox":[201.61,325.18,430.83,125.54]}
+{"kind":"textbox","id":"sh/hgrihsny","slide":38,"name":"Rectangle 4","text":"不可以在以下情况使用\n任何形式的在线付费下载。\n网络转载、线上线下传播。","textPreview":"不可以在以下情况使用 | 任何形式的在线付费下载。 | 网络转载、线上线下传播。","textChars":36,"textLines":3,"bbox":[640,325.18,430.83,125.54]}
+{"kind":"image","id":"im/36d0jy5c","slide":38,"name":"Picture 3","bbox":[321.69,37.4,621.5,247]}
+{"kind":"image","id":"im/kbi1gjmt","slide":38,"name":"墨迹 6","bbox":[-135.12,66.04,3.78,22.68]}
+{"kind":"notes","id":"nt/ofahkri5","slide":38,"text":""}

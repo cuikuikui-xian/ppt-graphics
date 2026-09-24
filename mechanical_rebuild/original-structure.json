@@ -1,0 +1,30 @@
+{
+  "slideCount": 12,
+  "masters": [
+    {
+      "index": 0,
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "placeholderSummary": [],
+      "elementCount": 0
+    }
+  ],
+  "layouts": [
+    {
+      "index": 0,
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "parentLayoutId": "",
+      "placeholderSummary": [],
+      "elementCount": 0
+    },
+    {
+      "index": 1,
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "placeholderSummary": [],
+      "elementCount": 0
+    }
+  ]
+}

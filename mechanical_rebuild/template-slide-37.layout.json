@@ -1,0 +1,272 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/jyhsreh4",
+    "id": "jyhsreh4",
+    "slide": 37,
+    "layoutId": "/ppt/slideLayouts/slideLayout7.xml",
+    "layoutName": "自定义版式",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster2.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#5B9BD5",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#4472C4",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "微软雅黑",
+      "汉仪中圆简"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout7.xml",
+      "name": "自定义版式",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster2.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster2.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/503qt8z6",
+      "id": "5",
+      "name": "矩形 4",
+      "bbox": [
+        269.09,
+        412.92,
+        762.58,
+        92.08
+      ],
+      "geometry": "rect",
+      "text": "素材授权/素材来源@包图网\n本素材仅供学习研究使用。禁止商用、传播、转载。",
+      "textPreview": "素材授权/素材来源@包图网 | 本素材仅供学习研究使用。禁止商用、传播、转载。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "素材授权/素材来源@包图网"
+          },
+          {
+            "index": 2,
+            "text": "本素材仅供学习研究使用。禁止商用、传播、转载。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "素材授权/素材来源@包图网",
+          "lineSpacingPercent": 110000,
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "素材授权",
+              "fontSize": 32,
+              "typeface": "汉仪中圆简",
+              "color": "#FFC000"
+            },
+            {
+              "index": 2,
+              "text": "/",
+              "fontSize": 32,
+              "typeface": "汉仪中圆简",
+              "color": "#FFC000"
+            },
+            {
+              "index": 3,
+              "text": "素材来源",
+              "fontSize": 32,
+              "typeface": "汉仪中圆简",
+              "color": "#FFC000"
+            },
+            {
+              "index": 4,
+              "text": "@",
+              "fontSize": 32,
+              "typeface": "汉仪中圆简",
+              "color": "#FFC000"
+            },
+            {
+              "index": 5,
+              "text": "包图网",
+              "fontSize": 32,
+              "typeface": "汉仪中圆简",
+              "color": "#FFC000"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "本素材仅供学习研究使用。禁止商用、传播、转载。",
+          "lineSpacingPercent": 110000,
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "本素材仅供学习研究使用。禁止商用、传播、转载。",
+              "fontSize": 32,
+              "typeface": "汉仪中圆简",
+              "color": "#FFC000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/lszih0f2",
+      "id": "8",
+      "name": "Picture 2",
+      "bbox": [
+        531.79,
+        193.68,
+        237.17,
+        91.46
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image71.png",
+        "contentType": "image/png",
+        "byteLength": 9879
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image71.png",
+        "contentType": "image/png",
+        "byteLength": 9879
+      }
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jyl8ryh0",
+      "id": "7",
+      "name": "矩形 6",
+      "bbox": [
+        482.32,
+        294.2,
+        336.12,
+        42.76
+      ],
+      "geometry": "rect",
+      "text": "https://ibaotu.com/ppt/ ",
+      "textPreview": "https://ibaotu.com/ppt/",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "https://ibaotu.com/ppt/"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "https://ibaotu.com/ppt/ ",
+          "lineSpacingPercent": 110000,
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "https://ibaotu.com/ppt/",
+              "fontSize": 26.67,
+              "typeface": "微软雅黑",
+              "color": "#FFC000"
+            },
+            {
+              "index": 2,
+              "text": " ",
+              "fontSize": 26.67,
+              "typeface": "微软雅黑",
+              "color": "#FFC000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}
